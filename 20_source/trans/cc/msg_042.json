@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "450:39",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "450:40",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "450:41",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "450:42",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "450:43",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "450:44",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:0",
+  "jh": "4159a8c2b86d",
+  "eh": "e0ad4029ecf8",
+  "ko": "{PARTY1%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:1",
+  "jh": "2d23e53c4de8",
+  "eh": "e0ad4029ecf8",
+  "ko": "{PARTY1%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:2",
+  "jh": "9ea0afad1aac",
+  "eh": "e0ad4029ecf8",
+  "ko": "{PARTY1%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:3",
+  "jh": "9431678019f1",
+  "eh": "e0ad4029ecf8",
+  "ko": "{PARTY1%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:4",
+  "jh": "a1c44a48e286",
+  "eh": "e0ad4029ecf8",
+  "ko": "{PARTY1%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:5",
+  "jh": "9a4523a9b396",
+  "eh": "b1fe75c2eeb0",
+  "ko": "{PARTY0%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:6",
+  "jh": "493d8b8ce46c",
+  "eh": "b1fe75c2eeb0",
+  "ko": "{PARTY0%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:7",
+  "jh": "064c31ec0827",
+  "eh": "b1fe75c2eeb0",
+  "ko": "{PARTY0%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:8",
+  "jh": "6dc503afc417",
+  "eh": "b1fe75c2eeb0",
+  "ko": "{PARTY0%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:9",
+  "jh": "3f3d5efd1e21",
+  "eh": "b1fe75c2eeb0",
+  "ko": "{PARTY0%}:\\n왜 이렇게\\n조용하지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:10",
+  "jh": "5159a3199053",
+  "eh": "ac7711e27cad",
+  "ko": "{LEEA%}:\\n온다……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:11",
+  "jh": "b4583a267b1e",
+  "eh": "607224860d25",
+  "ko": "{LEEA%}:\\n뭐다!?\\n방금 소리!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:12",
+  "jh": "de6410fa7d3f",
+  "eh": "5dda26d50478",
+  "ko": "{PARTY1%}:\\n……!?\\n{LEEA%}!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:13",
+  "jh": "1a5aa8a89615",
+  "eh": "9d7991114840",
+  "ko": "{PARTY0%}:\\n……!?\\n{LEEA%}!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:14",
+  "jh": "59c4c0c6a1f9",
+  "eh": "e2dbe53363aa",
+  "ko": "{PARTY2%}:\\n……!?\\n{LEEA%}!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:15",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:16",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:17",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:18",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:19",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:20",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "451:21",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:0",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:1",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:2",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:3",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:4",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:5",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:6",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:7",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:8",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:9",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:10",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:11",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:12",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "452:13",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:0",
+  "jh": "10e5dff5c8f6",
+  "eh": "c24630b10aa7",
+  "ko": "프리히스테릭이\\n뭔가를 떨어뜨렸다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:1",
+  "jh": "806cb9ce4c9d",
+  "eh": "bcf2cd915b91",
+  "ko": "{PARTY0%}은(는)\\n프레임 “스네이크 오브”를\\n손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:2",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:3",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:4",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:5",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:6",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:7",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:8",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:9",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:10",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:11",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:12",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:13",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:14",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "453:15",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:0",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:1",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:2",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:3",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:4",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:5",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:6",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:7",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:8",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:9",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:10",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:11",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:12",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:13",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:14",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:15",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:16",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:17",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:18",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:19",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:20",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:21",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:22",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:23",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:24",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:25",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:26",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "454:27",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:0",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:1",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:2",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:3",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:4",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:5",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:6",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:7",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:8",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:9",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:10",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:11",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:12",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "455:13",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:0",
+  "jh": "bb1264b142a8",
+  "eh": "2d01af033ac6",
+  "ko": "{LEEA%}:\\n우가부가!!!\\n저런 놈 여기\\n있는 줄 몰랐다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:1",
+  "jh": "702959514399",
+  "eh": "c75c35aa24b3",
+  "ko": "{LEEA%}:\\n{SERGE%}, 늘\\n저런 놈들이랑\\n싸운다?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:2",
+  "jh": "ab921e7c9d1a",
+  "eh": "32850bcab999",
+  "ko": "{LEEA%}:\\n재밌어 보인다.{bpage}\\n{LEEA%} 정했다.\\n{LEEA%}도 따라간다!\\n괜찮다, {SERGE%}?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:3",
+  "jh": "9e0cd78a414c",
+  "eh": "011b3f674eac",
+  "ko": "{LEEA%}:\\n따라가면\\n아버지 만날지도 모른다.{bpage}\\n그리고 {LEEA%}\\n정해야 할 것 있다.{bpage}\\n그걸 제대로 정하면\\n{LEEA%} 다시\\n마을로 돌아간다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:4",
+  "jh": "7cb91bdf53bb",
+  "eh": "d8c628e1b126",
+  "ko": "{PARTY0%}:\\n{LEEA%}……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:5",
+  "jh": "00ec27779b44",
+  "eh": "5f0ece087241",
+  "ko": "{PARTY1%}:\\n{LEEA%}……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:6",
+  "jh": "af422e4dcd3a",
+  "eh": "e763b02ce9f7",
+  "ko": "{PARTY2%}:\\n{LEEA%}……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:7",
+  "jh": "b9b425769610",
+  "eh": "f97010aa0b05",
+  "ko": "{LEEA%}:\\n우가부가!!!\\n가자!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:8",
+  "jh": "9616533c7025",
+  "eh": "d81eb820122e",
+  "ko": "{LEEA%}이(가) 정식으로 동료가 되었다!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:9",
+  "jh": "b9b425769610",
+  "eh": "f97010aa0b05",
+  "ko": "{LEEA%}:\\n우가부가!!!\\n가자!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:10",
+  "jh": "9ed2decdb896",
+  "eh": "2d01af033ac6",
+  "ko": "{LEEA%}:\\n우가부가!!!\\n저런 놈 여기\\n있는 줄 몰랐다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:11",
+  "jh": "2cb688130dc1",
+  "eh": "82732cb2df07",
+  "ko": "녹룡:\\n그렇구나…… 길고 긴 밤도\\n마침내 끝을 맞이하는구나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:12",
+  "jh": "80ee5b1270ca",
+  "eh": "504e3f2471ad",
+  "ko": "녹룡:\\n조용히 하거라……\\n무슨 소란이냐……?{bpage}\\n응? 그렇군……\\n유물을 찾는 게냐?{bpage}\\n이리 가까이 오거라……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:13",
+  "jh": "ea912631aa68",
+  "eh": "39a6c7753fcc",
+  "ko": "녹룡:\\n자, 그럼 점심이다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:14",
+  "jh": "b3bbbcd2ba4d",
+  "eh": "e90d4eeb0803",
+  "ko": "녹룡:\\n훌륭하구나……{wait(30)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:15",
+  "jh": "e563166cf738",
+  "eh": "4c07eadce62d",
+  "ko": "녹룡:\\n글쎄……\\n이리 오라니까……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "456:16",
+  "jh": "5788a556df37",
+  "eh": "ce5b53de203d",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}초록 유물{color(0)}을 손에 넣었다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:0",
+  "jh": "82345a6af872",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:1",
+  "jh": "429ca568ff33",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 가질 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:2",
+  "jh": "8bc0e6908dae",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 들 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:3",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:4",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:5",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:6",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:7",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:8",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:9",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:10",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:11",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "458:12",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:0",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:1",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:2",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:3",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:4",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:5",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:6",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:7",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:8",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:9",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:10",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:11",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:12",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:13",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:14",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:15",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:16",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:17",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:18",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:19",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "459:20",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:0",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:1",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:2",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:3",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:4",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:5",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:6",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:7",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:8",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:9",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:10",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:11",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:12",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:13",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:14",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:15",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:16",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:17",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:18",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:19",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "460:20",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:0",
+  "jh": "0bebe8c7cd2b",
+  "eh": "707b608f915b",
+  "ko": "{NORRIS%}:\\n어디 보자……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:1",
+  "jh": "df9c299e4de5",
+  "eh": "9dcac16853fd",
+  "ko": "전원이 들어오지 않는다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:2",
+  "jh": "d4803dc77acb",
+  "eh": "c6a57f3cf7f0",
+  "ko": "{NORRIS%}:\\n여기 와서 이상한 일\\n투성이군……{wait(20)}\\n동력원이 아직 살아 있습니다.{bpage}\\n저도 전기 공학 지식은\\n조금 있습니다.{wait(15)}\\n잠시 시간을 주시겠습니까?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:3",
+  "jh": "11667b566697",
+  "eh": "baeb716de3c7",
+  "ko": "{NORRIS%}:\\n{speed(48)}……됐다.{wait(30)}\\n{speed(128)}이제 모니터에 정보가\\n표시될 겁니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:4",
+  "jh": "4d971907610d",
+  "eh": "f708e99fa06f",
+  "ko": "{NORRIS%}:\\n무슨 일입니까?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:5",
+  "jh": "d4803dc77acb",
+  "eh": "c6a57f3cf7f0",
+  "ko": "{NORRIS%}:\\n여기 와서 이상한 일\\n투성이군……{wait(20)}\\n동력원이 아직 살아 있습니다.{bpage}\\n저도 전기 공학 지식은\\n조금 있습니다.{wait(15)}\\n잠시 시간을 주시겠습니까?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:6",
+  "jh": "11667b566697",
+  "eh": "baeb716de3c7",
+  "ko": "{NORRIS%}:\\n{speed(48)}……됐다.{wait(30)}\\n{speed(128)}이제 모니터에 정보가\\n표시될 겁니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:7",
+  "jh": "701e293c8119",
+  "eh": "b10d7d019300",
+  "ko": "{speed(72)}AD 2300년\\n지각 조사 연구 부문 보고서{wait(15)}\\n　\\n　\\n- 제27 지각 조사 보고 -{wait(30)}\\n　\\n[별에 기생하는\\n 이종 생명체]\\n지층 연대 조사 결과 -\\nBC 6500만 년\\n코드 - “라보스”{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:8",
+  "jh": "4132b5bd8bc5",
+  "eh": "41007f7b5c28",
+  "ko": "{NORRIS%}:\\nAD 2300년!?{wait(20)}\\n설마 여기는……\\n미래의 유적인가!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:9",
+  "jh": "4c4cec92fc21",
+  "eh": "b73eb7eb13a3",
+  "ko": "{PARTY2%}:\\n{NORRIS%}?{wait(15)}\\n이 세계에 대한 정보를\\n더 뽑아낼 수 없어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:10",
+  "jh": "50de8be433e7",
+  "eh": "14e2bde1c1b1",
+  "ko": "{NORRIS%}:\\n아,{wait(5)} 네!{wait(10)}\\n잠깐만 기다려 주십시오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:11",
+  "jh": "4132b5bd8bc5",
+  "eh": "41007f7b5c28",
+  "ko": "{NORRIS%}:\\nAD 2300년!?{wait(20)}\\n설마 여기는……\\n미래의 유적인가!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:12",
+  "jh": "cca3dce9d685",
+  "eh": "2cdb05188a74",
+  "ko": "{PARTY1%}:\\n{NORRIS%}?{wait(15)}\\n이 세계에 대한 정보를\\n더 뽑아낼 수 없어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:13",
+  "jh": "50de8be433e7",
+  "eh": "14e2bde1c1b1",
+  "ko": "{NORRIS%}:\\n아,{wait(5)} 네!{wait(10)}\\n잠깐만 기다려 주십시오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:14",
+  "jh": "f74bd32fdf0e",
+  "eh": "0c5651e3e219",
+  "ko": "{speed(72)}땅속 깊이 잠들어 있는 라보스……{wait(15)}\\n라보스가 깨어날 때, 이 별은……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:15",
+  "jh": "8dee36663acc",
+  "eh": "a3f98d319d07",
+  "ko": "{PARTY2%}:\\n무슨 일이야, {NORRIS%}!!?{wait(15)}\\n화면이 왜\\n꺼진 거야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:16",
+  "jh": "81de24bebd47",
+  "eh": "6b53f3e12035",
+  "ko": "{NORRIS%}:\\n……전원 공급이 끊겼습니다.{wait(20)}\\n이래서는 더 이상 정보를\\n뽑아낼 수 없습니다.{bpage}\\n젠장…… 조금만 더 하면\\n“라보스”에 대해\\n알 수 있었을 텐데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:17",
+  "jh": "d65e74a5bf48",
+  "eh": "d45d553e62bd",
+  "ko": "{NORRIS%}:\\n지금은 더 알아낼 수\\n있는 게 없습니다.{wait(15)}\\n앞으로 나아가죠.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:18",
+  "jh": "8dee36663acc",
+  "eh": "a3f98d319d07",
+  "ko": "{PARTY2%}:\\n무슨 일이야, {NORRIS%}!!?{wait(15)}\\n화면이 왜\\n꺼진 거야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:19",
+  "jh": "81de24bebd47",
+  "eh": "6b53f3e12035",
+  "ko": "{NORRIS%}:\\n……전원 공급이 끊겼습니다.{wait(20)}\\n이래서는 더 이상 정보를\\n뽑아낼 수 없습니다.{bpage}\\n젠장…… 조금만 더 하면\\n“라보스”에 대해\\n알 수 있었을 텐데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:20",
+  "jh": "d65e74a5bf48",
+  "eh": "d45d553e62bd",
+  "ko": "{NORRIS%}:\\n지금은 더 알아낼 수\\n있는 게 없습니다.{wait(15)}\\n앞으로 나아가죠.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:26",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:27",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:28",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:29",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:30",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:31",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "461:32",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "462:0",
+  "jh": "a08afe9aa077",
+  "eh": "1cdea5c8ff1c",
+  "ko": "{NORRIS%}:\\n여기가 사해의\\n중심이군요……{bpage}\\n혼란은 여기서 소용돌이처럼\\n퍼져 나간 것 같습니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "462:1",
+  "jh": "d6dad82a5628",
+  "eh": "ff15ffd6080a",
+  "ko": "{PARTY2%}:\\n여기가 사해의\\n중심인가 봐……{bpage}\\n혼란은 여기서\\n퍼져 나간 것\\n같아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "462:2",
+  "jh": "259d1242529d",
+  "eh": "756bc6414dcf",
+  "ko": "{PARTY1%}:\\n여기가 사해의\\n중심인가 봐……{bpage}\\n혼란은 여기서\\n퍼져 나간 것\\n같아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "462:3",
+  "jh": "05e8c8cf2090",
+  "eh": "1aef22e3d2a7",
+  "ko": "{RADIUS%}:\\n건물들이 녹아서\\n하나로 엉겨 붙은\\n것 같구먼.{bpage}\\n\\n대체 이곳에\\n무슨 일이 있었던 겐가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "462:4",
+  "jh": "7113b4b1f12f",
+  "eh": "2943f307c263",
+  "ko": "{PARTY1%}:\\n건물들이 녹아서\\n하나로 엉겨 붙은\\n것 같아.{bpage}\\n대체 여긴\\n어떻게 된 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "462:5",
+  "jh": "4035f6876950",
+  "eh": "857fdffd3b30",
+  "ko": "{PARTY2%}:\\n건물들이 녹아서\\n하나로 엉겨 붙은\\n것 같아.{bpage}\\n대체 여긴\\n어떻게 된 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:0",
+  "jh": "7f86961358b3",
+  "eh": "e3ee5489dcf5",
+  "ko": "{speed(255)}　　　그만둔다\\n　　　3F\\n　　　2F\\n　　　1F{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:1",
+  "jh": "82345a6af872",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:2",
+  "jh": "429ca568ff33",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 가질 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:3",
+  "jh": "8bc0e6908dae",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 들 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:4",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:5",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:6",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:7",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:8",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:9",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:10",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:11",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:12",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:13",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:14",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:15",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:16",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:17",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:18",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:19",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "463:20",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:0",
+  "jh": "2c07cee8075b",
+  "eh": "9bc04d34bdc9",
+  "ko": "{speed(48)}이제-시간이다…… 가야-한다……{wait(5)}\\n열차를-놓친다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:1",
+  "jh": "8374dfe3c6a4",
+  "eh": "eae519b3e0ee",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 주웠다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:2",
+  "jh": "96b0e94759d4",
+  "eh": "e85c0b066940",
+  "ko": "땅에 뭔가 떨어져 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:3",
+  "jh": "a27acf259bee",
+  "eh": "ff9e5852b25d",
+  "ko": "아리스-돔-지정\\n{color(4)}{itemwork(3)}{color(0)}을(를)\\n제시해-주십시오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:4",
+  "jh": "5edc8c8916d4",
+  "eh": "cfe005f18ac6",
+  "ko": "미끄러워서\\n덕트 안으로 나아갈 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:5",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:6",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:7",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:8",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:9",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:10",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:11",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:12",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:13",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:14",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:15",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:16",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:17",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "464:18",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "465:0",
+  "jh": "268f50589302",
+  "eh": "a89d937451cc",
+  "ko": "{PARTY2%}:\\n왜 그래,\\n{SERGE%}?\\n뭔가 느꼈어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "465:1",
+  "jh": "0177778d81ed",
+  "eh": "3f2912624d7a",
+  "ko": "{PARTY1%}:\\n괜찮아?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "465:2",
+  "jh": "c70684e01f06",
+  "eh": "c4ea988ba7d8",
+  "ko": "{PARTY1%}:\\n{speed(64)}뭐……?{wait(15)} 아이를 봤다고?{wait(45)}\\n{speed(96)}아이 같은 건\\n어디에도 없었는데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "465:3",
+  "jh": "b101295088d3",
+  "eh": "fa553e64e690",
+  "ko": "　!?　{wend(20)}",
+  "status": "draft",
+  "note": ""
+ }
+]

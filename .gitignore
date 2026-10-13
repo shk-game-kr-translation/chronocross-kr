@@ -23,8 +23,11 @@ __pycache__/
 .claude/
 # working batches (already merged into 20_source/trans) and local agent hooks
 20_source/batches/
+20_source/batches_cc/
 tools/allow_hook.py
 tools/install_hook.py
 tools/install_automode.py
 20_source/fonts/nanummyeongjo/NanumMyeongjo-Bold.ttf
 20_source/fonts/nanummyeongjo/NanumMyeongjo-Regular.ttf
+20_source/fonts/nanumsquareround/NanumSquareRoundB.ttf
+20_source/fonts/nanumsquareround/NanumSquareRoundR.ttf

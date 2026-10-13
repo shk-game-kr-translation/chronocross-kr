@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "161:71",
+  "jh": "a4ca470afbda",
+  "eh": "39e0d9ce9b49",
+  "ko": "　　　누른다\\n　　　누르지 않는다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:72",
+  "jh": "c23bb2b26766",
+  "eh": "1802607e717d",
+  "ko": "{NIKKI%}:\\n기다려!\\n돌아와, {MARCY%}!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:73",
+  "jh": "fe592a1928d4",
+  "eh": "f58eb7cfe550",
+  "ko": "아래로 내려가는\\n문을 찾았다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:74",
+  "jh": "15102dc385d5",
+  "eh": "5ae812886041",
+  "ko": "　　　내려가 본다\\n　　　그만둔다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:127",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:128",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:129",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:130",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:131",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:132",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161:133",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:0",
+  "jh": "4a09084ae12b",
+  "eh": "f11b3d091757",
+  "ko": "야마네코:\\n왜 그러나, 쥐새끼들.\\n더는 도망칠 곳이 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:1",
+  "jh": "a520a3b5ddcb",
+  "eh": "b819a3992020",
+  "ko": "{KID%}:\\n젠장!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:2",
+  "jh": "b48eed9fce3c",
+  "eh": "3d6a5db63e38",
+  "ko": "{VIPER%}:\\n거래를 하지.{wend(80)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:3",
+  "jh": "3a34a9b3c4d3",
+  "eh": "a15595d09565",
+  "ko": "{VIPER%}:\\n딸을 놓아주면\\n목숨은 살려 주마.{bpage}\\n어떤가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:4",
+  "jh": "38b9ad1f332f",
+  "eh": "e5245ef2c13a",
+  "ko": "{KID%}:\\n흥!\\n그걸 누가\\n믿냐!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:5",
+  "jh": "77c1fb6624de",
+  "eh": "843404911c64",
+  "ko": "야마네코:\\n거기서 뛰어내리기라도\\n하겠다는 건가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:6",
+  "jh": "d938310f388c",
+  "eh": "0f8473ce7d33",
+  "ko": "{KID%}:\\n위험해!!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:7",
+  "jh": "6866259f62b4",
+  "eh": "8b1db2a88b39",
+  "ko": "{KID%}:\\n윽!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:8",
+  "jh": "4a09084ae12b",
+  "eh": "f11b3d091757",
+  "ko": "야마네코:\\n왜 그러나, 쥐새끼들.\\n더는 도망칠 곳이 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:9",
+  "jh": "a520a3b5ddcb",
+  "eh": "b819a3992020",
+  "ko": "{KID%}:\\n젠장!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:10",
+  "jh": "b48eed9fce3c",
+  "eh": "3d6a5db63e38",
+  "ko": "{VIPER%}:\\n거래를 하지.{wend(80)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:11",
+  "jh": "3a34a9b3c4d3",
+  "eh": "a15595d09565",
+  "ko": "{VIPER%}:\\n딸을 놓아주면\\n목숨은 살려 주마.{bpage}\\n어떤가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:12",
+  "jh": "38b9ad1f332f",
+  "eh": "74cd3cf3caae",
+  "ko": "{KID%}:\\n흥!\\n못 믿어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:13",
+  "jh": "77c1fb6624de",
+  "eh": "843404911c64",
+  "ko": "야마네코:\\n거기서 뛰어내리기라도\\n하겠다는 건가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:14",
+  "jh": "d938310f388c",
+  "eh": "0f8473ce7d33",
+  "ko": "{KID%}:\\n위험해!!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162:15",
+  "jh": "6866259f62b4",
+  "eh": "8b1db2a88b39",
+  "ko": "{KID%}:\\n윽!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "163:0",
+  "jh": "8be79dce0c9a",
+  "eh": "e5f787fb501b",
+  "ko": "한판 붙을 생각으로\\n왔는데,{bpage}\\n아무도 없으니\\n김이 새는군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "163:1",
+  "jh": "f33099327222",
+  "eh": "68f43a032029",
+  "ko": "안쪽에서 잠겨\\n있는 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:0",
+  "jh": "0cdcff86838c",
+  "eh": "b1202506a286",
+  "ko": "{LUCCIA%}:\\n이 꽃은 말이지, 인형 식물\\n“{NEOFIO%}”라고 해.{bpage}\\n자라면 사람처럼\\n돌아다닌단다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:1",
+  "jh": "02a340a40684",
+  "eh": "0741e33ed146",
+  "ko": "{LUCCIA%}:\\n게다가 이건 평범한\\n{NEOFIO%}가 아니야.{bpage}\\n엘레멘트를 쓸 수 있게 한\\n강화형이지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:2",
+  "jh": "2cca5fea111e",
+  "eh": "ce77dc728e35",
+  "ko": "{LUCCIA%}:\\n물론 내가\\n개량했단다.\\n오호호호호.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:3",
+  "jh": "17cc9311804c",
+  "eh": "0e09283fe717",
+  "ko": "{LUCCIA%}:\\n꽃을 피우면 동료로\\n삼을 수 있지만,{bpage}\\n그러려면 “생명의 빛”이\\n필요해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:4",
+  "jh": "65cf6e014420",
+  "eh": "3995cd83e4ae",
+  "ko": "{LUCCIA%}:\\n생명의 빛이 아르니 마을\\n동쪽 늪에 있다는 건\\n알아냈어.{bpage}\\n그래서 우리 기사들을\\n보냈는데,{bpage}\\n아무도 돌아오지 않았지……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:5",
+  "jh": "4a44b5bd3459",
+  "eh": "df70de2c3804",
+  "ko": "{LUCCIA%}:\\n안타깝지만 더 이상 희생을\\n낼 수는 없으니……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:6",
+  "jh": "0f73a1bc9b78",
+  "eh": "e1839bae4db3",
+  "ko": "{LUCCIA%}:\\n너희도 목숨이 아깝다면\\n그 늪엔 가까이 가지 마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:7",
+  "jh": "0cdcff86838c",
+  "eh": "b1202506a286",
+  "ko": "{LUCCIA%}:\\n이 꽃은 말이지, 인형 식물\\n“{NEOFIO%}”라고 해.{bpage}\\n자라면 사람처럼\\n돌아다닌단다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:8",
+  "jh": "02a340a40684",
+  "eh": "0741e33ed146",
+  "ko": "{LUCCIA%}:\\n게다가 이건 평범한\\n{NEOFIO%}가 아니야.{bpage}\\n엘레멘트를 쓸 수 있게 한\\n강화형이지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:9",
+  "jh": "2cca5fea111e",
+  "eh": "ce77dc728e35",
+  "ko": "{LUCCIA%}:\\n물론 내가\\n개량했단다.\\n오호호호호.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:10",
+  "jh": "17cc9311804c",
+  "eh": "0e09283fe717",
+  "ko": "{LUCCIA%}:\\n꽃을 피우면 동료로\\n삼을 수 있지만,{bpage}\\n그러려면 “생명의 빛”이\\n필요해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:11",
+  "jh": "65cf6e014420",
+  "eh": "3995cd83e4ae",
+  "ko": "{LUCCIA%}:\\n생명의 빛이 아르니 마을\\n동쪽 늪에 있다는 건\\n알아냈어.{bpage}\\n그래서 우리 기사들을\\n보냈는데,{bpage}\\n아무도 돌아오지 않았지……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:12",
+  "jh": "4a44b5bd3459",
+  "eh": "df70de2c3804",
+  "ko": "{LUCCIA%}:\\n안타깝지만 더 이상 희생을\\n낼 수는 없으니……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:13",
+  "jh": "85b719dc7b67",
+  "eh": "322698b573c1",
+  "ko": "{LUCCIA%}:\\n너희도 목숨이 아깝다면\\n그 늪엔 가까이\\n가지 마……{bpage}\\n잠깐! 너희가\\n갖고 있는 그거,\\n생명의 빛 아니니!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:14",
+  "jh": "fbe128f0df7b",
+  "eh": "7a524fd08bb8",
+  "ko": "{LUCCIA%}:\\n대체 어떤 아이들이길래\\n그 늪에서 무사히\\n돌아온 거지……{bpage}\\n어서 {NEOFIO%}에게\\n줘 보렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:15",
+  "jh": "7512b2f14841",
+  "eh": "368664a16313",
+  "ko": "{LUCCIA%}:\\n너희, 나중에 내\\n연구실로 오렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:16",
+  "jh": "7512b2f14841",
+  "eh": "368664a16313",
+  "ko": "{LUCCIA%}:\\n너희, 나중에 내\\n연구실로 오렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:17",
+  "jh": "f2f96b5299e2",
+  "eh": "3f28af27a33d",
+  "ko": "{TURNIP%}:\\n{NEOFIO%},\\n여기 잠깐\\n들어가도 되다무?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:18",
+  "jh": "a8e39649da26",
+  "eh": "c3b3c8e3f9f4",
+  "ko": "{NEOFIO%}:\\n응!\\n좋아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:19",
+  "jh": "ee1a0b7add4b",
+  "eh": "66a30eafe815",
+  "ko": "{TURNIP%}:\\n우~~\\n이거 잘 듣다무~~!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:20",
+  "jh": "276e4cf92104",
+  "eh": "4a79f83ed907",
+  "ko": "{TURNIP%}:\\n크~~!\\n왔다, 왔다, 왔다~~!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:21",
+  "jh": "eb802dec5845",
+  "eh": "470f77adac5e",
+  "ko": "놀랍게도 {TURNIP%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 터득했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:22",
+  "jh": "a73bfb5c51f6",
+  "eh": "5f4ec0805957",
+  "ko": "{NEOFIO%}:\\n나도 가끔은\\n데려가 줘~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:23",
+  "jh": "a73bfb5c51f6",
+  "eh": "5f4ec0805957",
+  "ko": "{NEOFIO%}:\\n나도 가끔은\\n데려가 줘~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:24",
+  "jh": "08fff7ecb8c0",
+  "eh": "8854226847b8",
+  "ko": "{NEOFIO%}:\\n싫어!\\n이 사람 무서워!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:25",
+  "jh": "a73bfb5c51f6",
+  "eh": "5f4ec0805957",
+  "ko": "{NEOFIO%}:\\n나도 가끔은\\n데려가 줘~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:26",
+  "jh": "dabe16bbec28",
+  "eh": "91092d315a9c",
+  "ko": "{NEOFIO%}:\\n나를 데려가 줘~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:27",
+  "jh": "2ce0a2fc2f96",
+  "eh": "bb914ecda9d8",
+  "ko": "{NEOFIO%}:\\n꺄호~!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:28",
+  "jh": "ff89b0646fa2",
+  "eh": "ffe8b6021679",
+  "ko": "{NEOFIO%}:\\n안녕!{bpage}\\n나는 꽃의 아이,\\n{NEOFIO%}.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:29",
+  "jh": "c939e0108d85",
+  "eh": "8ccab86f5108",
+  "ko": "{NEOFIO%}:\\n당신이 나의\\n주인님이군요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:30",
+  "jh": "8e7ddf0178b1",
+  "eh": "dfe4690bc9c0",
+  "ko": "{NEOFIO%}:\\n잘 부탁해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:31",
+  "jh": "4afee96d3681",
+  "eh": "56de9f8020f4",
+  "ko": "{NEOFIO%}:\\n{LUCCIA%} 씨, 저를 여기까지\\n키워 주셔서\\n정말 고맙습니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:32",
+  "jh": "33ac595165e1",
+  "eh": "c48fb22a2198",
+  "ko": "{NEOFIO%}:\\n저는 이 사람들을\\n따라갈게요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:33",
+  "jh": "0b988b5751d2",
+  "eh": "d6be20121d39",
+  "ko": "{NEOFIO%}이(가) 동료가 되었다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:34",
+  "jh": "e0ac1815c961",
+  "eh": "cff9b2901c4d",
+  "ko": "{TURNIP%}:\\n{NEOFIO%},\\n그 안에 잠깐\\n들어가도 되다무?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:35",
+  "jh": "b6f755677b23",
+  "eh": "b6d417b54f44",
+  "ko": "{NEOFIO%}:\\n지금 내가 들어가 있잖아.{bpage}\\n순, 서, 대, 로.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:36",
+  "jh": "f788902da99c",
+  "eh": "046b48becc99",
+  "ko": "응?\\n여기 피어 있던\\n꽃이 어디 갔지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:37",
+  "jh": "4826004d7014",
+  "eh": "943256055ea2",
+  "ko": "꼬, 꽃이 살아 있어……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:38",
+  "jh": "4826004d7014",
+  "eh": "943256055ea2",
+  "ko": "꼬, 꽃이 살아 있어……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:39",
+  "jh": "b8bd5f70c42a",
+  "eh": "b5f2839bbd34",
+  "ko": "사, 살아 있는 꽃이라니.{bpage}\\n자, 잡아먹진 않겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:40",
+  "jh": "0fa72895aa27",
+  "eh": "9fc608634ef8",
+  "ko": "이 꽃,\\n꼭 생물 같아……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:41",
+  "jh": "4826004d7014",
+  "eh": "943256055ea2",
+  "ko": "꼬, 꽃이 살아 있어……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:42",
+  "jh": "e8b9fcf3416f",
+  "eh": "8bf57ebfd8a4",
+  "ko": "이 변방의 엘니도에 사람이\\n살기 시작한 지 100년인가……{bpage}\\n여기도 많이 변했지만\\n바다는 언제나 그대로군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:95",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:96",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:97",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:98",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:99",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:100",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164:101",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:0",
+  "jh": "d8de98f8e828",
+  "eh": "af83463b7592",
+  "ko": "{KID%}:\\n음!\\n이건……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:1",
+  "jh": "d4fc9aec6bc8",
+  "eh": "650946b077c5",
+  "ko": "{KID%}:\\n아냐……\\n얼어붙은 불꽃은\\n아닌 것 같네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:2",
+  "jh": "4746e5908a27",
+  "eh": "a7d7db6779da",
+  "ko": "{KID%}:\\n다른 쓸 만한 물건도\\n없는 것 같고,{bpage}\\n이렇게 된 이상\\n본인한테 직접\\n물어보는 수밖에.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:3",
+  "jh": "b3403bf04daa",
+  "eh": "9615d7d022c4",
+  "ko": "{speed(255)}{KID%}:\\n……!!{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:4",
+  "jh": "dcef5bd6b6a8",
+  "eh": "ae909f168076",
+  "ko": "대좌:\\n흠, 용케도 여기까지\\n숨어들었군.{bpage}\\n그래, 자네들은\\n대체 누구인가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:5",
+  "jh": "c6ca26d8ec0d",
+  "eh": "e987b707e89b",
+  "ko": "{KID%}:\\n네가 {VIPER%} 대좌냐?{bpage}\\n시치미 떼지 마!{bpage}\\n왜 {SERGE%}한테\\n부하 기사들을 보냈어!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:6",
+  "jh": "127a86e4e7aa",
+  "eh": "c070a6b5927f",
+  "ko": "{VIPER%}:\\n{SERGE%}……?\\n기사들을……?{bpage}\\n미안하지만 아가씨,\\n무슨 말인지\\n전혀 모르겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:7",
+  "jh": "21477bade34b",
+  "eh": "fe3d7245c822",
+  "ko": "수상한 남자:\\n대좌, 그 쥐새끼들은\\n아무래도 내 손님인\\n모양이오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:8",
+  "jh": "4b266f216fd0",
+  "eh": "969432606ae7",
+  "ko": "수상한 남자:\\n제 발로 찾아와 주다니,\\n찾으러 갈 수고를\\n덜었군!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:9",
+  "jh": "40329632f8ac",
+  "eh": "a6f91bb6cb6c",
+  "ko": "{KID%}:\\n야마네코!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:10",
+  "jh": "bb7c7554a98b",
+  "eh": "4e3e08ed5a5e",
+  "ko": "야마네코:\\n흠……?\\n계집, 너는……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:11",
+  "jh": "501237935e34",
+  "eh": "960b6ae9621a",
+  "ko": "{KID%}:\\n왜, 말문이 막혔냐!?{bpage}\\n드디어 꼬리를 잡았다,\\n야마네코!{bpage}\\n두 가지를 받으러 왔어.\\n얼어붙은 불꽃과\\n네 목숨을, 이 살인마야!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:12",
+  "jh": "f25d998efd18",
+  "eh": "7f56a616d069",
+  "ko": "야마네코:\\n그렇군……\\n그럼 네가 {KID%}로군.{bpage}\\n래디컬 드리머즈라 불리며\\n두려움을 사는\\n도적이란 말이지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:13",
+  "jh": "0b49658192e5",
+  "eh": "2a760172eb46",
+  "ko": "{VIPER%}:\\n래디컬 드리머즈……?\\n이 아가씨가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:14",
+  "jh": "c5bd9cde5555",
+  "eh": "3970210fcfbd",
+  "ko": "야마네코:\\n그렇소!{bpage}\\n순진한 얼굴에\\n속지 마시오, 대좌.{bpage}\\n무시무시한 계집이오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:15",
+  "jh": "021efa3a2db6",
+  "eh": "468175937d1d",
+  "ko": "{KID%}:\\n하!\\n“무시무시”하다고!?{bpage}\\n웃기지 마!{bpage}\\n네가 한 짓을 생각하면!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:16",
+  "jh": "3b1a74a3c550",
+  "eh": "918909429f07",
+  "ko": "야마네코:\\n실망시켜 미안하지만\\n얼어붙은 불꽃은\\n여기 없다.{bpage}\\n그 불꽃은 잠들어 있지.\\n과거와 미래가 교차하는\\n신의 정원에서.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:17",
+  "jh": "67fa2b55bad2",
+  "eh": "e210f616b8a1",
+  "ko": "{KID%}:\\n흥, 그러셔……\\n그럼 그 건은 나중으로\\n미뤄 두지.{bpage}\\n하지만 우선……\\n넌 여기서 죽어라,\\n야마네코!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:18",
+  "jh": "a028519d8820",
+  "eh": "e90b6f446838",
+  "ko": "{KID%}:\\n칫……!\\n이 녀석,\\n그림자였어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:19",
+  "jh": "b3c8a04d7e15",
+  "eh": "3e37723f3608",
+  "ko": "야마네코:\\n다짜고짜 미친개를\\n상대할 만큼\\n나도 바보는 아니라서.{bpage}\\n너희 따위는\\n내 그림자들로\\n충분하다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:20",
+  "jh": "e0d55cc857c9",
+  "eh": "97180485fbd2",
+  "ko": "야마네코:\\n{SERGE%},\\n너는 이 세계에\\n무엇을 바라지?{bpage}\\n살고 싶은가?{bpage}\\n없던 일로\\n하고 싶은가,\\n자신의 죽음을?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:21",
+  "jh": "d4d4fd6ad7e4",
+  "eh": "abddb3496e23",
+  "ko": "{KID%}:\\n왜 그래, {SERGE%}!?{wait(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:22",
+  "jh": "4d920476bb74",
+  "eh": "b14e5fe56bfa",
+  "ko": "야마네코:\\n잘 들어라.\\n인간의 세상은 머지않아\\n종말을 맞는다.{bpage}\\n그때 {SERGE%}, 너는\\n세계의 적이 되고\\n세계는 너의 적이 된다.{bpage}\\n추측도 예상도 아니다.\\n그것은 역사다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:23",
+  "jh": "533d9c5668d2",
+  "eh": "00744b1873e8",
+  "ko": "{KID%}:\\n크……!\\n위험한데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:24",
+  "jh": "4e7221816049",
+  "eh": "3cf9f7c3c1ec",
+  "ko": "야마네코:\\n도망칠 수 없다.{bpage}\\n너희에게는\\n묻고 싶은 게……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:25",
+  "jh": "86c2e91afdf9",
+  "eh": "93934195b1db",
+  "ko": "{RIDDEL%}:\\n아버님, 이번\\n항해 말인데요……{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:26",
+  "jh": "81120cbb586b",
+  "eh": "feb101e441ad",
+  "ko": "{RIDDEL%}:\\n앗!?{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:27",
+  "jh": "e28a9594a72c",
+  "eh": "ff6a3f03989a",
+  "ko": "{KID%}:\\n너희, 이 여자 목숨이\\n아깝거든\\n꼼짝 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:28",
+  "jh": "9f354c7a1861",
+  "eh": "538e0f8aa60a",
+  "ko": "{RIDDEL%}:\\n다, 당신은……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:29",
+  "jh": "69d64d1c85a1",
+  "eh": "fe64200cc72c",
+  "ko": "{VIPER%}:\\n{RIDDEL%}!!!\\n크윽…… 비겁한!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:30",
+  "jh": "29af03670290",
+  "eh": "017c78f833ee",
+  "ko": "{KID%}:\\n닥쳐, 영감!{bpage}\\n이쪽은 목숨이 걸렸어!\\n비겁이고 나발이고\\n없다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:31",
+  "jh": "e832f9671f70",
+  "eh": "da478f12f8ef",
+  "ko": "{KID%}:\\n얌전히 있으면\\n아무 짓도 안 해.{bpage}\\n안전한 데까지\\n같이 가 줘야겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:32",
+  "jh": "a46a2847cd4e",
+  "eh": "3c6a7e20104a",
+  "ko": "{KID%}:\\n{SERGE%},\\n괜찮아?\\n가자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:33",
+  "jh": "d8de98f8e828",
+  "eh": "af83463b7592",
+  "ko": "{KID%}:\\n음!\\n이건……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:34",
+  "jh": "d4fc9aec6bc8",
+  "eh": "fc425871a9f4",
+  "ko": "{KID%}:\\n아냐.\\n얼어붙은 불꽃은\\n아닌 것 같네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:35",
+  "jh": "95653ccdb94f",
+  "eh": "3fae1e7489c2",
+  "ko": "{KID%}:\\n다른 쓸 만한 물건도\\n없는 것 같네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:36",
+  "jh": "25295692676a",
+  "eh": "508a31d72941",
+  "ko": "이렇게 된 이상 본인한테\\n직접 물어보는 수밖에.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:37",
+  "jh": "b3403bf04daa",
+  "eh": "9615d7d022c4",
+  "ko": "{speed(255)}{KID%}:\\n……!!{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:38",
+  "jh": "dcef5bd6b6a8",
+  "eh": "ae909f168076",
+  "ko": "대좌:\\n흠, 용케도 여기까지\\n숨어들었군.{bpage}\\n그래, 자네들은\\n대체 누구인가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:39",
+  "jh": "c6ca26d8ec0d",
+  "eh": "e987b707e89b",
+  "ko": "{KID%}:\\n네가 {VIPER%} 대좌냐?{bpage}\\n시치미 떼지 마!{bpage}\\n왜 {SERGE%}한테\\n부하 기사들을 보냈어!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:40",
+  "jh": "127a86e4e7aa",
+  "eh": "c070a6b5927f",
+  "ko": "{VIPER%}:\\n{SERGE%}……?\\n기사들을……?{bpage}\\n미안하지만 아가씨,\\n무슨 말인지\\n전혀 모르겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:41",
+  "jh": "21477bade34b",
+  "eh": "fe3d7245c822",
+  "ko": "수상한 남자:\\n대좌, 그 쥐새끼들은\\n아무래도 내 손님인\\n모양이오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:42",
+  "jh": "4b266f216fd0",
+  "eh": "969432606ae7",
+  "ko": "수상한 남자:\\n제 발로 찾아와 주다니,\\n찾으러 갈 수고를\\n덜었군!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:43",
+  "jh": "40329632f8ac",
+  "eh": "a6f91bb6cb6c",
+  "ko": "{KID%}:\\n야마네코!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:44",
+  "jh": "bb7c7554a98b",
+  "eh": "4e3e08ed5a5e",
+  "ko": "야마네코:\\n흠……?\\n계집, 너는……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:45",
+  "jh": "501237935e34",
+  "eh": "ccef607a1d0f",
+  "ko": "{KID%}:\\n왜, 말문이 막혔냐!?{bpage}\\n드디어 꼬리를 잡았다,\\n야마네코!{bpage}\\n두 가지를 받으러 왔어.\\n얼어붙은 불꽃과\\n네 목숨을, 이 살인마야!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:46",
+  "jh": "f25d998efd18",
+  "eh": "7f56a616d069",
+  "ko": "야마네코:\\n그렇군……\\n그럼 네가 {KID%}로군.{bpage}\\n래디컬 드리머즈라 불리며\\n두려움을 사는\\n도적이란 말이지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:47",
+  "jh": "0b49658192e5",
+  "eh": "2a760172eb46",
+  "ko": "{VIPER%}:\\n래디컬 드리머즈……?\\n이 아가씨가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:48",
+  "jh": "c5bd9cde5555",
+  "eh": "3970210fcfbd",
+  "ko": "야마네코:\\n그렇소!{bpage}\\n순진한 얼굴에\\n속지 마시오, 대좌.{bpage}\\n무시무시한 계집이오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:49",
+  "jh": "021efa3a2db6",
+  "eh": "468175937d1d",
+  "ko": "{KID%}:\\n하!\\n“무시무시”하다고!?{bpage}\\n웃기지 마!{bpage}\\n네가 한 짓을 생각하면!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:50",
+  "jh": "3b1a74a3c550",
+  "eh": "546edc36e25d",
+  "ko": "야마네코:\\n실망시켜 미안하지만\\n얼어붙은 불꽃은\\n여기 없다.{bpage}\\n그 불꽃은 잠들어 있지.\\n과거와 미래가 교차하는\\n신의 정원에서……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:51",
+  "jh": "67fa2b55bad2",
+  "eh": "e210f616b8a1",
+  "ko": "{KID%}:\\n흥, 그러셔……\\n그럼 그 건은 나중으로\\n미뤄 두지.{bpage}\\n하지만 우선……\\n넌 여기서 죽어라,\\n야마네코!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:52",
+  "jh": "5f53b6e18c0f",
+  "eh": "a9fdcdaf2d53",
+  "ko": "야마네코:\\n훗!\\n너에겐 볼일 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:53",
+  "jh": "6a7f659f5650",
+  "eh": "d4f65e3a3db1",
+  "ko": "{KID%}:\\n{SERGE%}!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:54",
+  "jh": "a028519d8820",
+  "eh": "e90b6f446838",
+  "ko": "{KID%}:\\n칫……!\\n이 녀석,\\n그림자였어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:55",
+  "jh": "b3c8a04d7e15",
+  "eh": "3e37723f3608",
+  "ko": "야마네코:\\n다짜고짜 미친개를\\n상대할 만큼\\n나도 바보는 아니라서.{bpage}\\n너희 따위는\\n내 그림자들로\\n충분하다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:56",
+  "jh": "e0d55cc857c9",
+  "eh": "97180485fbd2",
+  "ko": "야마네코:\\n{SERGE%},\\n너는 이 세계에\\n무엇을 바라지?{bpage}\\n살고 싶은가?{bpage}\\n없던 일로\\n하고 싶은가,\\n자신의 죽음을?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:57",
+  "jh": "7aad48611012",
+  "eh": "abddb3496e23",
+  "ko": "{KID%}:\\n왜 그래, {SERGE%}!?{wait(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:58",
+  "jh": "4d920476bb74",
+  "eh": "b14e5fe56bfa",
+  "ko": "야마네코:\\n잘 들어라.\\n인간의 세상은 머지않아\\n종말을 맞는다.{bpage}\\n그때 {SERGE%}, 너는\\n세계의 적이 되고\\n세계는 너의 적이 된다.{bpage}\\n추측도 예상도 아니다.\\n그것은 역사다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:59",
+  "jh": "533d9c5668d2",
+  "eh": "00744b1873e8",
+  "ko": "{KID%}:\\n크……!\\n위험한데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:60",
+  "jh": "4e7221816049",
+  "eh": "3cf9f7c3c1ec",
+  "ko": "야마네코:\\n도망칠 수 없다.{bpage}\\n너희에게는\\n묻고 싶은 게……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:61",
+  "jh": "86c2e91afdf9",
+  "eh": "93934195b1db",
+  "ko": "{RIDDEL%}:\\n아버님, 이번\\n항해 말인데요……{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:62",
+  "jh": "81120cbb586b",
+  "eh": "feb101e441ad",
+  "ko": "{RIDDEL%}:\\n앗!?{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:63",
+  "jh": "e28a9594a72c",
+  "eh": "01e3eea40fe7",
+  "ko": "{KID%}:\\n너희, 이 여자 목숨이\\n아깝거든\\n꼼짝 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:64",
+  "jh": "9f354c7a1861",
+  "eh": "538e0f8aa60a",
+  "ko": "{RIDDEL%}:\\n다, 당신은……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:65",
+  "jh": "69d64d1c85a1",
+  "eh": "fe64200cc72c",
+  "ko": "{VIPER%}:\\n{RIDDEL%}!!!\\n크윽…… 비겁한!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:66",
+  "jh": "29af03670290",
+  "eh": "017c78f833ee",
+  "ko": "{KID%}:\\n닥쳐, 영감!{bpage}\\n이쪽은 목숨이 걸렸어!\\n비겁이고 나발이고\\n없다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:67",
+  "jh": "e832f9671f70",
+  "eh": "da478f12f8ef",
+  "ko": "{KID%}:\\n얌전히 있으면\\n아무 짓도 안 해.{bpage}\\n안전한 데까지\\n같이 가 줘야겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:68",
+  "jh": "a46a2847cd4e",
+  "eh": "3c6a7e20104a",
+  "ko": "{KID%}:\\n{SERGE%},\\n괜찮아?\\n가자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:69",
+  "jh": "a028519d8820",
+  "eh": "e90b6f446838",
+  "ko": "{KID%}:\\n칫……!\\n이 녀석,\\n그림자였어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:70",
+  "jh": "b3c8a04d7e15",
+  "eh": "3e37723f3608",
+  "ko": "야마네코:\\n다짜고짜 미친개를\\n상대할 만큼\\n나도 바보는 아니라서.{bpage}\\n너희 따위는\\n내 그림자들로\\n충분하다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:71",
+  "jh": "e0d55cc857c9",
+  "eh": "97180485fbd2",
+  "ko": "야마네코:\\n{SERGE%},\\n너는 이 세계에\\n무엇을 바라지?{bpage}\\n살고 싶은가?{bpage}\\n없던 일로\\n하고 싶은가,\\n자신의 죽음을?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:72",
+  "jh": "77b6068eed96",
+  "eh": "e3984f044f68",
+  "ko": "{KID%}:\\n왜 그래, {SERGE%}!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:73",
+  "jh": "4d920476bb74",
+  "eh": "b14e5fe56bfa",
+  "ko": "야마네코:\\n잘 들어라.\\n인간의 세상은 머지않아\\n종말을 맞는다.{bpage}\\n그때 {SERGE%}, 너는\\n세계의 적이 되고\\n세계는 너의 적이 된다.{bpage}\\n추측도 예상도 아니다.\\n그것은 역사다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:74",
+  "jh": "533d9c5668d2",
+  "eh": "00744b1873e8",
+  "ko": "{KID%}:\\n크……!\\n위험한데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:75",
+  "jh": "4e7221816049",
+  "eh": "3cf9f7c3c1ec",
+  "ko": "야마네코:\\n도망칠 수 없다.{bpage}\\n너희에게는\\n묻고 싶은 게……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:76",
+  "jh": "86c2e91afdf9",
+  "eh": "93934195b1db",
+  "ko": "{RIDDEL%}:\\n아버님, 이번\\n항해 말인데요……{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:77",
+  "jh": "81120cbb586b",
+  "eh": "feb101e441ad",
+  "ko": "{RIDDEL%}:\\n앗!?{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:78",
+  "jh": "e28a9594a72c",
+  "eh": "01e3eea40fe7",
+  "ko": "{KID%}:\\n너희, 이 여자 목숨이\\n아깝거든\\n꼼짝 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:79",
+  "jh": "9f354c7a1861",
+  "eh": "538e0f8aa60a",
+  "ko": "{RIDDEL%}:\\n다, 당신은……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:80",
+  "jh": "69d64d1c85a1",
+  "eh": "fe64200cc72c",
+  "ko": "{VIPER%}:\\n{RIDDEL%}!!!\\n크윽…… 비겁한!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:81",
+  "jh": "29af03670290",
+  "eh": "017c78f833ee",
+  "ko": "{KID%}:\\n닥쳐, 영감!{bpage}\\n이쪽은 목숨이 걸렸어!\\n비겁이고 나발이고\\n없다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:82",
+  "jh": "e832f9671f70",
+  "eh": "da478f12f8ef",
+  "ko": "{KID%}:\\n얌전히 있으면\\n아무 짓도 안 해.{bpage}\\n안전한 데까지\\n같이 가 줘야겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:83",
+  "jh": "a46a2847cd4e",
+  "eh": "3c6a7e20104a",
+  "ko": "{KID%}:\\n{SERGE%},\\n괜찮아?\\n가자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:84",
+  "jh": "e107deba6d39",
+  "eh": "1824739658a3",
+  "ko": "{VIPER%}:\\n도망칠 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:85",
+  "jh": "c7d08e23979f",
+  "eh": "94ece613234f",
+  "ko": "야마네코:\\n도망칠 수 없다.{bpage}\\n자, 덤벼라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:86",
+  "jh": "8309f9ac2ffe",
+  "eh": "8b041a325fe9",
+  "ko": "야마네코:\\n도망칠 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:87",
+  "jh": "137b0ebc7b59",
+  "eh": "ee377004bf9b",
+  "ko": "{KID%}:\\n여기까지 왔어.\\n해치우는 수밖에!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:88",
+  "jh": "fa3f8242904a",
+  "eh": "9a21451f69b8",
+  "ko": "뭔가 장치가 되어 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:89",
+  "jh": "c07eb61dbc67",
+  "eh": "bf4fe0f5f9fe",
+  "ko": "대좌:\\n나에게 무엇을\\n묻고 싶다는 건가?{wend(80)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165:90",
+  "jh": "a59ca3d05b94",
+  "eh": "49c504eb23ec",
+  "ko": "{KID%}:\\n뭐야?\\n뭐 찾았어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:0",
+  "jh": "c2f08b1074e3",
+  "eh": "597490b7e878",
+  "ko": "파레포리 상관:\\n참 고집 센 아가씨로군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:1",
+  "jh": "46802ccdab8a",
+  "eh": "6c032b2ec883",
+  "ko": "파레포리 상관:\\n한 번 더 묻겠다.{bpage}\\n고룡의 요새에서 무슨 일이 있었지?\\n{VIPER%} 대좌는 어디로 사라졌나?{bpage}\\n얼어붙은 불꽃은 어디 있지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:2",
+  "jh": "2a928cbe416f",
+  "eh": "e5d5b41357b9",
+  "ko": "{RIDDEL%}:\\n모릅니다.{bpage}\\n설령 안다 해도\\n당신들에게 알려 줄 것 같나요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:3",
+  "jh": "d89ac5b02829",
+  "eh": "b8faf527acc4",
+  "ko": "파레포리 상관:\\n크윽, 이 계집이……{bpage}\\n아가씨, 아직 자기 처지를\\n모르는 모양이군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:4",
+  "jh": "908e5eb77ef9",
+  "eh": "68dbec83c6e9",
+  "ko": "{NORRIS%}:\\n이제 그만하시죠.\\n이 사람에게 대체\\n무슨 죄가 있습니까.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:5",
+  "jh": "97df5c8596ad",
+  "eh": "6e5c955dfbf2",
+  "ko": "파레포리 상관:\\n그녀는 우리 파레포리군의 포로다.\\n따라서 이건 정당한 심문이야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:6",
+  "jh": "c08c42f35215",
+  "eh": "3bb4ef9a6186",
+  "ko": "{NORRIS%}:\\n저는 그렇게 생각하지 않습니다.{bpage}\\n분명 더 좋은 방법이\\n있을 겁니다! 조금만 더\\n시간을 들이면……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:7",
+  "jh": "b39d80e8f7c3",
+  "eh": "b306452e2749",
+  "ko": "파레포리 상관:\\n그럴 시간은 없네, {NORRIS%} 군!\\n자네의 이상론 따위를\\n듣고 있을 틈은 없어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:8",
+  "jh": "0d9c3dd305b6",
+  "eh": "3334cc0cd8e4",
+  "ko": "파레포리 상관:\\n자, 아가씨……\\n지하로 옮겨 주셔야겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:9",
+  "jh": "288e18b78de2",
+  "eh": "eaa1bfc0436d",
+  "ko": "{NORRIS%}:\\n잠깐!\\n기다려 주십시오!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:10",
+  "jh": "36586ec6da68",
+  "eh": "949923af7016",
+  "ko": "파레포리 상관:\\n{NORRIS%} 군!!!\\n자네는 좀 지친 모양이군.\\n물러가서 쉬게!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:11",
+  "jh": "1c75fa4ea8d4",
+  "eh": "4898d0ba947e",
+  "ko": "{NORRIS%}:\\n……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:12",
+  "jh": "e848948b44ca",
+  "eh": "192ef778dc35",
+  "ko": "파레포리 상관:\\n데려가라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:13",
+  "jh": "71c5fcc8362f",
+  "eh": "13d5d40bf8cb",
+  "ko": "넷!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:14",
+  "jh": "7c388356e004",
+  "eh": "0fc6b4eb7921",
+  "ko": "파레포리 상관:\\n자네에겐 실망했네……\\n객실에서\\n대기하고 있게!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:15",
+  "jh": "e1fdb36cb52b",
+  "eh": "13a86b57dd97",
+  "ko": "파레포리 상관:\\n대답 안 하나!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:16",
+  "jh": "a947ee70e681",
+  "eh": "684dc3b9ccf3",
+  "ko": "{NORRIS%}:\\n기다려 줘.{bpage}\\n너희는 정말 이래도\\n괜찮다고 생각하나?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:17",
+  "jh": "e8861d225e73",
+  "eh": "8d60ffa1f0c0",
+  "ko": "파레포리 상관:\\n그놈한테 말 걸어도 소용없네.{bpage}\\n싸우는 것 말고는\\n아무 감정도 없으니까.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:18",
+  "jh": "658b90206d70",
+  "eh": "0a2c92772249",
+  "ko": "{NORRIS%}:\\n설마……{wait(30)}\\n그 실험실에서 만들어진……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:19",
+  "jh": "d9a1806e6d26",
+  "eh": "9f8d0fd6d032",
+  "ko": "파레포리 상관:\\n그래.\\n그게 암살 병기\\n{GROBYC%}다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:20",
+  "jh": "2d2dd699df26",
+  "eh": "c26a2ae33478",
+  "ko": "{GROBYC%}:\\n……{bpage}\\n{GROBYC%}-는-자신보다-강한\\n자의-명령만-듣는다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:21",
+  "jh": "e9cb55aa6de6",
+  "eh": "7342b3179b01",
+  "ko": "파레포리 상관:\\n흥.\\n결국 고용된\\n용병인가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:22",
+  "jh": "db7d9a446bc8",
+  "eh": "8483fc3d66b8",
+  "ko": "파레포리 상관:\\n자네도 물러가게.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:23",
+  "jh": "84d175079e04",
+  "eh": "3f365c752adf",
+  "ko": "파레포리 상관:\\n요리장을 지하실로 불러라.{bpage}\\n물론……{wait(40)} “지옥”의 요리장이다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:24",
+  "jh": "71c5fcc8362f",
+  "eh": "13d5d40bf8cb",
+  "ko": "넷!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:25",
+  "jh": "cbb1e4e2985b",
+  "eh": "28ab669d077f",
+  "ko": "{RIDDEL%}:\\n어머……\\n당신들은\\n그때의……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:26",
+  "jh": "17fdcda35503",
+  "eh": "f29b5eaaa919",
+  "ko": "{RIDDEL%}:\\n그때 {KID%} 씨가\\n저를 감싸 주고……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:27",
+  "jh": "130ff585b342",
+  "eh": "f2671d404427",
+  "ko": "{RIDDEL%}:\\n아버님 일행은\\n고룡의 요새로 가셨어요.{bpage}\\n정확한 장소까지는\\n듣지 못했어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:28",
+  "jh": "f7d7210cc8b6",
+  "eh": "750547fbe2fd",
+  "ko": "{RIDDEL%}:\\n지금의 저는\\n아무것도 할 수 없지만,{bpage}\\n여러분의 무사를\\n빌고 있을게요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:29",
+  "jh": "71c5fcc8362f",
+  "eh": "c7ddbf9d1503",
+  "ko": "넷!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:30",
+  "jh": "d41cf1f76f56",
+  "eh": "86df3454dfb8",
+  "ko": "{RIDDEL%} 아가씨!!!{bpage}\\n무사하셨군요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:31",
+  "jh": "99f52d6a7807",
+  "eh": "b0a8fc8a5fe5",
+  "ko": "{RIDDEL%} 아가씨가\\n무사하시군요.{bpage}\\n다행이다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:32",
+  "jh": "9f7a1df5ca0d",
+  "eh": "fb006c57cdf5",
+  "ko": "어쩌지……\\n{RIDDEL%} 아가씨가\\n지하 감옥에 끌려가셨어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166:33",
+  "jh": "bd0b244c1f98",
+  "eh": "771a55a9279f",
+  "ko": "{VIPER%} 님이 그렇게\\n설득하셨는데도\\n아가씨는 남으셨어요.{bpage}\\n다리오 님의 추억이 남은\\n이 저택을 떠날 수 없으신 거죠.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:0",
+  "jh": "3b8431890bdf",
+  "eh": "e2e985b03f66",
+  "ko": "{GLENN%}:\\n지금은 말 걸지 말아 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:1",
+  "jh": "5d61e9f3ff71",
+  "eh": "435db175eba0",
+  "ko": "여기는 보물 창고다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:2",
+  "jh": "96788b072504",
+  "eh": "6e13ff36d470",
+  "ko": "용기사단이라도 허가 없이는\\n들어갈 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:3",
+  "jh": "cb1dbf201b69",
+  "eh": "8aeca3210ee5",
+  "ko": "뭐야, 수상한 녀석들이군.\\n암호를 대 봐라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:4",
+  "jh": "1f549be8dfa2",
+  "eh": "d365691dbfe0",
+  "ko": "좋아, 한 번 더\\n암호를 대 봐라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:5",
+  "jh": "3f75a62614c6",
+  "eh": "4def8b71d924",
+  "ko": "　　　{speed(255)}그런 거 몰라\\n　　　{VIPER%} 대좌 만세!\\n　　　{KARSH%} 단장께 경례!\\n　　　용기사단에 영광을!{wend(254)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:6",
+  "jh": "959f2834bfc2",
+  "eh": "3aa204bb954a",
+  "ko": "뭐라고!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:7",
+  "jh": "3775dc92488d",
+  "eh": "c1cfd317488f",
+  "ko": "틀렸다!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:8",
+  "jh": "3775dc92488d",
+  "eh": "c1cfd317488f",
+  "ko": "틀렸다!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:9",
+  "jh": "3775dc92488d",
+  "eh": "c1cfd317488f",
+  "ko": "틀렸다!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:10",
+  "jh": "4ee58362faa0",
+  "eh": "3ece74d73c21",
+  "ko": "그래, 암호는 “침묵”이다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:11",
+  "jh": "8c447e48ef27",
+  "eh": "12ee18cbd633",
+  "ko": "지나가도 좋다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:12",
+  "jh": "1db3f7719a26",
+  "eh": "6829c75165eb",
+  "ko": "너희 가짜구나!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:13",
+  "jh": "d4b8798077bc",
+  "eh": "6d224abe2cd2",
+  "ko": "뭐야?\\n아니라고?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:14",
+  "jh": "34f066506381",
+  "eh": "f9ff7c4df174",
+  "ko": "볼일 끝나면\\n얼른 나와라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:15",
+  "jh": "093485c638b9",
+  "eh": "1da9f8e4eb29",
+  "ko": "으윽……{wait(40)}\\n빨간…… 악마에게\\n당했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:16",
+  "jh": "08ea8d35531d",
+  "eh": "b52c86f91f98",
+  "ko": "안에 있는 물건엔 손대지 마라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:17",
+  "jh": "be7a5d335d9a",
+  "eh": "c5d0aa3fac21",
+  "ko": "끔찍한 놈이었어.\\n키가 족히 3미터는 넘고\\n새빨갛고, 입이 귀까지 찢어져서……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:18",
+  "jh": "a992a7b27a4a",
+  "eh": "c8d801a6d205",
+  "ko": "{color(GRAY)}(여자애한테 당했다고는\\n도저히 말 못 하겠어……){color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:19",
+  "jh": "fff59de78764",
+  "eh": "f1135dcf60fe",
+  "ko": "기, 기……{wait(30)}\\n뭐-하고-있나\\n위치로-돌아가라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:20",
+  "jh": "2d0e892d2f79",
+  "eh": "7ac120dbecc6",
+  "ko": "기, 기……{wait(30)}\\n그래-무슨-일인가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:21",
+  "jh": "3626692c1550",
+  "eh": "88fff890aff5",
+  "ko": "　　　때려 부순다!\\n　　　아무것도 안 한다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:22",
+  "jh": "d80c845db929",
+  "eh": "fba8ccd692da",
+  "ko": "기, 기……???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:23",
+  "jh": "78c02fe539ac",
+  "eh": "949bed93641b",
+  "ko": "아래로 내려갈까?\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167:24",
+  "jh": "106b3113903b",
+  "eh": "0c6f37ea71c8",
+  "ko": "열쇠가 잠겨 있는 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:0",
+  "jh": "60489bdd8b98",
+  "eh": "ea5d9f3e762f",
+  "ko": "우리는 집을 지키는 역이었는데\\n{GLENN%} 녀석,\\n혼자 나가 버렸어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:1",
+  "jh": "bacd55041f42",
+  "eh": "137a0625ec86",
+  "ko": "음?{bpage}\\n{GLENN%}!\\n너 뭐 하는 거야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:2",
+  "jh": "d9c09690d32f",
+  "eh": "4c041387ead7",
+  "ko": "{GLENN%}:\\n저는 당분간\\n이 사람들과\\n함께 행동하겠습니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:3",
+  "jh": "ed8994768012",
+  "eh": "974260b30090",
+  "ko": "음……\\n그래……{bpage}\\n뭐, 힘내라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:4",
+  "jh": "d45e69945c99",
+  "eh": "ec87906be742",
+  "ko": "저기 {GLENN%}은(는)\\n예전 용기사단 사천왕 중 한 명인\\n다리오 님의 동생이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:5",
+  "jh": "1d41b23d0554",
+  "eh": "e11b23580d1a",
+  "ko": "{GLENN%} 녀석,\\n또 위의 함정에\\n걸린 모양이군.{bpage}\\n{GLENN%}은(는) 아직\\n용기사 견습이거든.{bpage}\\n형이 용기사단 사천왕 중\\n한 명이었으니\\n조급한 마음은 알겠다만.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:6",
+  "jh": "060a822162dc",
+  "eh": "2482ff8b7aa1",
+  "ko": "뭐야, 너희.\\n감기라도 걸렸어?{bpage}\\n그래서야 걷기 힘들겠다.{bpage}\\n어쩔 수 없지,\\n내 {itemwork(3)}(으)로 고쳐\\n주마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:7",
+  "jh": "5dc74272758a",
+  "eh": "a135a3c455b7",
+  "ko": "다리오 님이 돌아가신 지\\n벌써 3년인가……{bpage}\\n그 뒤로 {RIDDEL%} 아가씨도\\n울적해하셔서, 이 저택도\\n불이 꺼진 것 같아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:8",
+  "jh": "7abfea5d65ee",
+  "eh": "afdb91df321b",
+  "ko": "{VIPER%} 님도 겉으론 내색 안 하시지만\\n분명 마음이 아프시겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:9",
+  "jh": "6ef6bd084df3",
+  "eh": "8ec047333b7d",
+  "ko": "밖의 기계 봤어?{bpage}\\n그건 고룡의 요새에서 망가져\\n멈춘 머시너리를\\n{LUCCIA%} 님이 개조해서\\n쓰고 있는 거야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:10",
+  "jh": "273e7d52f7d7",
+  "eh": "3d2b11c5f798",
+  "ko": "고룡의 요새의 머시너리는\\n고대에 사라진\\n초문명의 병기라던데.{bpage}\\n그걸 개조하다니\\n정말 천재야, 그분은.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:11",
+  "jh": "e79d10b39d54",
+  "eh": "a3199630c4f3",
+  "ko": "쿨…… 쿨……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:12",
+  "jh": "72721bc2dc7a",
+  "eh": "0be6cc599489",
+  "ko": "다들 빨리 안 돌아오나~\\n쿨…… 쿨……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:13",
+  "jh": "e79d10b39d54",
+  "eh": "a3199630c4f3",
+  "ko": "쿨…… 쿨……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:14",
+  "jh": "76b8d0ced8c1",
+  "eh": "e37b6f43c83a",
+  "ko": "어라?\\n다들 어디 갔지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:15",
+  "jh": "89fbf6073308",
+  "eh": "218e14832529",
+  "ko": "뭐, 됐다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:16",
+  "jh": "e79d10b39d54",
+  "eh": "a3199630c4f3",
+  "ko": "쿨…… 쿨……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:17",
+  "jh": "e79d10b39d54",
+  "eh": "a3199630c4f3",
+  "ko": "쿨…… 쿨……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:18",
+  "jh": "9d265fcd3705",
+  "eh": "8d1e1690881b",
+  "ko": "{TURNIP%}:\\n나, 이 사람 안다무.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:19",
+  "jh": "6c264562f9a7",
+  "eh": "38d3759e8361",
+  "ko": "{TURNIP%}:\\n이 광경!{bpage}\\n분명 꿈에서 본\\n장면이랑 똑같다무.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168:20",
+  "jh": "86eafdde09b1",
+  "eh": "138eed79e408",
+  "ko": "{TURNIP%}:\\n그 꿈속에서 나는 병사가 되어\\n꿈인 줄도 모르고\\n다른 인생을 살고 있다무.{mend}",
+  "status": "draft",
+  "note": ""
+ }
+]

@@ -5,12 +5,23 @@ Steam PC판 「CHRONO CROSS: THE RADICAL DREAMERS EDITION」 비공식 한글 �
 | 버전 | 범위 |
 |---|---|
 | v0.1.0 | 수록작 「래디컬 드리머즈 -훔칠 수 없는 보석-」 본문 전체 |
-| (예정) | 크로노 크로스 본편 |
+| v0.1.1 | 크로노 크로스 본편 대사·메뉴·아이템·기술·몬스터·전투 이벤트 전체 (15,181행, 게임 내 검수 중) |
 
 > 이 저장소에는 **게임 데이터가 들어 있지 않습니다.** 실행 파일·데이터 파일·원문 대본·이미지·원본 글꼴은 포함하지 않으며,
 > 패치는 사용자의 정품 게임 파일에서 원문을 읽어 한국어 문장과 조합합니다.
 
 ## 설치 방법 (일반 사용자)
+
+### v0.1.1 (본편 + 래디컬 드리머즈) — 파일 덮어쓰기
+1. 게임을 완전히 종료하고 게임 폴더(`CHRONOCROSS.exe` 가 있는 곳)를 엽니다.
+2. (권장) `data` 폴더의 `lang.dat`, `font.dat`, `radicaldreamers.dat` 를 다른 곳에 백업합니다.
+3. 패치 압축을 풀고 안의 `data` 폴더를 게임 폴더에 덮어씁니다.
+4. 게임 언어를 **English** 로 둔 채 실행합니다.
+
+되돌리기: 백업한 파일을 다시 덮어쓰거나 Steam 의 "게임 파일 무결성 확인".
+덮어쓰기판은 게임 데이터 파일 전체를 담고 있으므로 이 저장소의 Releases 에는 올리지 않습니다.
+
+### v0.1.0 (래디컬 드리머즈) — 패처
 
 1. [Releases](../../releases) 에서 `CCRDE_KR_v<버전>.zip` 을 받습니다.
 2. 게임을 완전히 종료합니다.
@@ -40,7 +51,7 @@ Steam PC판 「CHRONO CROSS: THE RADICAL DREAMERS EDITION」 비공식 한글 �
 
 ### 알려진 문제
 - 이름 입력 화면과 기본 이름(Serge), 조작법 안내 화면 등 그림 글자는 영어 그대로입니다.
-- 본편(크로노 크로스)은 아직 번역되지 않았습니다.
+- 본편: `Lv`, `Sta.` 같은 짧은 HUD 표기는 화면 배치 때문에 영어로 두었습니다. 그림 글자(타이틀 등)는 영어입니다.
 
 자세한 변경 내역은 [CHANGELOG.md](CHANGELOG.md).
 
@@ -59,11 +70,18 @@ py -X utf8 tools/build_rd.py --release  # 검증 + 30_build/data/radicaldreamers
 py -X utf8 tools/make_patch.py        # 배포 레시피 50_patch/patch/rd.ops + rd.bin
 py -X utf8 tools/release.py 0.1.0     # 40_release/CCRDE_KR_v0.1.0.zip
 ```
+본편(v0.1.1):
+```
+py -X utf8 tools/export_cc.py              # 최초 1회: lang.dat → 20_source/trans/cc 시트 (해시만)
+py -X utf8 tools/build_cc.py --release     # 검증 + 30_build/data/lang.dat, font.dat (한글 글리프 추가)
+py -X utf8 tools/pack_overwrite.py 0.1.1   # 40_release/CCRDE_KR_v0.1.1_overwrite.zip (덮어쓰기판, 비공개 배포용)
+py -X utf8 tools/make_review.py 0.1.1      # 40_release/CCRDE_KR_v0.1.1_review.html (원문 대조 검수 페이지)
+```
 게임 폴더 위치는 `tools/paths.py` 의 `GAME` 에서 바꿉니다. `tools/install.py` 는 빌드 결과를 게임 폴더에 바로 넣습니다
 (`install.py restore` 로 원본 복구).
 
 ### 번역 데이터에 원문이 없는 이유
-`20_source/trans/rd/*.json` 의 각 행은 한국어 번역(`ko`)과 원문 대신 **원문 해시(`jh` 일본어, `eh` 영어)** 만 가집니다.
+`20_source/trans/rd/*.json`, `20_source/trans/cc/*.json` 의 각 행은 한국어 번역(`ko`)과 원문 대신 **원문 해시(`jh` 일본어, `eh` 영어)** 만 가집니다.
 빌드할 때 사용자의 `radicaldreamers.dat` 에서 원문을 읽어 해시로 대조한 뒤 사용하므로, 대본을 싣지 않고도
 같은 결과물(바이트 단위 동일)을 만들 수 있습니다.
 
@@ -88,5 +106,6 @@ py -X utf8 tools/release.py 0.1.0     # 40_release/CCRDE_KR_v0.1.0.zip
 ## 라이선스
 - 도구 코드: MIT (`LICENSE`)
 - 한국어 번역문·설정: CC BY-NC-SA 4.0 (`LICENSE`)
-- 글꼴: 나눔명조, SIL Open Font License 1.1 (`20_source/fonts/nanummyeongjo/OFL.txt`)
+- 글꼴: 나눔명조·나눔스퀘어라운드, SIL Open Font License 1.1 (`20_source/fonts/nanummyeongjo/OFL.txt`);
+  Neo둥근모, SIL Open Font License 1.1 (`20_source/fonts/neodgm/LICENSE.txt`)
 - 원본 게임: 권리자 소유 — [NOTICE.md](NOTICE.md)

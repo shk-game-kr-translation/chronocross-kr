@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "266:26",
+  "jh": "dc8a81f0f20e",
+  "eh": "90d161f9ffe0",
+  "ko": "{ORCHA%}:\\n재료가 부족해도\\n조금만 궁리하면\\n맛있게 만들 수 있당께.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:27",
+  "jh": "b67d6b4ead2f",
+  "eh": "6ee09ce9f375",
+  "ko": "{ORCHA%}:\\n흥, 흥흥~{wait(30)}\\n츄르르, 츄르~{wait(30)}\\n티로리롱~{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:28",
+  "jh": "f12f56cb32b4",
+  "eh": "cc9950d5db03",
+  "ko": "{ORCHA%}:\\n가끔은 나도\\n데려가 주랑께.{bpage}\\n보다시피\\n운동이 필요하당께.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:29",
+  "jh": "62b081bb8c3f",
+  "eh": "a91e3c553889",
+  "ko": "{ORCHA%}:\\n배가 고프면\\n싸움도 못 하는 법이랑께.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:30",
+  "jh": "ace5dc3166e6",
+  "eh": "dc4bdc8736d8",
+  "ko": "{ORCHA%}:\\n드디어 때가 왔구먼……{bpage}\\n잘할 거랑께!\\n내 요리를 먹었응께,\\n안 그려?\\n우하하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:31",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:32",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:33",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:34",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:35",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:36",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:37",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:38",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:39",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:40",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:41",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:42",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:43",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "266:44",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:0",
+  "jh": "9e468c590418",
+  "eh": "d134c2515d16",
+  "ko": "{KID%}:\\n괜찮냐, {SERGE%}?\\n안색이 안 좋은데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:1",
+  "jh": "40f2bb436cac",
+  "eh": "068a72fbb087",
+  "ko": "{KID%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:2",
+  "jh": "a0c3979e2bb9",
+  "eh": "dd3db59b6190",
+  "ko": "{POSHUL%}:\\n괜찮슈, {SERGE%}?\\n안색이 안 좋슈.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:3",
+  "jh": "5de4f688022b",
+  "eh": "33b4bc2233e5",
+  "ko": "{POSHUL%}:\\n조심하슈.\\n밖에서 뭔가\\n벌어지고 있슈.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:4",
+  "jh": "b59914f1dd2c",
+  "eh": "4b7e4fef6885",
+  "ko": "{MOJO%}:\\n괜찮다와라, {SERGE%}?\\n안색이 안 좋다와라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:5",
+  "jh": "ee3d3249124d",
+  "eh": "940804e3f929",
+  "ko": "{MOJO%}:\\n조심하다와라.\\n밖에서 뭔가\\n벌어지고 있다와라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:6",
+  "jh": "9c0d889cd2d4",
+  "eh": "bdabd5337a0c",
+  "ko": "{LEENA%}:\\n괜찮아, {SERGE%}?\\n땀이 엄청 나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:7",
+  "jh": "db1a3adee4e2",
+  "eh": "c9c977bffcb3",
+  "ko": "{LEENA%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:8",
+  "jh": "abd4694b2ee1",
+  "eh": "c7d1b8682922",
+  "ko": "{SKELLY%}:\\n괜찮아, {SERGE%}?\\n안색이 안 좋은데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:9",
+  "jh": "20acb661a641",
+  "eh": "2aea1018a052",
+  "ko": "{SKELLY%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:10",
+  "jh": "c527753fa6d9",
+  "eh": "393d675231af",
+  "ko": "{PIERRE%}:\\n괜찮소, {SERGE%}?\\n안색이 안 좋소.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:11",
+  "jh": "5ed0c9815bd7",
+  "eh": "b2e09d9a58d2",
+  "ko": "{PIERRE%}:\\n조심하시오.\\n밖에서 뭔가\\n벌어지고 있소.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:12",
+  "jh": "628db765a163",
+  "eh": "10176c35e34f",
+  "ko": "{NIKKI%}:\\n괜찮아, {SERGE%}?\\n가위눌린 것 같던데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:13",
+  "jh": "9c9fb9be2fe6",
+  "eh": "a1542c9b2588",
+  "ko": "{NIKKI%}:\\n조심하는 게 좋겠어.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:14",
+  "jh": "2105760b5448",
+  "eh": "d6bdb5a1b3a6",
+  "ko": "{KORCHA%}:\\n괜찮아, {SERGE%}?\\n안색이 안 좋은데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:15",
+  "jh": "1afc8821d854",
+  "eh": "e28c0f036ce9",
+  "ko": "{KORCHA%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:16",
+  "jh": "ef97c132d836",
+  "eh": "b3dbe62e7049",
+  "ko": "{RAZZLY%}:\\n괜찮아, {SERGE%}?\\n얼굴이 새파래.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:17",
+  "jh": "98495e682320",
+  "eh": "6aac9989c181",
+  "ko": "{RAZZLY%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:18",
+  "jh": "29e04059680e",
+  "eh": "b5462eb2b4fa",
+  "ko": "{MEL%}:\\n괜찮아, {SERGE%}?\\n얼굴이 새파래.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:19",
+  "jh": "3132911eb6dc",
+  "eh": "c34c0c506158",
+  "ko": "{MEL%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:20",
+  "jh": "645288452829",
+  "eh": "fd93d2410ccd",
+  "ko": "{GRECO%}:\\n괜찮은가, {SERGE%}?\\n안색이 안 좋다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:21",
+  "jh": "847554d53fe9",
+  "eh": "b28e1a3c2fb5",
+  "ko": "{GRECO%}:\\n조심해라.\\n밖에서 뭔가\\n벌어지고 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:22",
+  "jh": "e1a8cdff971f",
+  "eh": "5db29730dc77",
+  "ko": "{GUILE%}:\\n괜찮나, {SERGE%}?\\n악몽이라도 꾼 얼굴이군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:23",
+  "jh": "49ed2d8dbb22",
+  "eh": "b75b165d18ca",
+  "ko": "{GUILE%}:\\n경계해라.\\n밖에서 뭔가\\n벌어지고 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:24",
+  "jh": "0b208937d5c0",
+  "eh": "c17e6c0c3704",
+  "ko": "{GLENN%}:\\n괜찮나, {SERGE%}?\\n안색이 안 좋군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:25",
+  "jh": "29667097ada6",
+  "eh": "0bc2d033b915",
+  "ko": "{GLENN%}:\\n조심해라.\\n밖에서 뭔가\\n벌어지고 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:26",
+  "jh": "0400d31f38cc",
+  "eh": "c2055869329b",
+  "ko": "{MACHA%}:\\n괜찮니, {SERGE%}?\\n얼굴이 새파랗구나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:27",
+  "jh": "52b3261ecd17",
+  "eh": "0e56312156d8",
+  "ko": "{MACHA%}:\\n조심하렴.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:28",
+  "jh": "55713135cf44",
+  "eh": "d4d1cf7ea4cc",
+  "ko": "{DOC%}:\\n괜찮나, {SERGE%}?\\n안색이 안 좋군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:29",
+  "jh": "540076e35d3d",
+  "eh": "de4904de3bad",
+  "ko": "{DOC%}:\\n조심하게.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:30",
+  "jh": "700c2439608a",
+  "eh": "f6dcdd5c6c43",
+  "ko": "{LUCCIA%}:\\n괜찮니, {SERGE%}?\\n안색이 안 좋구나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:31",
+  "jh": "8e1b4d7f61d6",
+  "eh": "4bb4f6dbee53",
+  "ko": "{LUCCIA%}:\\n조심하렴.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:32",
+  "jh": "98f038b69f5d",
+  "eh": "e2ffd8ae5fb0",
+  "ko": "{NEOFIO%}:\\n괜찮아, {SERGE%}?\\n얼굴이 새파래.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:33",
+  "jh": "5d35832a3555",
+  "eh": "aed8529beb3e",
+  "ko": "{NEOFIO%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:34",
+  "jh": "ec102acc4eec",
+  "eh": "b7272e78e0c9",
+  "ko": "{PARTY1%}:\\n괜찮아, {SERGE%}?\\n안색이 안 좋아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:35",
+  "jh": "2659f7e88c41",
+  "eh": "94b306a7f7ec",
+  "ko": "{PARTY0%}:\\n괜찮아, {SERGE%}?\\n안색이 안 좋아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:36",
+  "jh": "589637f31e53",
+  "eh": "474517f3e7c1",
+  "ko": "{PARTY1%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:37",
+  "jh": "b8982ca68d15",
+  "eh": "fa640ed82ad6",
+  "ko": "{PARTY0%}:\\n조심해.\\n밖에서 뭔가\\n벌어지고 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:38",
+  "jh": "5fa911069bfc",
+  "eh": "3008f2f7dbe1",
+  "ko": "{PARTY1%}:\\n……\\n뭔가 이상해……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:39",
+  "jh": "f2a82080a4df",
+  "eh": "0f4e0d1c8d03",
+  "ko": "{PARTY0%}:\\n……\\n뭔가 이상해……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:40",
+  "jh": "1506bc15d98a",
+  "eh": "b27a12fc21dc",
+  "ko": "{KID%}:\\n이 괴물들이\\n여기서 뭐 하는 거야?\\n무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:41",
+  "jh": "f4cd95a446bb",
+  "eh": "5e323a7294da",
+  "ko": "{POSHUL%}:\\n이 괴물들이\\n여기서 뭐 하는 거슈?\\n무슨 일이슈?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:42",
+  "jh": "eeaac931bd08",
+  "eh": "9027b112094a",
+  "ko": "{MOJO%}:\\n저런 게 왜\\n덤벼드는 거다와라?\\n무슨 일이다와라?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:43",
+  "jh": "0375537c5ab9",
+  "eh": "008a42e668d7",
+  "ko": "{LEENA%}:\\n이 괴물들은\\n여기서 뭐 하는 거야?\\n진짜 유령선이 된 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:44",
+  "jh": "aab6d22ed7fb",
+  "eh": "4cd5ab387840",
+  "ko": "{SKELLY%}:\\n이 괴물들이\\n여기서 뭐 하는 거야?\\n무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:45",
+  "jh": "79793f11143d",
+  "eh": "0d0ef24470c9",
+  "ko": "{PIERRE%}:\\n괴물들이 어째서\\n여기에 있소?\\n무슨 일이오?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:46",
+  "jh": "a5b3c6eeb65c",
+  "eh": "492e3787c01d",
+  "ko": "{NIKKI%}:\\n몬스터가\\n들어온 거야?\\n무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:47",
+  "jh": "374f2ef6e613",
+  "eh": "78fa84bb3d65",
+  "ko": "{KORCHA%}:\\n???\\n왜 여기에\\n저런 괴물이 있는 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:48",
+  "jh": "0082df524413",
+  "eh": "b844570c439f",
+  "ko": "{RAZZLY%}:\\n깜짝 놀랐잖아!\\n방금 그거 유령이야?\\n무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:49",
+  "jh": "773ab6936703",
+  "eh": "e81cdcb80a99",
+  "ko": "{MEL%}:\\n이 괴물들은\\n여기서 뭐 하는 거야?\\n방금 그거 유령이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:50",
+  "jh": "a4d8c595aa2a",
+  "eh": "57bf1096c638",
+  "ko": "{GRECO%}:\\n괴물들이 왜\\n여기에 있지?\\n무슨 일이냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:51",
+  "jh": "a391a3a5c235",
+  "eh": "ec72faaaa039",
+  "ko": "{GUILE%}:\\n괴물들이 왜\\n여기에 있지?\\n뭔가 벌어지고 있군……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:52",
+  "jh": "f3cf2eacd210",
+  "eh": "a2006e393162",
+  "ko": "{PARTY2%}:\\n몬스터가 왜\\n여기에 있지?\\n대체 무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:53",
+  "jh": "f3cf2eacd210",
+  "eh": "a2006e393162",
+  "ko": "{PARTY2%}:\\n몬스터가 왜\\n여기에 있지?\\n대체 무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "267:54",
+  "jh": "ecb759ae18a4",
+  "eh": "4f182091c5ac",
+  "ko": "{PARTY1%}:\\n몬스터가 왜\\n여기에 있지?\\n대체 무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:0",
+  "jh": "4f7a119afefa",
+  "eh": "3fda556986c8",
+  "ko": "{PIP%}:\\n왜 자꾸 다가와?\\n나 숨어 있는 거 안 보여?{bpage}\\n응?\\n내가 왜 여기 있냐고?{bpage}\\n난 밀항자야.\\n바다가 너무너무\\n보고 싶었어.{bpage}\\n깨어나 보니 사방이\\n괴물투성이었어!\\n정말 무서웠어……{bpage}\\n난 평생 연구실에\\n갇혀 살았으니까\\n세상을 더 보고 싶어……{bpage}\\n나한테 바깥세상을\\n더 보여 줄래?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:1",
+  "jh": "7bb206f27510",
+  "eh": "07ceb8d3d1d0",
+  "ko": "　　　그래, 같이 가자\\n　　　너 같은 건 필요 없어{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:2",
+  "jh": "ae7783b549be",
+  "eh": "835aede68b61",
+  "ko": "{PIP%}:\\n정말 고마워!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:3",
+  "jh": "9dbec1ffd448",
+  "eh": "70e99ec9165a",
+  "ko": "{PIP%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:4",
+  "jh": "0b7c5d90d305",
+  "eh": "b245f7cd7f9b",
+  "ko": "{PIP%}:\\n안됐네.\\n난 벌써 따라가기로\\n정했어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:5",
+  "jh": "ee82e622373a",
+  "eh": "ed87b5f7385b",
+  "ko": "{PIP%}이(가) 억지로\\n동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:6",
+  "jh": "82345a6af872",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:7",
+  "jh": "429ca568ff33",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 가질 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:8",
+  "jh": "8bc0e6908dae",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 들 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:9",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:10",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:11",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:12",
+  "jh": "82345a6af872",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:13",
+  "jh": "429ca568ff33",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 가질 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:14",
+  "jh": "8bc0e6908dae",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 들 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:15",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:16",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:17",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:18",
+  "jh": "82345a6af872",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:19",
+  "jh": "429ca568ff33",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 가질 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:20",
+  "jh": "8bc0e6908dae",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 들 수 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:21",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:22",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "268:23",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:0",
+  "jh": "a0bd9a0d6825",
+  "eh": "ac912293ace8",
+  "ko": "{PARTY1%}:\\n이게 혹시……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:1",
+  "jh": "349d860418af",
+  "eh": "002846bd90ae",
+  "ko": "{PARTY0%}:\\n이게 혹시……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:2",
+  "jh": "3ec11106e1e6",
+  "eh": "f1b1b19b3471",
+  "ko": "{PARTY1%}:\\n……유령선?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:3",
+  "jh": "4d8075716ce3",
+  "eh": "8115b9ecb3b4",
+  "ko": "{PARTY2%}:\\n……유령선?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:4",
+  "jh": "16de727d1239",
+  "eh": "5c0989477b47",
+  "ko": "{LEENA%}:\\n자, 뭘\\n기다리는 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:5",
+  "jh": "5ce74da43200",
+  "eh": "e7381b67d68b",
+  "ko": "{PARTY1%}:\\n자, 뭘\\n기다리는 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:6",
+  "jh": "16de727d1239",
+  "eh": "5c0989477b47",
+  "ko": "{LEENA%}:\\n자, 뭘\\n기다리는 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:7",
+  "jh": "6be329e6fe77",
+  "eh": "f1b6303bf555",
+  "ko": "{PARTY0%}:\\n자, 뭘\\n기다리는 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:8",
+  "jh": "236f776685bd",
+  "eh": "05501753ea5f",
+  "ko": "{LEENA%}:\\n맞아……\\n이 안개 속에선\\n배를 몰 수 없겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:9",
+  "jh": "752ec330f8fb",
+  "eh": "3f8fa2120995",
+  "ko": "{PARTY1%}:\\n맞아……{bpage}\\n이 안개 속에선\\n보트를 몰 수\\n없겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:10",
+  "jh": "236f776685bd",
+  "eh": "05501753ea5f",
+  "ko": "{LEENA%}:\\n맞아……\\n이 안개 속에선\\n배를 몰 수 없겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:11",
+  "jh": "ca80936ee493",
+  "eh": "3b829bc96c8e",
+  "ko": "{PARTY2%}:\\n맞아……{bpage}\\n이 안개 속에선\\n보트를 몰 수\\n없겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:12",
+  "jh": "a384452d6367",
+  "eh": "9df330c82a87",
+  "ko": "{FARGO%}:\\n가라, 바다 사나이!\\n가서 너 자신을 되찾아라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "269:13",
+  "jh": "738f115e119e",
+  "eh": "7f0dfa54632f",
+  "ko": "{RIDDEL%}:\\n부디 몸조심하세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:0",
+  "jh": "f869aa61d506",
+  "eh": "3af05cc3645b",
+  "ko": "죽지만 마라.\\n행운을 빈다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:1",
+  "jh": "3bae11021d28",
+  "eh": "a9ca2a20e2b5",
+  "ko": "갑판으로 가는 거야?\\n그럼 이거 가져가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:2",
+  "jh": "580cc79f593c",
+  "eh": "acc0124ea12f",
+  "ko": "이미 잔뜩\\n갖고 있구나.\\n그럼 됐다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:3",
+  "jh": "6438c2fd5272",
+  "eh": "b368ddc992ed",
+  "ko": "{SERGE%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 손에 넣었다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:4",
+  "jh": "aec8c26aa353",
+  "eh": "a3d540cc5721",
+  "ko": "열쇠?\\n그래, 여기 있어.{wait(20)}\\n잃어버리지 마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:5",
+  "jh": "cb22515b20d4",
+  "eh": "1d80d5f1be49",
+  "ko": "{SERGE%}은(는)\\n열쇠를 받았다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:6",
+  "jh": "a6006a5bb002",
+  "eh": "f22ed6f114b4",
+  "ko": "응? 열쇠?\\n미안…… 나한텐 없어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:7",
+  "jh": "8fe785937029",
+  "eh": "a0fd105a82c3",
+  "ko": "쳇…… 저 정도는\\n나 혼자서도 해치웠다고……{wait(30)}\\n그래도 고맙다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:8",
+  "jh": "8fe785937029",
+  "eh": "a0fd105a82c3",
+  "ko": "쳇…… 저 정도는\\n나 혼자서도 해치웠다고……{wait(30)}\\n그래도 고맙다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:9",
+  "jh": "d9864e060a58",
+  "eh": "c975a8e4f7e6",
+  "ko": "너, 너희 어떻게 나왔어!?{bpage}\\n선창으로 돌아가!\\n저놈은 내 상대야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:10",
+  "jh": "c0a068eb048c",
+  "eh": "f53c0c645cfc",
+  "ko": "으아!\\n사람이 너무 많이 타서\\n우리가 여기 처박혔어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:11",
+  "jh": "b0cfbb18fff7",
+  "eh": "5e3015e86b33",
+  "ko": "뭐, 그게……\\n이것도 익숙해지네.{bpage}\\n{VIPER%} 일행도\\n그렇게 나쁜 놈들은 아니고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:12",
+  "jh": "3b78109b9caf",
+  "eh": "44bd36fda9e3",
+  "ko": "얼마 전에\\n갑판 망을 보다가{bpage}\\n발목을 삐어서\\n뛸 수가 없었어.\\n정말 최악이었지.{bpage}\\n그런 건 빨리\\n고쳐야 해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:13",
+  "jh": "129ac12c947b",
+  "eh": "3905e8d1bcb4",
+  "ko": "얼마 전에\\n갑판 망을 보다가{bpage}\\n엄청 큰 벌레가 히드라 늪\\n쪽에서 날아오는 걸 봤어.{bpage}\\n세계의 배꼽 쪽으로\\n가는 것 같더라.\\n절벽에 둘러싸여서\\n바다로는 못 가는 곳이지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:14",
+  "jh": "e0b0bf40dccc",
+  "eh": "df1e5597c95f",
+  "ko": "얼마 전에\\n갑판 망을 보다가{bpage}\\n엘니도 트라이앵글\\n쪽에서 희미한 빛이\\n나는 걸 봤어.\\n대체 뭐였을까……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:15",
+  "jh": "12a24a752e4a",
+  "eh": "54816180a861",
+  "ko": "정어리 통조림처럼\\n꽉 끼었잖아!\\n다 저놈들 때문이야!{bpage}\\n하지만……\\n{RIDDEL%} 씨랑 {MARCY%}은(는)\\n있어도 돼.\\n나머지는 나가!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:16",
+  "jh": "ea9852bdff3d",
+  "eh": "01374616ce1e",
+  "ko": "다 잘될 거야!\\n그게 내 인생관이지.{bpage}\\n너도 고민이 많겠지만\\n힘내라.\\n내일은 내일의 바람이 분다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:17",
+  "jh": "502b88496322",
+  "eh": "22f7c60472eb",
+  "ko": "하아암……\\n너도 졸리냐?\\n　　　아니\\n　　　응……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:18",
+  "jh": "bfd3338c050e",
+  "eh": "6280b4e685a6",
+  "ko": "그래……\\n난 졸린데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:19",
+  "jh": "071839efa92d",
+  "eh": "2a70837fb35b",
+  "ko": "원하면 여기서\\n자고 가.\\n피곤은 자면서\\n풀어야지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:20",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:21",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:22",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:23",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:24",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:25",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "270:26",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:0",
+  "jh": "43a8401756eb",
+  "eh": "d37a7f54aeb3",
+  "ko": "　　　맡겨 줘, 선장!\\n　　　싫어, 해 본 적 없는데{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:1",
+  "jh": "933b218d3f47",
+  "eh": "7f0664e4c982",
+  "ko": "{NIKKI%}:\\n이 배 이름이\\n천하무적호라고……!?{bpage}\\n그럼……\\n설마……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:2",
+  "jh": "7c88bb08a7f5",
+  "eh": "69b740f9823e",
+  "ko": "{NIKKI%}:\\n아……{wait(30)}\\n아무것도 아니야……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:3",
+  "jh": "75bee4b25a59",
+  "eh": "92517019cfc4",
+  "ko": "{NIKKI%}:\\n하나 물어봐도\\n될까……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:4",
+  "jh": "015783a76d67",
+  "eh": "62648dce22fd",
+  "ko": "{NIKKI%}:\\n다른 세계 얘긴데……{wait(30)}\\n젤베스는……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:5",
+  "jh": "53461dbf53f1",
+  "eh": "ec5f7c2cb807",
+  "ko": "{NIKKI%}:\\n응?{wait(30)}\\n아……{bpage}\\n그래, 좋아해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:6",
+  "jh": "eb8393322c74",
+  "eh": "b49b708d2ea5",
+  "ko": "{NIKKI%}:\\n……\\n좋지.{bpage}\\n내 노래를 더 많은\\n사람들이 들어 주면\\n좋겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:7",
+  "jh": "c9f84cebbff0",
+  "eh": "309f479a2c4f",
+  "ko": "{NIKKI%}:\\n{MARCY%}도 데리고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:8",
+  "jh": "9ca5186a5ceb",
+  "eh": "2d7d2fba0f93",
+  "ko": "{NIKKI%}:\\n아, 하나만 더……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:9",
+  "jh": "2d75c746eea1",
+  "eh": "56322d6a9b2e",
+  "ko": "{NIKKI%}:\\n이 배 이름을 천하무적호로\\n안 지었다면……{wait(30)}\\n뭐라고 지었을 거야?{bpage}\\n다른 세계의 당신이\\n지은 이름이랑 같았을까?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:10",
+  "jh": "0ad67027e019",
+  "eh": "68df1b21b01b",
+  "ko": "{NIKKI%}:\\n“글쎄다.”{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:11",
+  "jh": "14a2445a2300",
+  "eh": "b262513aebec",
+  "ko": "{NIKKI%}:\\n(하하!){mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:12",
+  "jh": "efb24c34858e",
+  "eh": "a26b7c557e7f",
+  "ko": "{HARLEY%}:\\n{SERGE%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:13",
+  "jh": "b7f210cc110a",
+  "eh": "4d6d6a492290",
+  "ko": "{HARLEY%}:\\n말해 봐요……\\n당신에게 가장 소중한 건\\n뭔가요?{bpage}\\n그걸 위해 지금 무엇을\\n할 수 있고, 무엇을 해야\\n하는지 스스로 물어봐요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:14",
+  "jh": "df91fbd72521",
+  "eh": "e09369933386",
+  "ko": "{HARLEY%}:\\n당신이 아니면 누가!?\\n지금이 아니면 언제!?\\n그렇죠? ……{SERGE%}?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:15",
+  "jh": "740e06ac741a",
+  "eh": "5d5aaf36ee8a",
+  "ko": "{HARLEY%}:\\n왜 제가 그에게\\n그런 걸 말해 줘야 하죠……?{bpage}\\n정말 바보 같아,\\n{HARLEY%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:16",
+  "jh": "3d0e75768632",
+  "eh": "87f6e2cd3d5d",
+  "ko": "{HARLEY%}:\\n……!?\\n아, 당신이군요, {STARKY%}.{bpage}\\n아무것도 아니에요.\\n신경 쓰지 마요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:17",
+  "jh": "8064c1027c09",
+  "eh": "88a106ce4a32",
+  "ko": "{HARLEY%}:\\n다코르……\\n알았어요, 알았어요……{bpage}\\n당신은 못 속이겠네요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:18",
+  "jh": "58e22cc2c3c9",
+  "eh": "79fb9a167340",
+  "ko": "{HARLEY%}:\\n들어 봐요, {STARKY%}……\\n이건 눈물이라고 해요.{bpage}\\n슬플 때, 아플 때\\n눈에서 나튀렐망\\n흘러나오는\\n거예요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:19",
+  "jh": "c93e39b80c10",
+  "eh": "cc9d42b934cb",
+  "ko": "{HARLEY%}:\\n{color(GRAY)}하아……{color(0)}\\n이제 자요, {STARKY%}.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:20",
+  "jh": "c9f07a9ffcb0",
+  "eh": "575b3b1a4b23",
+  "ko": "그리고 제가 울었다는 거\\n아무한테도 말하지 마요.\\n말 안 하겠다고\\n약속해요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:21",
+  "jh": "acf331fdc10a",
+  "eh": "e03e2976b478",
+  "ko": "{HARLEY%}:\\n우리가 아무리 친해도\\n그건 말해 줄 수 없어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:22",
+  "jh": "147f9eaa7677",
+  "eh": "a8fc03cb4d37",
+  "ko": "{HARLEY%}:\\n언젠가는 알게 될 거예요,\\n{STARKY%}.\\n그때가 온다면……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:23",
+  "jh": "a6c303a88241",
+  "eh": "f7101d04f6e6",
+  "ko": "{HARLEY%}:\\n어떤 슬픔에도\\n답은 있어요……\\n그렇게 믿어요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:24",
+  "jh": "ed4d6208728c",
+  "eh": "ce7a9fd398cb",
+  "ko": "{HARLEY%}:\\n오 르부아……\\n{SERGE%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:25",
+  "jh": "a8d3c8884974",
+  "eh": "a79c5ae86903",
+  "ko": "{STARKY%}:\\n뭔가 다르조.{bpage}\\n{STARKY%}는 알 수 있조.\\n{HARLEY%}의 색이\\n평소랑 다르조.\\n어두운 색이조.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:26",
+  "jh": "44b7bc843477",
+  "eh": "fbd7e6947dc4",
+  "ko": "{STARKY%}:\\n{STARKY%}는 아무것도\\n아닌 게 아니라고 생각하조.{bpage}\\n왜 {STARKY%}한테\\n거짓말하조, {HARLEY%}?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:27",
+  "jh": "6eb31487edc1",
+  "eh": "40cdcca92d6b",
+  "ko": "{STARKY%}:\\n눈물……?\\n운다……?{bpage}\\n인간은 슬프면\\n눈에서 물이 나오조?{bpage}\\n눈물로 슬픈 색을\\n씻어 내는 거조?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:28",
+  "jh": "ee74be7066c3",
+  "eh": "f1b2e6a4fef9",
+  "ko": "{STARKY%}:\\n{STARKY%}는 약속이 좋조.{bpage}\\n{HARLEY%}가 울었다는 거\\n아무한테도 말 안 하겠다고\\n{STARKY%}가 약속하조.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:29",
+  "jh": "22e95625cdb8",
+  "eh": "805b5ef31810",
+  "ko": "{STARKY%}:\\n잠깐만……\\n운다는 건\\n{HARLEY%}가 슬프다는 거조.{bpage}\\n그런데 왜조?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:30",
+  "jh": "562c61145f49",
+  "eh": "b561135862bb",
+  "ko": "{FARGO%}:\\n뭐!?\\n도망치다니\\n한심하군!{bpage}\\n정신 차려라!\\n준비되면 다시\\n키를 잡아라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:31",
+  "jh": "3ea8826bf6a7",
+  "eh": "d771b6320070",
+  "ko": "{FARGO%}:\\n{color(GRAY)}(젠장, 팔이……){color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:32",
+  "jh": "5cf3d2437e33",
+  "eh": "ff367c3897fb",
+  "ko": "{FARGO%}:\\n네 이름이 {SERGE%}라고 했지?{wait(30)}\\n가서 키를 잡아라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:33",
+  "jh": "c74dcc2ec200",
+  "eh": "3505099171b9",
+  "ko": "{FARGO%}:\\n고개 들어라, 이놈들아!\\n우린 천하무적호의\\n해적이라는 걸 잊지 마라!!!{bpage}\\n각자 위치로!\\n저 괴물들한테 우리 실력을\\n보여 줄 때다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:34",
+  "jh": "75bfd8cada63",
+  "eh": "078ab27741f4",
+  "ko": "{FARGO%}:\\n{SERGE%}!\\n기합 넣어라!{wait(45)}\\n온다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:35",
+  "jh": "562c61145f49",
+  "eh": "b561135862bb",
+  "ko": "{FARGO%}:\\n뭐!?\\n도망치다니\\n한심하군!{bpage}\\n정신 차려라!\\n준비되면 다시\\n키를 잡아라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:36",
+  "jh": "fd7ed2d5da9d",
+  "eh": "335597bbb98b",
+  "ko": "{FARGO%}:\\n뭐냐?{wait(30)}\\n무슨 일이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:37",
+  "jh": "c683c9a6d07f",
+  "eh": "cc46107269f8",
+  "ko": "{FARGO%}:\\n그렇군……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:38",
+  "jh": "59318b323cd6",
+  "eh": "e699a963f6de",
+  "ko": "{FARGO%}:\\n뭐냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:39",
+  "jh": "1e8053dc783c",
+  "eh": "d908df7b461e",
+  "ko": "{FARGO%}:\\n응……?{bpage}\\n{fset(1)}어……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:40",
+  "jh": "093b216583e2",
+  "eh": "5cf6863061ff",
+  "ko": "{FARGO%}:\\n……{wait(30)}\\n글쎄다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:41",
+  "jh": "c892997f97c5",
+  "eh": "2af273ddc0ae",
+  "ko": "{FARGO%}:\\n이봐……{wait(30)}\\n너 바다 좋아하냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:42",
+  "jh": "67d917714716",
+  "eh": "c67273f2d19c",
+  "ko": "{FARGO%}:\\n난 바다가 좋다……\\n넓고, 깊고……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:43",
+  "jh": "bbdd50f4f7f5",
+  "eh": "af53f003cf77",
+  "ko": "{FARGO%}:\\n여기 일이\\n전부 끝나면……{bpage}\\n세상의 다른 바다로\\n나가 볼까 생각 중이다.{wait(60)}\\n너도 같이\\n가 볼 테냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:44",
+  "jh": "17ff94dee49c",
+  "eh": "cb24eabb704d",
+  "ko": "{FARGO%}:\\n그래……\\n그녀는 죽었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:45",
+  "jh": "59318b323cd6",
+  "eh": "659a2386acd2",
+  "ko": "{FARGO%}:\\n뭐냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:46",
+  "jh": "b2613ea2100a",
+  "eh": "6f8fb673d08e",
+  "ko": "{FARGO%}:\\n글쎄다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:47",
+  "jh": "60b22b162436",
+  "eh": "7c6c63519206",
+  "ko": "{FARGO%}:\\n(하하!){mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:48",
+  "jh": "645ad3ea6407",
+  "eh": "2a5c42c34a64",
+  "ko": "{FARGO%}:\\n믿고 있겠다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:49",
+  "jh": "b9bf32b0143e",
+  "eh": "ef32243dfcbb",
+  "ko": "{FARGO%}:\\n투덜댈 시간 없다!\\n내가 하라면\\n하는 거다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:50",
+  "jh": "7ea475596fef",
+  "eh": "eea54b3d0e3d",
+  "ko": "일동:\\n예이, 선장님!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:51",
+  "jh": "88072088a9d5",
+  "eh": "004172239be8",
+  "ko": "{KID%}:\\n저기, {SERGE%}……\\n당분간 나랑\\n같이 다니는 거 어때?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:52",
+  "jh": "fbc4c62a014d",
+  "eh": "3d3c387a0e4b",
+  "ko": "아, 진짜……{wait(5)}\\n입 다물고\\n덤비기나 하라고!?{bpage}\\n달까지 날아가게\\n엉덩이를\\n걷어차 주마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:53",
+  "jh": "f21fc6eb5770",
+  "eh": "447316b70cb6",
+  "ko": "{KID%}:\\n기다려라, 야마네코!\\n오늘이야말로 네놈의\\n숨통을 끊어 주마!!!{bpage}\\n기도나 해 둬라!{wait(20)}\\n……그래 봤자\\n소용없겠지만!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:54",
+  "jh": "1e3ec0e4da61",
+  "eh": "2a476eda67f6",
+  "ko": "{KID%}:\\n더는 못 참아!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:55",
+  "jh": "b815f692a7b7",
+  "eh": "198c61d3a8ac",
+  "ko": "{KID%}:\\n그래……\\n알고 있어.{bpage}\\n오늘이 네놈의\\n최후다, 야마네코!!!{wait(10)}\\n기도나 해라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "271:56",
+  "jh": "9e9f3c9a75a3",
+  "eh": "d0dc5f29ed66",
+  "ko": "{STARKY%}:\\n왜 그러조, {HARLEY%}?\\n눈에서 액체가\\n흐르고 있조.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:0",
+  "jh": "36ae5ba4c722",
+  "eh": "41812b74ab7b",
+  "ko": "{SERGE%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:1",
+  "jh": "39530642e90a",
+  "eh": "fea141878cc7",
+  "ko": "세르주가 쓰러진다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:2",
+  "jh": "36ae5ba4c722",
+  "eh": "41812b74ab7b",
+  "ko": "{SERGE%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:3",
+  "jh": "39530642e90a",
+  "eh": "fea141878cc7",
+  "ko": "세르주가 쓰러진다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:4",
+  "jh": "36ae5ba4c722",
+  "eh": "41812b74ab7b",
+  "ko": "{SERGE%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:5",
+  "jh": "39530642e90a",
+  "eh": "cc2af1892e66",
+  "ko": "세르주가 쓰러진다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:6",
+  "jh": "e0264a509137",
+  "eh": "8c44895623ad",
+  "ko": "{KID%}:\\n어이! 이게 진짜\\n유령선이야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:7",
+  "jh": "3e9d627fee12",
+  "eh": "4e4ce81eed3d",
+  "ko": "{POSHUL%}:\\n유령선처럼\\n안 보이슈……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:8",
+  "jh": "89d0698a6a05",
+  "eh": "8a5164ba0d8b",
+  "ko": "{MOJO%}:\\n……\\n여기가 정말\\n유령선이다와라……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:9",
+  "jh": "31bc75ee0338",
+  "eh": "addc25e4d88a",
+  "ko": "{LEENA%}:\\n유령선 같지는\\n않은데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:10",
+  "jh": "a7889bd37d09",
+  "eh": "f016ab28acc7",
+  "ko": "{SKELLY%}:\\n유령은 처음\\n만나 봐요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:11",
+  "jh": "dff33a774f48",
+  "eh": "838aa251a571",
+  "ko": "{PIERRE%}:\\n아, 위?\\n이게 정말\\n유령선이오?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:12",
+  "jh": "362f87b09bc1",
+  "eh": "011223cb0b7c",
+  "ko": "{NIKKI%}:\\n이게 정말\\n유령선이야……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:13",
+  "jh": "6ae46fd6c649",
+  "eh": "0245ccfc4421",
+  "ko": "{KORCHA%}:\\n이건 보통\\n유령선이 아닌데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:14",
+  "jh": "554ca6feaff5",
+  "eh": "d0fbb43e45c2",
+  "ko": "{RAZZLY%}:\\n유령선은\\n처음 타 봐……\\n요정 무서워……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:15",
+  "jh": "13b5908edd2b",
+  "eh": "8be3d6b06e11",
+  "ko": "{MEL%}:\\n우와! 여기가\\n유령선이구나……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:16",
+  "jh": "afbf05859952",
+  "eh": "38c71e1c500f",
+  "ko": "{GRECO%}:\\n이게……\\n유령선인가,\\n아미고……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:17",
+  "jh": "8736de040d4a",
+  "eh": "250624c32399",
+  "ko": "{GUILE%}:\\n이건……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:18",
+  "jh": "99b4cc5f9b40",
+  "eh": "f38f5d00a224",
+  "ko": "{PARTY1%}:\\n우리한테 원하는 게\\n뭐야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:19",
+  "jh": "692521aeb8ed",
+  "eh": "12240e6d1629",
+  "ko": "{PARTY0%}:\\n우리한테 원하는 게\\n뭐야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:20",
+  "jh": "7e77487c517d",
+  "eh": "3828973ce1bf",
+  "ko": "{PARTY1%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:21",
+  "jh": "ea63dacb6eb8",
+  "eh": "e4df224fce46",
+  "ko": "{PARTY2%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:22",
+  "jh": "59f267f78766",
+  "eh": "36bd05773e81",
+  "ko": "{KID%}:\\n헛소리 마!\\n우린 그놈들 편이 아니야!\\n그놈들을 쫓고 있다고!{bpage}\\n방해하면 달까지\\n날아가게\\n걷어차 줄 테다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:23",
+  "jh": "42b9a0749437",
+  "eh": "07c1be3359dd",
+  "ko": "{POSHUL%}:\\n시치미 떼는 거\\n아니슈.{bpage}\\n무슨 소린지\\n하나도 모르겠슈.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:24",
+  "jh": "0d5b402fbe62",
+  "eh": "670454d0bd0b",
+  "ko": "{MOJO%}:\\n무슨 소리다와라?\\n우리는 그놈들을\\n쫓고 있다와라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:25",
+  "jh": "23eeefbc18ff",
+  "eh": "fdbbce19574c",
+  "ko": "{LEENA%}:\\n아니, 아니, 오해야.\\n우리는 그놈들을 쫓고 있어.{bpage}\\n그놈들은 우리 적이야!\\n적{wait(20)}이라고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:26",
+  "jh": "3cd072e25116",
+  "eh": "d273d8d3f274",
+  "ko": "{SKELLY%}:\\n무슨 소리야, 이봐!?\\n우릴 야마네코랑 엮지 마!{bpage}\\n그 녀석은 우리 적이고\\n우린 그 녀석을 찾고 있어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:27",
+  "jh": "59509c80d89f",
+  "eh": "a2e48a70880b",
+  "ko": "{PIERRE%}:\\n농, 농, 농, 농, 농……\\n크게 오해하고 계시오.{bpage}\\n우리는 그들을 쫓고 있소.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:28",
+  "jh": "561d009712f3",
+  "eh": "4877f0deb55b",
+  "ko": "{NIKKI%}:\\n설마 우리가 그놈들\\n편이라고 생각하는 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:29",
+  "jh": "9295d4eb2a27",
+  "eh": "71d98131994e",
+  "ko": "{KORCHA%}:\\n뭔 소리야!?\\n우리가 언제부터\\n야마네코 편이었는데!?{bpage}\\n우린 그놈들을 쫓고 있다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:30",
+  "jh": "347b50509c80",
+  "eh": "49cc280fd2af",
+  "ko": "{RAZZLY%}:\\n우리가 야마네코의\\n전령이야,\\n{SERGE%}?{bpage}\\n그놈들은 적인 줄\\n알았는데?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:31",
+  "jh": "b1a8162d9b5e",
+  "eh": "ead808e9a01a",
+  "ko": "{MEL%}:\\n아니……\\n우린 전령 아니야.{wait(30)}\\n그놈들을 쫓는 중이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:32",
+  "jh": "4907bb2bd7e8",
+  "eh": "df9ba221e6ff",
+  "ko": "{GRECO%}:\\n사실 우리는 그들을\\n쫓는 중이다, 아미고……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:33",
+  "jh": "f4223a552e14",
+  "eh": "d711fede4729",
+  "ko": "{GUILE%}:\\n{color(GRAY)}하아……{color(0)}\\n사실이 아니다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:34",
+  "jh": "2a87821ce4f9",
+  "eh": "32d9c58629ce",
+  "ko": "{KID%}:\\n헛소리 집어치우고\\n본론만 말해!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:35",
+  "jh": "8ddf6e6ed784",
+  "eh": "35413944257e",
+  "ko": "{POSHUL%}:\\n그래서 하고 싶은\\n말이 뭐슈?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:36",
+  "jh": "b8b3bebb9672",
+  "eh": "6ab0b044f8b5",
+  "ko": "{MOJO%}:\\n무슨 말을 하고\\n싶은 거다와라?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:37",
+  "jh": "ce4a120b1bf1",
+  "eh": "2508ba087e5a",
+  "ko": "{LEENA%}:\\n뭐야……!?\\n왜!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:38",
+  "jh": "43eff3d52b22",
+  "eh": "7a4195e2f932",
+  "ko": "{SKELLY%}:\\n무슨 말을 하고\\n싶은 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:39",
+  "jh": "95b4563c8a9e",
+  "eh": "ce4db0746085",
+  "ko": "{PIERRE%}:\\n무슨 말을 하고\\n싶은 거요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:40",
+  "jh": "2452e04fe374",
+  "eh": "07f8489983d1",
+  "ko": "{NIKKI%}:\\n무슨 말을 하고\\n싶은 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:41",
+  "jh": "6c44763d46fb",
+  "eh": "af3b46b62d77",
+  "ko": "{KORCHA%}:\\n무슨 말을 하고\\n싶은 건데?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:42",
+  "jh": "b06ddeb21e38",
+  "eh": "24edee9c5e35",
+  "ko": "{RAZZLY%}:\\n대체 무슨 말을\\n하고 싶은 거야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:43",
+  "jh": "3764c80c53a5",
+  "eh": "5699f168a924",
+  "ko": "{MEL%}:\\n무슨 말을 하고\\n싶은 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:44",
+  "jh": "ee55b86f01be",
+  "eh": "9740400856e1",
+  "ko": "{GRECO%}:\\n무슨 말을 하고\\n싶은 거지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:45",
+  "jh": "8736de040d4a",
+  "eh": "467763c32fe3",
+  "ko": "{GUILE%}:\\n무슨 말을 하고\\n싶은 거지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:46",
+  "jh": "f4e6ee13f37b",
+  "eh": "1972f2c6fef4",
+  "ko": "{PARTY1%}:\\n{SERGE%}!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:47",
+  "jh": "f9a5aaacf73f",
+  "eh": "d949ee8b9d79",
+  "ko": "한 명 더 쓰러진다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:48",
+  "jh": "3fc7a9505935",
+  "eh": "0f0639c71490",
+  "ko": "{PARTY0%}:\\n{SERGE%}!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:49",
+  "jh": "f9a5aaacf73f",
+  "eh": "d949ee8b9d79",
+  "ko": "한 명 더 쓰러진다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:50",
+  "jh": "f9a5aaacf73f",
+  "eh": "d949ee8b9d79",
+  "ko": "한 명 더 쓰러진다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:51",
+  "jh": "1930cb4b3d02",
+  "eh": "f35a95ec44da",
+  "ko": "마지막 한 명이 쓰러진다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:52",
+  "jh": "e9aff409b242",
+  "eh": "f84c19062871",
+  "ko": "{KID%}:\\n그래, 그래……\\n해적한테 그런 설교\\n듣고 싶진 않거든.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "272:53",
+  "jh": "34304138441e",
+  "eh": "65416b22b424",
+  "ko": "{POSHUL%}:\\n해적이 말하니까\\n설득력이 없슈.{mend}",
+  "status": "draft",
+  "note": ""
+ }
+]

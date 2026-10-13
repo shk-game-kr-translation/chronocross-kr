@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "387:15",
+  "jh": "b43af83eea30",
+  "eh": "46980f75f221",
+  "ko": "즐거운 일……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:16",
+  "jh": "ace1a463c3f6",
+  "eh": "f8bfd5b111bd",
+  "ko": "　　있잖아요, 그대가\\n　　좋아하던 노래를\\n　　들려주세요……{bpage}\\n　　내가 모르는\\n　　먼 세계의\\n　　멋진 노래를……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:17",
+  "jh": "670cd12f3127",
+  "eh": "4aac779e5f33",
+  "ko": "노래……?{wait(15)}\\n그런 것,\\n나는 모르오.{bpage}\\n노래 따위 불러서\\n어쩌자는 거요?{bpage}\\n무슨 득이라도\\n있단 말이오?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:18",
+  "jh": "21695bcedc30",
+  "eh": "e748eb0f1fea",
+  "ko": "가엾은 사람……{wait(15)}\\n노래는 사람을\\n행복하게 해요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:19",
+  "jh": "c3ad5f630770",
+  "eh": "841e341db533",
+  "ko": "　　슬플 때는 그 슬픔을\\n　　다정하게 감싸 주고……{bpage}\\n　　즐거울 때는\\n　　함께 웃어 주죠.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:20",
+  "jh": "9f858c962bae",
+  "eh": "701a8cf21e93",
+  "ko": "노래란\\n그런 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:21",
+  "jh": "b142e1b1a178",
+  "eh": "9f531e01a530",
+  "ko": "그렇소……{bpage}\\n하지만 안타깝게도\\n내게 노래는 상관없소.{bpage}\\n웃는 법도 우는 법도\\n오래전에 잊어버렸으니.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:22",
+  "jh": "6274203e75e1",
+  "eh": "85231bd89611",
+  "ko": "몹시 그리운 느낌이오.{bpage}\\n아주 먼 옛날 어딘가에서\\n어렴풋이 들은 것 같은……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:23",
+  "jh": "442d16f653e3",
+  "eh": "9cd57da0cc11",
+  "ko": "따스한 빛에 감싸이는 듯한\\n신비로운 노래로다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:24",
+  "jh": "c5f7193a5add",
+  "eh": "33cfc2d95a11",
+  "ko": "우리 섬에 전해 오는\\n소중한 노래예요.{bpage}\\n노래를 모르는 그대의\\n마음에도 닿은 모양이네요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:25",
+  "jh": "4acbcf1ed7ca",
+  "eh": "1484a575fa35",
+  "ko": "그럼 약속해요……{bpage}\\n그대를 구해 준 대가로\\n이 노래를 내게 불러 줘요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:26",
+  "jh": "4cb1b54f4012",
+  "eh": "27abf3a1c482",
+  "ko": "기다려 주오!\\n그런 일은\\n내겐 무리요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:27",
+  "jh": "c6c4b01de0f0",
+  "eh": "2ec8336678ba",
+  "ko": "“못 하는” 것과\\n“안 하는” 것은 달라요.{wait(15)}\\n약속이에요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:28",
+  "jh": "6c7b661ee8e6",
+  "eh": "70502d66ccf2",
+  "ko": "기다려……\\n가지 마오!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:29",
+  "jh": "d558de601c1c",
+  "eh": "eabe85368041",
+  "ko": "{color(GRAY)}하아……{color(0)}\\n역시 나에게\\n음악 따윈\\n무리로다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:30",
+  "jh": "0a07277192c6",
+  "eh": "0fccdc73a62b",
+  "ko": "곤란한 모양이네요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:31",
+  "jh": "2ead079090dc",
+  "eh": "6c2ac8d44ab0",
+  "ko": "그대들은……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:32",
+  "jh": "2e1ca30d97bd",
+  "eh": "1252659d9df3",
+  "ko": "언니는\\n그대가 노래할 때까지\\n나오지 않을 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:33",
+  "jh": "6bc31e168247",
+  "eh": "2d4f34b8f648",
+  "ko": "부탁이오!\\n내게 노래를 가르쳐 주오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:34",
+  "jh": "ef9aff3ee7e5",
+  "eh": "dd973fa213b9",
+  "ko": "음악과 노래는\\n가르치거나 배우는 게\\n아니에요.{bpage}\\n느끼는 거죠!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:35",
+  "jh": "95279cab0b72",
+  "eh": "460b0b16b22f",
+  "ko": "우선 소리를\\n내 봐요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:36",
+  "jh": "329c29b94fae",
+  "eh": "d615d51fc463",
+  "ko": "……안 되겠네요.\\n아무 감정도\\n담겨 있지 않아요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:37",
+  "jh": "3431e433bc0a",
+  "eh": "28e17c2fe51f",
+  "ko": "잘하지 않아도 되니까\\n자기 마음을 담아야 해요.{bpage}\\n말로는 표현할 수 없는\\n그대의 마음을……{bpage}\\n그대의 악기로\\n들려주세요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:38",
+  "jh": "5679b3217fea",
+  "eh": "2789be8a669e",
+  "ko": "그래요……{wait(30)}\\n그대로 계속해요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:39",
+  "jh": "22f004cf69bf",
+  "eh": "d8e652794d34",
+  "ko": "그대는\\n다정한 사람이군요.{wait(15)}\\n소리를 들으면 알아요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:40",
+  "jh": "f548609ac95f",
+  "eh": "8d4481053419",
+  "ko": "후후…… 바로 그거예요!{wait(15)}\\n왠지 즐거워지네요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:41",
+  "jh": "f35ed07bb8db",
+  "eh": "73bd50f439f2",
+  "ko": "어떻소……?{wait(15)}\\n그대 생각은?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:42",
+  "jh": "36cd18da3cdb",
+  "eh": "962778c41d38",
+  "ko": "정말 멋져요……\\n음 하나하나가\\n온몸을 감싸는 듯해요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:43",
+  "jh": "68d4807a498a",
+  "eh": "e91c9b169931",
+  "ko": "그럼 내게로 오오,\\n사랑스러운 바다의 요정이여……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:44",
+  "jh": "17c0f3d22790",
+  "eh": "c375a5c32182",
+  "ko": "온 세상이 손을 맞잡고\\n살 수 있는 날이 오면……{bpage}\\n그날 나는 반드시 그대를\\n이 아름다운 섬으로\\n데려오리다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:45",
+  "jh": "67b949cb119c",
+  "eh": "c5911edf994b",
+  "ko": "그리고……{wait(15)}\\n그제야 비로소……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:46",
+  "jh": "79d15cf798d3",
+  "eh": "72ba0b091f86",
+  "ko": "인간과 자연이\\n함께 살 수 있는……{bpage}\\n그리고 이 노래가\\n언제까지나 울려 퍼지는……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:47",
+  "jh": "120bb16c4974",
+  "eh": "6780b176b35a",
+  "ko": "그런 멋진 세계를\\n함께 만들어 가오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:48",
+  "jh": "976f6732189a",
+  "eh": "5b2b3d8b8e5e",
+  "ko": "자, 그대여……\\n오시오!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:49",
+  "jh": "c7560e84a641",
+  "eh": "97cbcc81a355",
+  "ko": "이기는 것이\\n전부였던 나날은\\n끝났다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:50",
+  "jh": "03890d2692be",
+  "eh": "1137fb6fc789",
+  "ko": "어제의 벗은 내일의 적……{wait(15)}\\n그것은 배신과 증오의\\n나날이었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:51",
+  "jh": "ef615b3a4280",
+  "eh": "56bfcbefde6b",
+  "ko": "정상에 오르고 나면\\n남는 것은\\n추락뿐……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:52",
+  "jh": "7ce09d6306ed",
+  "eh": "fb1edad2ab53",
+  "ko": "모든 것을 잃고……\\n영광의 훈장이었던\\n무수한 상처들도\\n아파 오기 시작한다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:53",
+  "jh": "606f4a83a2fa",
+  "eh": "c8b2ee32d0d9",
+  "ko": "아아, 깨어났는가……?\\n여기는 어디인가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:54",
+  "jh": "56671273c591",
+  "eh": "385aa1ff9da2",
+  "ko": "바다 어딘가에 숨어 있다는\\n고래들의 무덤인가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:55",
+  "jh": "dfdf3155781d",
+  "eh": "1e3bd652cab6",
+  "ko": "이쪽……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:56",
+  "jh": "a8301d57f701",
+  "eh": "3dcd88986074",
+  "ko": "누가 있는가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:57",
+  "jh": "d01efb653fee",
+  "eh": "8bd78a9f0313",
+  "ko": "이쪽이에요……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:58",
+  "jh": "5504d7e1052e",
+  "eh": "ae1590cb1155",
+  "ko": "그대가 만약\\n슬픔 끝에\\n절망하게 된다면……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:59",
+  "jh": "5842cee6f819",
+  "eh": "23a4810c64a9",
+  "ko": "이 노래를 흥얼거리며\\n떠올려 줘요……{bpage}\\n지금 이 순간……\\n그대와 나의 마음이\\n서로 울리고 있었다는 걸……{bpage}\\n그리고 그것은\\n영원히 이어지는\\n노래라는 걸……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:60",
+  "jh": "2d330a2dff78",
+  "eh": "c2e88038f6ff",
+  "ko": "보세요! 별들이\\n우리 노래에 맞춰\\n반짝이고 있어요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:61",
+  "jh": "78fe3190b71f",
+  "eh": "775842c3d117",
+  "ko": "가장 밝게 빛나는 저것이\\n디어머드의 별……{bpage}\\n그리고 그 옆에 희미하게\\n보이는 것이 그라냐의 별……{bpage}\\n우리 뱃사람은 저 두 별을\\n길잡이 삼아\\n배를 몰지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:62",
+  "jh": "ac5c830cdab8",
+  "eh": "c22a353d6d0f",
+  "ko": "잘 아시네요!\\n별에 이름이 있는 줄은\\n몰랐어요.{bpage}\\n그저 밤하늘에 빛나는\\n보석 같은 거라고만\\n생각했어요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:63",
+  "jh": "dea89d0bac26",
+  "eh": "ca27651e5f16",
+  "ko": "나는 별이 이토록\\n아름다운 줄\\n몰랐소……{bpage}\\n이렇게 느긋하게\\n별을 바라보는 것조차\\n예전의 나는 못 했지……{bpage}\\n별들은 언제나 내게\\n노래하고 있었는데도.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:64",
+  "jh": "476cc5c237de",
+  "eh": "1fd9632e9093",
+  "ko": "요 며칠\\n그대와 날마다\\n노래하면서……{bpage}\\n눈에 보이는 것만이\\n전부가 아님을\\n깨달았소……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:65",
+  "jh": "e759598d328e",
+  "eh": "5f847d67322b",
+  "ko": "별들이 반짝이는 소리도……{wait(15)}\\n파도가 우는 소리도……{wait(15)}\\n침묵마저도……{bpage}\\n모두가 그대와 나와\\n함께 노래하고 있소……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:66",
+  "jh": "c31ebaf02fdf",
+  "eh": "2091508316bb",
+  "ko": "그대가 살던 세계도\\n같은 별 아래 있다니\\n참 신기해요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:67",
+  "jh": "732215d1d8e7",
+  "eh": "4975a3d44e1e",
+  "ko": "그러고 보니\\n나는 곧 내 세계로\\n돌아가야 하오.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:68",
+  "jh": "0c1d210e9915",
+  "eh": "6dbc3fd937d1",
+  "ko": "어째서요?\\n여기가 싫은가요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:69",
+  "jh": "4ad5f7806a27",
+  "eh": "9d0a31c60e77",
+  "ko": "추격자들이 가까이 왔소……\\n내가 여기 있으면\\n그대들이 위험해지오……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:70",
+  "jh": "712d96b32b2a",
+  "eh": "39ee2b38ceba",
+  "ko": "그럼 나도\\n함께 가게 해 줘요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:71",
+  "jh": "060d27e785eb",
+  "eh": "3312f1116b8b",
+  "ko": "그런 위험한 일은\\n허락할 수 없소!{bpage}\\n여기서 한 발짝만 나가면\\n거센 폭풍과\\n슬픈 싸움이 기다리고 있소.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:72",
+  "jh": "69e9d9804b95",
+  "eh": "72cf27852dc6",
+  "ko": "그래도……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:73",
+  "jh": "9d269c52dcfd",
+  "eh": "b83a547b9446",
+  "ko": "그래도 그대는\\n나와 함께\\n가겠다는 거요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:74",
+  "jh": "a002b4b66b1e",
+  "eh": "3f8dee3679b5",
+  "ko": "그건 알고 있어요……{bpage}\\n하지만 세상 어딘가에\\n싸움이 있는데\\n여기만 평화롭다니……\\n그건 이상한 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "387:75",
+  "jh": "17648ee006ae",
+  "eh": "9b33ad963f7d",
+  "ko": "우리가 나누는 사랑을\\n온 세상과 나눌 수\\n있을지도 몰라요.{bpage}\\n분명 모든 사람과 자연이\\n손을 맞잡을 수\\n있을 거예요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:0",
+  "jh": "2a29b33e77df",
+  "eh": "d83c4cd88c00",
+  "ko": "현자:\\n호호오……{wait(15)}\\n마침내 해냈구먼,\\n그 녀석들!{bpage}\\n자, 모두 보게나.\\n우리 마블이 눈앞일세.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:1",
+  "jh": "89a56c617ba6",
+  "eh": "97ac93fe25e0",
+  "ko": "현자:\\n자……\\n바다 백성의 근성을\\n보여 주자꾸나!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:2",
+  "jh": "bbec11cfdd14",
+  "eh": "5a8da78d00cc",
+  "ko": "현자:\\n나머지는 자네들\\n하기에 달렸네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:3",
+  "jh": "81020040b4c3",
+  "eh": "c66a0e11b1f2",
+  "ko": "오랜만이라\\n어색하네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:4",
+  "jh": "81020040b4c3",
+  "eh": "c66a0e11b1f2",
+  "ko": "오랜만이라\\n어색하네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:5",
+  "jh": "b5fa7c22b912",
+  "eh": "5e759b544aa3",
+  "ko": "다시 이걸\\n잡는 날이 올 줄은\\n몰랐어……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:6",
+  "jh": "4da16164f102",
+  "eh": "dac0efc0d1e7",
+  "ko": "리듬은 음악의\\n핵심이니까\\n제대로 해야지……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "388:7",
+  "jh": "49bab936cbaa",
+  "eh": "81cd582c27a3",
+  "ko": "아~, 이제\\n그 어두운 방은\\n지긋지긋해……{bpage}\\n여긴 정말\\n기분 좋다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:0",
+  "jh": "fd40aaccc499",
+  "eh": "4026a74946c5",
+  "ko": "{NIKKI%}:\\n고마워……{bpage}\\n아니……\\n어떤 말로도\\n이 마음은\\n표현할 수 없어……{bpage}\\n이번 일로\\n진정한 나 자신을\\n마주할 수 있었어.{bpage}\\n앞으로는 인간뿐 아니라\\n살아 있는 모든 것에게\\n이 마음을\\n전하고 싶어……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:1",
+  "jh": "46cb22f546b8",
+  "eh": "b5f238c95185",
+  "ko": "{NIKKI%}:\\n고아니?{wait(15)}\\n나랑 같구나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:2",
+  "jh": "142b7283d36c",
+  "eh": "5c3bb6bd9e34",
+  "ko": "{NIKKI%}:\\n무슨 일이야, {MIKI%}?\\n네가 내 방에\\n오다니 별일이네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:3",
+  "jh": "1c484e2254b0",
+  "eh": "61df77bbb5a2",
+  "ko": "{MIKI%}:\\n……{wait(10)}\\n아, 아무것도 아냐!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:4",
+  "jh": "8b79640c789f",
+  "eh": "4441e51e775d",
+  "ko": "{NIKKI%}:\\n{MARCY%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:5",
+  "jh": "e2c32c2bf859",
+  "eh": "2a01a9dbd53f",
+  "ko": "{MARCY%}:\\n친한 척 부르지 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:6",
+  "jh": "4e1e7e1e2bfc",
+  "eh": "c43a2e9ed513",
+  "ko": "{NIKKI%}:\\n………{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:7",
+  "jh": "df0c650ea546",
+  "eh": "2cbfc68942da",
+  "ko": "{NIKKI%}:\\n아버지를 깨워 줘서\\n고마워……{bpage}\\n마블은 분명\\n아름다운 섬으로 돌아갈 거야.{wait(10)}\\n언젠가 아름다워진 마블에서\\n콘서트를 열고 싶어……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:8",
+  "jh": "8389d5bb2ed9",
+  "eh": "21dee5e02d07",
+  "ko": "{FARGO%}:\\n아니…… 고맙다고 할 건\\n나다, {NIKKI%}.{bpage}\\n그 녀석은 내 안에도\\n숨어 있는 내 모습이다.\\n그래서 나는 그 녀석의\\n마음을 안다……{bpage}\\n다만 거기 머물러서는\\n아무것도 만들어 낼 수 없지.\\n그 녀석은 그걸 깨달았다.\\n그건 네 덕분이다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:9",
+  "jh": "4e1e7e1e2bfc",
+  "eh": "c43a2e9ed513",
+  "ko": "{NIKKI%}:\\n………{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:10",
+  "jh": "f3472987d6fc",
+  "eh": "f1086fca651d",
+  "ko": "{NIKKI%}:\\n즐거웠어,\\n너랑 한 세션!{wait(15)}\\n언젠가 같이 투어하고 싶다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:11",
+  "jh": "2eecfc69dc72",
+  "eh": "f1b3cd04ba17",
+  "ko": "{NIKKI%}:\\n그래……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:12",
+  "jh": "cfef97c4c65e",
+  "eh": "29141440178c",
+  "ko": "{NIKKI%}:\\n……!?\\n또 다른 나……?{bpage}\\n꼭 같이 세션\\n해 보고 싶은데……!\\n어때!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:13",
+  "jh": "64cc423696a9",
+  "eh": "35763499714d",
+  "ko": "{NIKKI%}:\\n그래, 바라던 바야……!\\n네가 익힌 어머니의 노래,\\n나한테도 가르쳐 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:14",
+  "jh": "2eecfc69dc72",
+  "eh": "cf299c17ac2b",
+  "ko": "{NIKKI%}:\\n그럼……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:15",
+  "jh": "09e0a0a8276f",
+  "eh": "daa4bff5e9bd",
+  "ko": "{NIKKI%}:\\n정말……{wait(15)}\\n정말 멋진 곡이야……!!!{bpage}\\n연주만 해도\\n온몸이 짜릿해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:16",
+  "jh": "b26cc33acc39",
+  "eh": "aa11c1e6cb18",
+  "ko": "{NIKKI%}:\\n후훗, 역시\\n너도 마음에 들었구나?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:17",
+  "jh": "ef5ac8e8933f",
+  "eh": "b47fd33c8e57",
+  "ko": "{NIKKI%}은(는)\\n{NIKKI%}와의 세션으로\\n{color(3)}{itemwork(3)}{color(0)}을(를) 익혔다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:18",
+  "jh": "9198ab0aa3bd",
+  "eh": "921931d04716",
+  "ko": "{NIKKI%}:\\n마블 재건은\\n잘 되고 있어,\\n{IRENES%}?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:19",
+  "jh": "1b0600672edd",
+  "eh": "6c97e978c7a9",
+  "ko": "{IRENES%}:\\n네.\\n{FARGO%}는\\n사람이 달라졌어요.{bpage}\\n당신 노래 덕분에\\n옛날의 순수한 마음을\\n되찾았나 봐요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:20",
+  "jh": "b7454552f9c6",
+  "eh": "2f035621d063",
+  "ko": "{NIKKI%}:\\n그럼.\\n앞으로도 그 노래는\\n소중히 간직할게.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:21",
+  "jh": "b66d0891d0db",
+  "eh": "b766cac90a90",
+  "ko": "{IRENES%}:\\n어머……\\n여기서 뭘 하세요……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:22",
+  "jh": "51da8bbff0e3",
+  "eh": "17c29648d5ac",
+  "ko": "{NIKKI%}:\\n아인의 노래……?{wait(15)}\\n소문으로는 들었지만\\n정말 있는 건가……{bpage}\\n그걸로 마블을\\n구할 수 있는 거죠?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:23",
+  "jh": "9d086b494dc0",
+  "eh": "7b894ec1ede7",
+  "ko": "{IRENES%}:\\n네……{bpage}\\n지금 그 노래가 지닌\\n진정한 힘을 아는 건\\n현자뿐이에요.{bpage}\\n하지만 {FARGO%}는\\n그걸 알면서도\\n노래를……{wait(15)} 현자를\\n돌려주지 않아요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:24",
+  "jh": "41e11baa6e15",
+  "eh": "fa6bcdf5a935",
+  "ko": "{NIKKI%}:\\n그럼 현자가 직접\\n부르는 게 제일\\n좋지 않나요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:25",
+  "jh": "08a4291d5415",
+  "eh": "22beb64e7616",
+  "ko": "{IRENES%}:\\n현자는 이제 노래할 수 있는\\n몸이 아니에요……{bpage}\\n나이도 많은 데다 여기서\\n고된 일까지 해 와서……\\n지금 그 노래를 부를 수 있는 건\\n당신뿐이에요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:26",
+  "jh": "f0434f0b4223",
+  "eh": "878cf122eb61",
+  "ko": "{NIKKI%}:\\n제가 부를 수 있을까요,\\n그렇게 중요한 노래를……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:27",
+  "jh": "bdfcbfefa299",
+  "eh": "044760e6d60d",
+  "ko": "{IRENES%}:\\n네, 그건 괜찮아요.\\n왜냐하면 당신은……{bpage}\\n아뇨, 아무것도 아니에요.\\n어쨌든 그건\\n걱정 안 하셔도 돼요.{wait(15)}\\n부탁드려도 될까요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:28",
+  "jh": "379ea3d7712b",
+  "eh": "6d022c9147bc",
+  "ko": "{NIKKI%}:\\n알겠어요.{bpage}\\n이 일에 무척\\n진심이신 것 같네요.{bpage}\\n게다가 저도 그 노래를\\n더 알고 싶어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:29",
+  "jh": "0d538783ebbe",
+  "eh": "c8920f7f78e2",
+  "ko": "{IRENES%}:\\n고마워요.\\n그렇게 말해 주시니\\n힘이 나요.{bpage}\\n현자는 아마\\n“그랜드 슬램”이라는\\n구역 근처에 있을 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:30",
+  "jh": "7064fc06aebe",
+  "eh": "8151618af791",
+  "ko": "{NIKKI%}:\\n그런데……{bpage}\\n왜인지 당신을 보면 볼수록\\n그리운 기분이\\n들어요……{bpage}\\n전에 어디서\\n만난 적 있나요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:31",
+  "jh": "30bdb8ecb210",
+  "eh": "7e6dc7efe0c3",
+  "ko": "{IRENES%}:\\n네, 네……{wait(15)}\\n어디선가 만났을지도\\n모르겠네요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:32",
+  "jh": "def579ff436e",
+  "eh": "abee57ca7e27",
+  "ko": "{KID%}:\\n……?\\n{NIKKI%} 녀석\\n어디 갔지?{bpage}\\n좀 물어볼 게\\n있었는데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "389:33",
+  "jh": "190f9d73c05a",
+  "eh": "f13f73372b9d",
+  "ko": "{KID%}:\\n미안한데 잠깐\\n찾으러 갔다 올게……{wait(15)}\\n기다려 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:0",
+  "jh": "ff4b4bc9f865",
+  "eh": "f829337ad9f1",
+  "ko": "{NIKKI%}:\\n역시\\n와 줬구나!\\n기다리고 있었어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:1",
+  "jh": "e99e3a673433",
+  "eh": "20628c8f0e35",
+  "ko": "{NIKKI%}:\\n다 모였으니\\n얘기를 시작할게.{bpage}\\n우리 노래로\\n섬을 구해 보지 않을래?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:2",
+  "jh": "6653fe6f2d39",
+  "eh": "71a570b0c438",
+  "ko": "{MIKI%}:\\n여전히\\n엉뚱한 소리를 하네,\\n{NIKKI%}!!!{bpage}\\n그런 게\\n될 리가 없잖아!?\\n정신 차려!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:3",
+  "jh": "85e98fcf83fe",
+  "eh": "b14a9e350b8b",
+  "ko": "{NIKKI%}:\\n아니, 진심이야.{bpage}\\n{IRENES%} 씨\\n말에 따르면\\n마블이라는 섬에\\n마물이 들끓고 있대.{bpage}\\n놈들의 유일한 약점은\\n그곳 현자가 아는\\n아인의 노래……{bpage}\\n우리가 섬 근처에서\\n공연하는 동안……{fset(1)}{bpage}\\n여기 이 사람들이\\n마물을 전멸시키는 거야.{bpage}\\n물론 도와줄 거지?\\n　　　물론이지!\\n　　　그건 못 해{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:4",
+  "jh": "a2eed1379b5b",
+  "eh": "c1be5114b10c",
+  "ko": "{NIKKI%}:\\n고마워!\\n분명 그렇게 말해\\n줄 줄 알았어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:5",
+  "jh": "899a02d9e517",
+  "eh": "92487b6929e0",
+  "ko": "{NIKKI%}:\\n……!?{wait(15)}\\n너희 힘이\\n꼭 필요해!{bpage}\\n달리 부탁할 사람도 없어.\\n현자한테 빚도 있잖아?\\n제발, 부탁할게!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:6",
+  "jh": "e5a5852daa61",
+  "eh": "8e0c1399968c",
+  "ko": "{IRENES%}:\\n노래 반주는\\n젤베스에 있는 아인들을\\n모아서 어떻게든 할게요.{bpage}\\n그 곡은 우리만의 음계를\\n쓰기 때문에\\n인간이 연주하기는\\n어려울 거예요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:7",
+  "jh": "9b584b95a125",
+  "eh": "dca04527ebf4",
+  "ko": "{MIKI%}:\\n하지만 그 마블까지\\n배를 몰고 가야\\n하잖아?{bpage}\\n우리 배는\\n젤베스에 단단히\\n묶여 있다고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:8",
+  "jh": "adb412d0afcd",
+  "eh": "02732c302c5f",
+  "ko": "게다가 그 {FARGO%}랑\\n계약을 맺었잖아!\\n멋대로 움직이면 곤란해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:9",
+  "jh": "c574f47fc0a4",
+  "eh": "59d16852b853",
+  "ko": "{NIKKI%}:\\n응, 알아.\\n물론 우리 배만\\n갈 생각은 없어.{bpage}\\n젤베스의 팬들한테도\\n미안하니까……{bpage}\\n남은 문제는 어떻게\\n아버……{wait(15)} 아니 {FARGO%}를\\n설득하느냐야.{bpage}\\n{fset(2)}뭐, 그건\\n{IRENES%} 씨에게\\n맡길게요.{bpage}\\n우리는 무대를\\n완성하는 것만\\n생각하자……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:10",
+  "jh": "c25ade9e4f11",
+  "eh": "6aa2e61d23d7",
+  "ko": "{MIKI%}:\\n흐~응, 왠지\\n재밌어지는데……{bpage}\\n우리 무대에 대한\\n열정이 어느 정도인지\\n시험받는 것 같아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:11",
+  "jh": "9ba3b53b1548",
+  "eh": "564ef86679f3",
+  "ko": "{NIKKI%}:\\n{MIKI%}도\\n찬성하는 거지?{bpage}\\n자, 모두!\\n그렇게 정해졌으면\\n바로 무대에서\\n리허설이다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:12",
+  "jh": "6cca788a5d79",
+  "eh": "58cea17197cd",
+  "ko": "{IRENES%}:\\n저기……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:13",
+  "jh": "d81b5bbe145b",
+  "eh": "52b556eb22b8",
+  "ko": "{IRENES%}:\\n직접 관계도 없는 여러분을\\n끌어들이고 말았네요……{bpage}\\n혹시 제가 여러분께\\n도움이 될 수 있다면\\n함께 가겠어요……{bpage}\\n　　　동료로 삼는다\\n　　　동료로 삼지 않는다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:14",
+  "jh": "54086c3c7b64",
+  "eh": "b7a8aec09d7a",
+  "ko": "{IRENES%}:\\n그렇군요……{wait(10)}\\n언제든 불러\\n주세요.{bpage}\\n혹시 여행 중에 {FARGO%}를\\n설득할 수 있을 것 같은 분을\\n만나면 알려 주세요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:15",
+  "jh": "c1ac89a30adc",
+  "eh": "771048fead4c",
+  "ko": "바빠,\\n방해하지 마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:16",
+  "jh": "c7647f609116",
+  "eh": "23c39ca84423",
+  "ko": "콘서트,\\n대성공이었어!!!{wait(10)}\\n너희가 도와준\\n덕분이야!{bpage}\\n일단 멤버들은\\n쉬게 해 주려고.\\n피곤할 테니까……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:17",
+  "jh": "99fdf2bc84ba",
+  "eh": "a4d37566d86a",
+  "ko": "{NIKKI%},\\n이번 무대는\\n걸려 있는 게\\n차원이 달라……{bpage}\\n잘 부탁해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:18",
+  "jh": "45027f9af959",
+  "eh": "c999ce609b0d",
+  "ko": "실은 무대가\\n이 배 어딘가에\\n있긴 한데……{bpage}\\n미안하지만 어딘지는\\n말 못 해. {NIKKI%}는\\n리허설 중 방문객을 싫어하거든.{bpage}\\n{FARGO%}를 설득할\\n방법이 떠오르면\\n알려 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:19",
+  "jh": "d0571ff68bee",
+  "eh": "594d73a02c84",
+  "ko": "아, 맞다,\\n현자한테서 전할 말이 있어.{wait(15)}\\n그러니까……{bpage}\\n“{color(4)}{itemwork(0)}{color(0)}을(를)\\n 사해 주변의 조류가\\n 다른 곳에서 쓰거라”{bpage}\\n난 무슨 뜻인지\\n전혀 모르겠지만\\n너희는 알겠지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:20",
+  "jh": "9aabdbae7868",
+  "eh": "e97fceca4df3",
+  "ko": "{MIKI%}:\\n큰소리친 건 좋은데\\n{NIKKI%} 녀석,\\n아직 대본을 안 줬어……{bpage}\\n대체 언제쯤에나\\n리허설에 들어갈는지……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:21",
+  "jh": "7c92137fd5e0",
+  "eh": "76e3d7808e53",
+  "ko": "{MIKI%}:\\n{NIKKI%},\\n초라한 영감님은\\n왜 데려온 건지……{bpage}\\n대체 무슨 생각이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:22",
+  "jh": "78d7a146c32e",
+  "eh": "251b7b9afb47",
+  "ko": "있잖아, 미이,{wait(15)}\\n그 립스틱\\n빌려줘!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:23",
+  "jh": "6658a2accc1c",
+  "eh": "fd7c2c61669c",
+  "ko": "{MIKI%} 씨\\n어떻게 된 걸까……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:24",
+  "jh": "dfbf955e49be",
+  "eh": "0bcacf492d56",
+  "ko": "분명 어디선가 혼자\\n생각에 잠겨 있을 거야……{wait(10)}\\n공연 끝나면 늘\\n그러잖아?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:25",
+  "jh": "282e11ad19e5",
+  "eh": "aa977927d229",
+  "ko": "수고하셨습니다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:26",
+  "jh": "266a6c584638",
+  "eh": "a1afc7e11abe",
+  "ko": "오늘은 화장이\\n잘 안 먹네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:27",
+  "jh": "9b115be73e52",
+  "eh": "4ca0661e7196",
+  "ko": "{NIKKI%}:\\n아, 너희구나.\\n우린 언제든\\n준비됐어!{bpage}\\n이제 어떻게든\\n아버지를 설득해서\\n배를 마블까지\\n옮기기만 하면 되는데……{bpage}\\n그게 제일 어려워.\\n지금의 아버지를\\n설득할 수 있는 사람이\\n있을까……?{bpage}\\n만약 있다면……{wait(15)}\\n옛날 아버지가 지녔던\\n순수한 마음을 지금도\\n간직한 사람이겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:28",
+  "jh": "f4d592d494c0",
+  "eh": "192162b339da",
+  "ko": "{NIKKI%}:\\n……!!!{bpage}\\n아버지,\\n여긴 어쩐 일로?{wait(15)}\\n마음이 바뀌셨어요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:29",
+  "jh": "3bd906b8fb9f",
+  "eh": "1fca92314141",
+  "ko": "{FARGO%}:\\n내가 어떻게든\\n해 주지.\\n내 일은 내가 정리한다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:30",
+  "jh": "fa5fcbe13c6b",
+  "eh": "a1d61b25ece7",
+  "ko": "{NIKKI%}:\\n……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:31",
+  "jh": "b4adaa92895b",
+  "eh": "2a49ef2abeec",
+  "ko": "{NIKKI%}:\\n……!?\\n또 다른 나……?{bpage}\\n할 수만 있다면\\n같이 세션해 보고 싶어……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:32",
+  "jh": "c558bc768006",
+  "eh": "9171346a94e5",
+  "ko": "{NIKKI%}:\\n좋아,\\n바라던 바야……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:33",
+  "jh": "8b79640c789f",
+  "eh": "4441e51e775d",
+  "ko": "{NIKKI%}:\\n{MARCY%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:34",
+  "jh": "e2c32c2bf859",
+  "eh": "6e4b9d17e9ed",
+  "ko": "{MARCY%}:\\n친한 척 부르지 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:35",
+  "jh": "4e1e7e1e2bfc",
+  "eh": "c43a2e9ed513",
+  "ko": "{NIKKI%}:\\n………{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:36",
+  "jh": "9c426d668f9f",
+  "eh": "0e2c00480f70",
+  "ko": "{NIKKI%}:\\n어때요, {IRENES%} 씨.\\n{FARGO%}를 깨워 줄\\n사람은 찾았어요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:37",
+  "jh": "951b3df1f84f",
+  "eh": "67bdc5e44d3f",
+  "ko": "{NIKKI%}:\\n현자님,\\n잘 부탁드립니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:38",
+  "jh": "fde68f67fe6f",
+  "eh": "71570d70fbf0",
+  "ko": "현자:\\n허허허……\\n서두르지 않아도\\n노래는 도망가지 않네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:39",
+  "jh": "8dc8708e447d",
+  "eh": "0f5b8708bbe1",
+  "ko": "{IRENES%}:\\n이제 드디어\\n{FARGO%}도……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:40",
+  "jh": "46d0d256e4e2",
+  "eh": "eac78ea006e5",
+  "ko": "{IRENES%}:\\n{FARGO%}를\\n설득할 수 있는 사람이\\n있을까요……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:41",
+  "jh": "d81b5bbe145b",
+  "eh": "6d3fbff1cbb6",
+  "ko": "{IRENES%}:\\n직접 관계도 없는 여러분을\\n끌어들이고 말았네요……{bpage}\\n혹시 제가 여러분께\\n도움이 될 수 있다면\\n함께 가겠어요……{bpage}\\n　　　동료로 삼는다\\n　　　동료로 삼지 않는다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:42",
+  "jh": "54086c3c7b64",
+  "eh": "2a648e88c22c",
+  "ko": "{IRENES%}:\\n그렇군요……{wait(10)}\\n언제든 불러\\n주세요.{bpage}\\n혹시 여행 중에 {FARGO%}를\\n설득할 수 있을 것 같은 분을\\n만나면 알려 주세요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:43",
+  "jh": "68820801364c",
+  "eh": "adeb31df5c17",
+  "ko": "{IRENES%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:44",
+  "jh": "5d9505ed0eb9",
+  "eh": "10c726e01e8c",
+  "ko": "{IRENES%}:\\n당신이라면 분명\\n그를 깨워\\n줄 거예요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:45",
+  "jh": "c0a2ce28cb65",
+  "eh": "5982bc38d44d",
+  "ko": "{FARGO%}:\\n그래,\\n맡겨 둬라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:46",
+  "jh": "0bed45a8fdb3",
+  "eh": "9da6f11e90e2",
+  "ko": "{IRENES%}:\\n당신이 여긴 어쩐 일로?\\n마음이 바뀌었나요,\\n{FARGO%}……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:47",
+  "jh": "3bd906b8fb9f",
+  "eh": "1fca92314141",
+  "ko": "{FARGO%}:\\n내가 어떻게든\\n해 주지.\\n내 일은 내가 정리한다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:48",
+  "jh": "4a3f8a3a2cd8",
+  "eh": "ae7adae35dff",
+  "ko": "{IRENES%}:\\n……무슨 뜻이죠?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:49",
+  "jh": "8865daa19943",
+  "eh": "61bba15d8545",
+  "ko": "{IRENES%}:\\n{LUCCIA%}……{wait(15)}\\n{MARCY%}를\\n잘 부탁드려요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:50",
+  "jh": "6db99cb96f18",
+  "eh": "891c5f2508b0",
+  "ko": "{LUCCIA%}:\\n……그래.\\n하지만 그 아이에겐\\n가족의 사랑이 부족해.{bpage}\\n그건 나로서는\\n어쩔 수가 없단다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:51",
+  "jh": "5da30947ab03",
+  "eh": "f5b0336fb09a",
+  "ko": "{IRENES%}:\\n……{MARCY%}.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:52",
+  "jh": "922e2d0ec7aa",
+  "eh": "4f85ed1e9908",
+  "ko": "{IRENES%}:\\n너는 혹시\\n{MARCY%}……?{bpage}\\n네 엄마……\\n젤베스 언니를\\n많이 닮았구나……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:53",
+  "jh": "985059ed1ad3",
+  "eh": "5af015c279f2",
+  "ko": "{MARCY%}:\\n……엄마를 알아?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:54",
+  "jh": "8079b57b04be",
+  "eh": "149dfdc8e417",
+  "ko": "{IRENES%}:\\n……그래, 아주 잘.\\n훌륭한 사람이었어……\\n동생인 내가 봐도.{bpage}\\n{MARCY%},\\n엄마를 자랑스럽게\\n여기렴……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "390:55",
+  "jh": "e5c4ba3b3a0f",
+  "eh": "111c113462cd",
+  "ko": "{MARCY%}:\\n……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:0",
+  "jh": "822a5ab76d7c",
+  "eh": "c5795e8877ca",
+  "ko": "우리의 구호는{wait(10)}\\n힘으로{wait(10)} 싸우고{wait(10)} 열기를{wait(10)} 믿어라!!!{wait(10)}\\n자, 한판 붙자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:1",
+  "jh": "1e0b35e17587",
+  "eh": "b6f0532bb074",
+  "ko": "자, 새로운 도전자다!\\n오늘은 어떤 몬스터로\\n싸워 줄까?\\n자, 시작해 보자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:2",
+  "jh": "54198285a6a6",
+  "eh": "a474c342c946",
+  "ko": "미안, 이제\\n너희를 상대할 수 있는\\n몬스터가 여기엔 없어.{bpage}\\n두 손 들었다는 거지!\\n미안해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:3",
+  "jh": "4969c3c2558f",
+  "eh": "5c89268b9935",
+  "ko": "젤베스 최대의 이벤트,\\n“그랜드 슬램”!!!{wait(15)}\\n전 세계 몬스터들의\\n꿈의 향연!!!{bpage}\\n너희도 참가할래?\\n　　　좋아, 하자!\\n　　　잠깐만{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:4",
+  "jh": "33cfdadc61be",
+  "eh": "9b3f5744bd58",
+  "ko": "오케이, 지나가.{wait(15)}\\n이제 되돌아갈 수\\n없다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:5",
+  "jh": "177b63ee5553",
+  "eh": "887a917e083b",
+  "ko": "{JANICE%}:\\n후훗……!\\n날 얕보지 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:6",
+  "jh": "aa44acb1d96e",
+  "eh": "f34717ddab73",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(0)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:7",
+  "jh": "4070ec1fb129",
+  "eh": "67bc48db8dce",
+  "ko": "{JANICE%}:\\n흐~응,\\n제법인데!!!\\n하지만 다음엔 안 져~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:8",
+  "jh": "235ac3746a36",
+  "eh": "828d84f77573",
+  "ko": "{JANICE%}:\\n와~아, 해냈다~!!!\\n다시 도전하러 와~!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:9",
+  "jh": "4f147dd42779",
+  "eh": "2369e4afb598",
+  "ko": "{JANICE%}:\\n도망치는 건\\n반칙이야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:10",
+  "jh": "aa44acb1d96e",
+  "eh": "f34717ddab73",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(0)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:11",
+  "jh": "d1bf7fb77027",
+  "eh": "f4351c2e0627",
+  "ko": "{JANICE%}:\\n으으으~!!!\\n내 귀여운\\n몬스터를!{bpage}\\n이게 마지막이야,\\n꼭 이길 거야!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:12",
+  "jh": "e4b6051cf241",
+  "eh": "c3c1b4358574",
+  "ko": "{JANICE%}:\\n아싸!\\n정의는 승리한다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:13",
+  "jh": "4f147dd42779",
+  "eh": "2369e4afb598",
+  "ko": "{JANICE%}:\\n도망치는 건\\n반칙이야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:14",
+  "jh": "aa44acb1d96e",
+  "eh": "f34717ddab73",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(0)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:15",
+  "jh": "5eb9932ba4e2",
+  "eh": "67c9b9fd87ab",
+  "ko": "{JANICE%}:\\n……내가 지다니!!!\\n이건 말도 안 돼~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:16",
+  "jh": "14f11c43969b",
+  "eh": "5491470a230d",
+  "ko": "{JANICE%}:\\n꽤 만만치 않았지만\\n아직 멀었어!\\n다시 도전하러 와!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:17",
+  "jh": "4f147dd42779",
+  "eh": "2369e4afb598",
+  "ko": "{JANICE%}:\\n도망치는 건\\n반칙이야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:18",
+  "jh": "7082ae0b6047",
+  "eh": "7e849dd2595c",
+  "ko": "그래그래,\\n착한 척은\\n그만두는 게\\n신상에 좋지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:19",
+  "jh": "d385a4be9a2a",
+  "eh": "4236189089ba",
+  "ko": "{JANICE%}:\\n잠깐, 잠깐!!!\\n가 버리는 거야?{bpage}\\n모처럼 만만찮은 놀이 상대가\\n왔다고 생각했는데!{bpage}\\n너희, 어디서\\n그렇게 센 애들을\\n찾아낸 거야?{bpage}\\n나도 같이 가서\\n센 애들 찾고 싶어~!!!\\n　　　동료로 삼는다\\n　　　동료로 삼지 않는다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:20",
+  "jh": "5e24b1611af8",
+  "eh": "622fa3db3ffd",
+  "ko": "{JANICE%}:\\n언제든지\\n불러 줘!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:21",
+  "jh": "733184aee179",
+  "eh": "c8ffd0dbf4d5",
+  "ko": "{JANICE%}:\\n흥이다!\\n심술쟁이!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:22",
+  "jh": "de9193f6a4f9",
+  "eh": "b860188ec164",
+  "ko": "{JANICE%}:\\n빨리 엄~청난 몬스터\\n찾고 싶다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:23",
+  "jh": "707eb9e73135",
+  "eh": "fc1f06bd6923",
+  "ko": "{JANICE%}:\\n있잖아, 같이 가자!\\n　　　동료로 삼는다\\n　　　동료로 삼지 않는다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:24",
+  "jh": "59263af65082",
+  "eh": "120431a847c2",
+  "ko": "{JANICE%}:\\n으~응, 심술쟁이!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:25",
+  "jh": "6bca904781e4",
+  "eh": "70d2063cec6c",
+  "ko": "{JANICE%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:26",
+  "jh": "b05f61da0848",
+  "eh": "401fdc26f595",
+  "ko": "왜 내 몬스터는\\n못 이기는 거지?{bpage}\\n먹이가 나쁜가,\\n아니면 애정이\\n부족한가……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:27",
+  "jh": "c6515fc82157",
+  "eh": "858427a20ba1",
+  "ko": "거기다!!!\\n해치워!!!{bpage}\\n네가 지면\\n난 저녁 굶는다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:28",
+  "jh": "711f19478231",
+  "eh": "8e127483ec4c",
+  "ko": "아아,\\n저 날카로운 발톱\\n못 참겠어……{bpage}\\n승자에게만 허락된\\n환희의 포효가\\n날 뜨겁게 해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:29",
+  "jh": "367f4a42290c",
+  "eh": "92b36c2678d3",
+  "ko": "해치워 버려!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:30",
+  "jh": "f92b24642fce",
+  "eh": "506fa7e30169",
+  "ko": "우오오오,\\n불타오른다!{wait(15)}\\n더 해라!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "391:31",
+  "jh": "c703746cf41e",
+  "eh": "ac02012980ca",
+  "ko": "가라, 거기다!\\n잽, 훅, 펀치!!!{wait(15)}\\n좋~아, 잘한다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:0",
+  "jh": "546dac3d4059",
+  "eh": "e048b9c6bc87",
+  "ko": "{color(GRAY)}(정말 죄송하지만\\n 손님과의 사적인 대화는\\n 금지되어 있습니다……){color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:1",
+  "jh": "26a880fc1022",
+  "eh": "181850c91731",
+  "ko": "꺄아아아악!!!\\n{NIKKI%} 님!!!!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:2",
+  "jh": "fd8899375f4e",
+  "eh": "664f22872a10",
+  "ko": "앗, 내 라이벌\\n{MIKI%}!{bpage}\\n너, 우리\\n{NIKKI%} 님한테\\n손대기만 해 봐,\\n가만 안 둘 거야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:3",
+  "jh": "8baf2f4fa39b",
+  "eh": "4a35937fbfcf",
+  "ko": "아아, 손꼽아 기다리던\\n{NIKKI%} 님 콘서트가\\n끝나 버렸어……{bpage}\\n기다리는 시간은\\n영원처럼 느껴졌는데\\n끝나는 건 순식간……{bpage}\\n그런데 {NIKKI%} 님,\\n평소랑 좀\\n달랐어.{bpage}\\n어딘가 슬퍼 보였어……\\n그게 또 매력적이지만!{bpage}\\n그나저나 콘서트가 끝났으니\\n이 허전함을\\n어떻게 채우지?{bpage}\\n아아, {NIKKI%} 님……!\\n결혼해 줘요!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:4",
+  "jh": "c4da0b196c53",
+  "eh": "fc1304af7076",
+  "ko": "목마르면\\n칵테일을 갖다주고……\\n어깨가 뭉치면\\n마사지를 해 주지.{bpage}\\n이게 극락이 아니면\\n뭐가 극락이겠어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:5",
+  "jh": "cbd16ad17fb8",
+  "eh": "8a488f2465e4",
+  "ko": "하아~, 이제 할 일이\\n하나도 없구먼……{wait(15)}\\n지루함이란 얼마나\\n멋진 건지……{bpage}\\n이런 날 보니 어때?\\n　　　부럽다\\n　　　한심하다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:6",
+  "jh": "1ef76958bbc0",
+  "eh": "c76b1df69a72",
+  "ko": "하하하!\\n그렇지, 그렇지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:7",
+  "jh": "95d1c0891ace",
+  "eh": "6ed3b8cb4619",
+  "ko": "하하하!\\n샘내지 마, 샘내지 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:8",
+  "jh": "160ab726a352",
+  "eh": "f10248b6e4aa",
+  "ko": "쉿쉿!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "392:9",
+  "jh": "cd8ab03259c9",
+  "eh": "d06c06ad66c4",
+  "ko": "너희, 마블이라는 섬에\\n가 본 적 있어?{bpage}\\n옛날엔 인어들이 사는\\n아름다운 섬이었다는데\\n지금은 마물이\\n들끓는다더라……{bpage}\\n이제 그 섬이\\n되살아날 일은\\n없겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "393:0",
+  "jh": "fad0a023d289",
+  "eh": "0a44c20533eb",
+  "ko": "영차!!!{wend(90)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "393:1",
+  "jh": "d716e558843d",
+  "eh": "7e1f29b721d0",
+  "ko": "어영차!!!{wend(90)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "393:2",
+  "jh": "7d484dc211b1",
+  "eh": "36c6ba317ebb",
+  "ko": "영차, 어영차!{wend(90)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "393:3",
+  "jh": "ead587c0f208",
+  "eh": "fc736a8a0805",
+  "ko": "모두, 가자!!!{wait(15)}\\n우리 마블을,\\n아름다운 섬을 되찾는 거야!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "393:4",
+  "jh": "5eda2158fbed",
+  "eh": "3ddf147f018b",
+  "ko": "좋~아!!!{wait(15)}\\n기합 넣고 가자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:0",
+  "jh": "7a743578cea2",
+  "eh": "56696c3fe72b",
+  "ko": "……{wait(15)}\\n엄마……\\n쿨…… 쿨……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:1",
+  "jh": "feaf31e02318",
+  "eh": "38bd3114d15d",
+  "ko": "{FARGO%}:\\n그럼 약속대로\\n너희 보트를\\n받아 가겠다.{bpage}\\n원망하지 마라,\\n이게 승부라는 거다.\\n젤베스에선 이기는 게\\n전부야.{bpage}\\n헤엄쳐서라도\\n돌아가라!{wait(15)}\\n하하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:2",
+  "jh": "22579008483e",
+  "eh": "4d975ad914d6",
+  "ko": "헤헤헤……\\n영감님 또 시작이다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:3",
+  "jh": "a228ce0e1327",
+  "eh": "a8b43eae2307",
+  "ko": "{SNEFF%}:\\n……!{bpage}\\n크아!!!\\n늘 꼭\\n좋을 때\\n져 버린단 말이야!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:4",
+  "jh": "5a72f35a5f3f",
+  "eh": "20a5d292a0d9",
+  "ko": "{FARGO%}:\\n하하하!!!\\n아깝게 됐군, 영감!{bpage}\\n그만둘 때를\\n알아야지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:5",
+  "jh": "f1a3c0fe9d58",
+  "eh": "644e02b2a386",
+  "ko": "{SNEFF%}:\\n크으윽……!{bpage}\\n고양이로 만들어 버린\\n그 사람들한테\\n맛있는 먹이라도\\n사 주려 했는데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:6",
+  "jh": "5f742cd404eb",
+  "eh": "25b1d7554390",
+  "ko": "{FARGO%}:\\n고양이……?{wait(15)}\\n대체 무슨 소리지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:7",
+  "jh": "b55d52e0593e",
+  "eh": "f464edb44f99",
+  "ko": "{SNEFF%}:\\n흥……!{wait(15)}\\n자네랑은 상관없어!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:8",
+  "jh": "167a575baea5",
+  "eh": "8e8257e5f735",
+  "ko": "{SNEFF%}:\\n아이고고……!!!\\n허, 허리가……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:9",
+  "jh": "86ccc0f373ba",
+  "eh": "a785604965c8",
+  "ko": "　!!　{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:10",
+  "jh": "98007be8b52a",
+  "eh": "febbf6438c2e",
+  "ko": "뭐야, 고양이잖아,\\n깜짝 놀랐네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:11",
+  "jh": "2fc50f950fe3",
+  "eh": "f24f46f941c2",
+  "ko": "야마네코는\\n{color(4)}{itemwork(0)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:12",
+  "jh": "31f3f775db24",
+  "eh": "dcde00a40782",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(0)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "395:65",
+  "jh": "5a4d8225133e",
+  "eh": "96fc4587a041",
+  "ko": "쉿쉿!\\n저리 가!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:0",
+  "jh": "4f17e422ab9d",
+  "eh": "6a81e9762e33",
+  "ko": "{PARTY1%}:\\n……{bpage}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:1",
+  "jh": "c34613ca663f",
+  "eh": "0ad00169393d",
+  "ko": "{PARTY1%}:\\n저, 저게\\n뭐지……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:2",
+  "jh": "6cb3eb9fdf3b",
+  "eh": "65bfeaa0e986",
+  "ko": "{PARTY0%}:\\n……{bpage}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:3",
+  "jh": "e90c9be6c9c0",
+  "eh": "dce6fc550a8a",
+  "ko": "{PARTY0%}:\\n저, 저게\\n뭐지……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:4",
+  "jh": "580459960f6b",
+  "eh": "bef9c32fc535",
+  "ko": "???:\\n환락 도시\\n- 젤베스 -?\\n{FARGO%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:5",
+  "jh": "13c724f6f8d2",
+  "eh": "effe856020b6",
+  "ko": "???:\\n저기,\\n거기 인간.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:6",
+  "jh": "88a3fd4f4d33",
+  "eh": "2150ae982689",
+  "ko": "{IRENES%}:\\n젤베스에 가는 거죠?\\n저를 데려가 주세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:7",
+  "jh": "7dafaf07d0b1",
+  "eh": "77c54c79ff35",
+  "ko": "{IRENES%}:\\n자, 가요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:8",
+  "jh": "d6847a64babc",
+  "eh": "d021a67cc7ce",
+  "ko": "위대한 탐험가 토마:\\n왜 그래?\\n이 늦은 밤에?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:9",
+  "jh": "25341bffc1ef",
+  "eh": "e76b4b36f75e",
+  "ko": "위대한 탐험가 토마:\\n응? 뭔데?\\n　　　이 마을에 대해 묻는다\\n　　　사해에 대해 묻는다\\n　　　주변 괴물에 대해 묻는다\\n　　　재밌는 얘기를 묻는다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:10",
+  "jh": "27af24e4eaef",
+  "eh": "2f629014d184",
+  "ko": "위대한 탐험가 토마:\\n여기 마블은\\n옛날 아인이 살던 땅이야.{bpage}\\n아인은 원래 북쪽에\\n살았는데, 파레포리의\\n식민지 개척 때문에{bpage}\\n대륙에서 쫓겨나\\n여기까지 오게 됐지.{bpage}\\n하지만 불운은 계속됐어.\\n엘레멘트가 풍부한 마블은\\n엘레멘트 사냥꾼들의\\n표적이 됐거든.{bpage}\\n갈 곳을 잃은 아인들은\\n대부분 마을을 떠나\\n환락 도시 - 젤베스 -에서\\n일하게 됐어.{bpage}\\n노예까진 아니지만\\n사람 대접은\\n제대로 못 받는 모양이야.{bpage}\\n그래서 보다시피\\n완전히 유령 마을이\\n된 거지.{bpage}\\n방 안은 그대로 남아 있으니\\n피곤하면 쉬었다 가.\\n마을 입구 쪽 오두막은\\n우리도 안 쓰니까 맘대로 써.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:11",
+  "jh": "33f0fbd5300f",
+  "eh": "a6c7bc1c02f5",
+  "ko": "위대한 탐험가 토마:\\n보다시피 여긴\\n완전히 유령 마을이\\n됐어.{bpage}\\n방 안은 그대로 남아 있으니\\n피곤하면 쉬었다 가.\\n마을 입구 쪽 오두막은\\n우리도 안 쓰니까 맘대로 써.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:12",
+  "jh": "ed0f521370a4",
+  "eh": "c82260b8b45d",
+  "ko": "위대한 탐험가 토마:\\n내가 아는 건\\n그 정도야.{bpage}\\n나머지는 젤베스에 있는\\n현자한테 물어봐.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:13",
+  "jh": "9193fac3a392",
+  "eh": "00b9b3a18804",
+  "ko": "위대한 탐험가 토마:\\n사해라고!?\\n거긴 이 근방에서\\n제일 가까이 가면 안 되는 곳이야!{bpage}\\n자세히는 모르지만\\n세상에서 가장 흉측한\\n용에게 저주받은 곳이래.{bpage}\\n용신님을 거스르면서까지\\n가려는 인간은 없지.\\n뭐, 이 위대한 탐험가님은\\n언젠가 한번 가 볼 생각이지만.{bpage}\\n응? 거기 들어가려면\\n어떻게 해야 하냐고?{wait(30)}\\n사해에 들어가는 방법은\\n딱 하나뿐이래.{bpage}\\n세상 어딘가에 있다는\\n“죽음의 문”……\\n거기가 입구야.{bpage}\\n그런데 나도 죽음의 문이\\n어딘지는 몰라.\\n흠…… 알 만한 녀석이\\n누가 있을까……?{bpage}\\n오, 그래!\\n환락 도시 - 젤베스 -에 있는\\n현자라면 알지 않을까?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:14",
+  "jh": "8727a796466f",
+  "eh": "f1b771f6e58c",
+  "ko": "위대한 탐험가 토마:\\n재밌는 얘기라……{bpage}\\n오, 그러고 보니 이 폐허에서\\n밤이면 여자 흐느끼는 소리가\\n들린다는 소문이 있어.\\n다들 유령이라더군.{bpage}\\n나도 며칠째 여기 있지만\\n유령은 아직\\n못 봤어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:15",
+  "jh": "e1b9ee260fa6",
+  "eh": "099f05c070ed",
+  "ko": "위대한 탐험가 토마:\\n아, 이 괴물들 말이야?\\n나도 잘은 모르지만\\n아주 오래전부터 있었나 봐.{bpage}\\n보이긴 하는데\\n실체가 없대.{bpage}\\n이쪽에서도 못 건드리고\\n저쪽도 이쪽을 못 건드려.\\n그러니 서로 아무것도 못 해.{bpage}\\n전에 듣기로는\\n“검은 악몽”이라고\\n부른다더군.{bpage}\\n악몽 같은 거라면\\n노래라도 불러 주면\\n깨어나지 않을까?{bpage}\\n하하, 농담이야.\\n어쨌든 어쩔 도리가 없으니\\n신경 쓰지 마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:16",
+  "jh": "045456e31590",
+  "eh": "d60800f1628e",
+  "ko": "위대한 탐험가 토마:\\n악몽 같은 거라면\\n노래라도 불러 주면\\n깨어나지 않을까?{bpage}\\n하하, 농담이야.\\n어쨌든 어쩔 도리가 없으니\\n신경 쓰지 마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:17",
+  "jh": "6a9ced8ab532",
+  "eh": "0a565e302a80",
+  "ko": "위대한 탐험가 토마:\\n응? 뭐야, 꼬마들,\\n이런 데까지\\n이 위대한 탐험가를 보러 왔나?{bpage}\\n농담이야, 농담!\\n하하하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:18",
+  "jh": "f2238929e89f",
+  "eh": "aca5dcb62a4b",
+  "ko": "위대한 탐험가 토마:\\n응? 뭐야, 너희는?\\n이런 데까지\\n이 위대한 탐험가를 보러 왔나?{bpage}\\n농담이야, 농담!\\n하하하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:19",
+  "jh": "2830718ca4df",
+  "eh": "132200eb9c95",
+  "ko": "위대한 탐험가 토마:\\n어, 어이……!!!\\n눈치챘을지도 모르지만\\n아무래도 분위기가 수상해……{bpage}\\n아무리 해가 없다지만\\n이렇게까지\\n늘어나면……{bpage}\\n이 괴물들이\\n누군가의 악몽이라면\\n대체 누가……{bpage}\\n아니, 무엇이 꾸는\\n꿈이지……?{bpage}\\n꿈……? 꿈이라면\\n이 녀석들이 죽으면\\n그 무언가가\\n깨어난다는 건가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:20",
+  "jh": "a1cfc304fe52",
+  "eh": "a9b717c0cd90",
+  "ko": "위대한 탐험가 토마:\\n으, 으음, 그래……{bpage}\\n대충 다 조사했으니\\n슬슬 여기서\\n떠나 볼까……{bpage}\\n말해 두지만 겁먹은\\n건 아니라고!{bpage}\\n그럼, 잘 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:21",
+  "jh": "57ab89a40588",
+  "eh": "2fc410e679db",
+  "ko": "위대한 탐험가 토마:\\n인어라고?\\n고향에 돌아온 건가?{bpage}\\n응……?\\n울고 있었다고?{bpage}\\n호오…… 고향에 돌아온 인어가\\n한밤중에 혼자 울고\\n있다라……{bpage}\\n어쩌면 그건\\n노래를 잃어버린\\n인어일지도……{bpage}\\n인어는 아름다운 노랫소리로\\n자기 감정을 표현하고\\n사랑과 행복을 노래하지.{bpage}\\n하지만 인어는 절대\\n인간을 저주하거나\\n원망하는 노래를\\n불러선 안 된다는 계율이 있대.{bpage}\\n그 계율을 어긴 인어는\\n노랫소리를\\n잃는다더군.{bpage}\\n하긴 이런 세상이니\\n인간을 원망하지 말라는 게\\n무리겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:22",
+  "jh": "f4fd652f287a",
+  "eh": "8883b8f97b09",
+  "ko": "위대한 탐험가 토마:\\n내일은 “젤베스”에\\n가는 거지?\\n일찍 자 두는 게 좋아.{bpage}\\n아, 그래, 젤베스에 가면\\n{FARGO%} 선장한테\\n인사하는 거 잊지 마.{bpage}\\n이래저래 괴짜니까\\n조심하라고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:23",
+  "jh": "cd3022a8a1c1",
+  "eh": "bf9a94211860",
+  "ko": "위대한 탐험가 토마:\\n그래서, 젤베스에서\\n{FARGO%} 선장은 만났어?{bpage}\\n또 무슨 짓을 당했나?\\n그래도 난 그 양반\\n꽤 좋아해.{bpage}\\n얘기가 길어졌네.\\n밤도 늦었으니\\n이제 자자고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:24",
+  "jh": "1c5e43e75484",
+  "eh": "579de346bbdf",
+  "ko": "애시:\\n선생님이라면\\n이 근처에 계실 거예요.{bpage}\\n아, 그리고 돌아다니는\\n흉측한 괴물들은\\n신경 쓰지 않아도 돼요.{bpage}\\n이쪽도 저쪽도\\n서로 아무것도\\n못 하니까요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:25",
+  "jh": "ea75011e6414",
+  "eh": "dbddb3d3c1b2",
+  "ko": "애시:\\n어라?\\n이런 폐허에 우리 말고\\n사람이 오다니 별일이네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:26",
+  "jh": "4e4ddb3cd907",
+  "eh": "2fb15ce1c0ef",
+  "ko": "애시:\\n저는 토마 교수님의 조수\\n애시라고 해요.{bpage}\\n여기 마블을 조사하러\\n왔는데요, 자세한 건\\n선생님께\\n물어보세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:27",
+  "jh": "93cc7ecfb7b6",
+  "eh": "6eda620cdc8a",
+  "ko": "애시:\\n아무래도 영~\\n불길한데요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:28",
+  "jh": "f7b632185def",
+  "eh": "5ec0a7a16bb4",
+  "ko": "애시:\\n이, 이게 무언가가\\n꾸는 꿈이라면\\n엄청 위험한 녀석일 거예요.{bpage}\\n“용” 같은 거대하고\\n무시무시한 녀석이\\n꾸는 게 틀림없어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "396:29",
+  "jh": "1ff02a776814",
+  "eh": "b721b994b2ea",
+  "ko": "애시:\\n서, 선생님!\\n여, 여기 조사는\\n이제 끝났죠?{mend}",
+  "status": "draft",
+  "note": ""
+ }
+]

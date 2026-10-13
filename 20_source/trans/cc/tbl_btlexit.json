@@ -1,0 +1,272 @@
+[
+ {
+  "k": "1",
+  "id": "1",
+  "jh": "b6589fc6ab0d",
+  "eh": "b6589fc6ab0d",
+  "ko": "0",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "2",
+  "id": "2",
+  "jh": "356a192b7913",
+  "eh": "356a192b7913",
+  "ko": "1",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "3",
+  "id": "3",
+  "jh": "da4b9237bacc",
+  "eh": "da4b9237bacc",
+  "ko": "2",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "4",
+  "id": "4",
+  "jh": "77de68daecd8",
+  "eh": "77de68daecd8",
+  "ko": "3",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "5",
+  "id": "5",
+  "jh": "1b6453892473",
+  "eh": "1b6453892473",
+  "ko": "4",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "6",
+  "id": "6",
+  "jh": "ac3478d69a3c",
+  "eh": "ac3478d69a3c",
+  "ko": "5",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "7",
+  "id": "7",
+  "jh": "c1dfd96eea8c",
+  "eh": "c1dfd96eea8c",
+  "ko": "6",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "8",
+  "id": "8",
+  "jh": "902ba3cda188",
+  "eh": "902ba3cda188",
+  "ko": "7",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "9",
+  "id": "9",
+  "jh": "fe5dbbcea5ce",
+  "eh": "fe5dbbcea5ce",
+  "ko": "8",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "10",
+  "id": "10",
+  "jh": "0ade7c2cf97f",
+  "eh": "0ade7c2cf97f",
+  "ko": "9",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "11",
+  "id": "11",
+  "jh": "8cd52d4ee93a",
+  "eh": "bd74a41dbf3c",
+  "ko": "HP+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "12",
+  "id": "12",
+  "jh": "1bc46c2754a8",
+  "eh": "e34bb306ca81",
+  "ko": "완력+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "13",
+  "id": "13",
+  "jh": "f5c83ef46345",
+  "eh": "9635deffc822",
+  "ko": "내구+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "14",
+  "id": "14",
+  "jh": "d49d3468a0d7",
+  "eh": "ef76f6cf3eb9",
+  "ko": "정확+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "15",
+  "id": "15",
+  "jh": "9f4a43ab656b",
+  "eh": "f59b04005b1b",
+  "ko": "민첩+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "16",
+  "id": "16",
+  "jh": "ccec486eed69",
+  "eh": "0f146ee52719",
+  "ko": "마력+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "17",
+  "id": "17",
+  "jh": "f8e21bd77c0d",
+  "eh": "b26e6feed39d",
+  "ko": "항마+",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "18",
+  "id": "18",
+  "jh": "102f8a0327c2",
+  "eh": "290e01054504",
+  "ko": "이번 전투에서 쓰지 않은\n엘레멘트와 남은 파워로\n회복하시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "21",
+  "id": "21",
+  "jh": "317ac10cb19f",
+  "eh": "ae728854ce4d",
+  "ko": " - 소비 아이템 없이\n 최대한 회복",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "23",
+  "id": "23",
+  "jh": "b850e007ea2e",
+  "eh": "0437e51d78d1",
+  "ko": " - 보관 중인 소비\n 엘레멘트도 사용",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "25",
+  "id": "25",
+  "jh": "6a819145c84d",
+  "eh": "7dd28362e6c3",
+  "ko": " - 회복하지 않음",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "26",
+  "id": "26",
+  "jh": "788b82e58113",
+  "eh": "27548c4fc95d",
+  "ko": "획득",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "27",
+  "id": "27",
+  "jh": "213edd2539ed",
+  "eh": "213edd2539ed",
+  "ko": "→",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "28",
+  "id": "28",
+  "jh": "fabce914aa11",
+  "eh": "42099b4af021",
+  "ko": "/",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "30",
+  "id": "30",
+  "jh": "c1197e04636e",
+  "eh": "3544eb9270da",
+  "ko": "새로운 성장 단계에\n들어섰다!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "32",
+  "id": "32",
+  "jh": "b70618c57aa7",
+  "eh": "b9a06de33cfe",
+  "ko": "마침내 성장의\n한계에 도달했다!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "34",
+  "id": "34",
+  "jh": "c5d914ebf174",
+  "eh": "7f2652cd1ada",
+  "ko": "사용한 엘레멘트...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "35",
+  "id": "35",
+  "jh": "24b07a12a77e",
+  "eh": "2f0f45d76457",
+  "ko": "전리품...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "38",
+  "id": "0x10005",
+  "jh": "66cd735dca96",
+  "eh": "66cd735dca96",
+  "ko": "PowerUp",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "39",
+  "id": "0x10006",
+  "jh": "25010cea8f31",
+  "eh": "25010cea8f31",
+  "ko": "Spoils",
+  "status": "draft",
+  "note": ""
+ }
+]

@@ -1,0 +1,317 @@
+[
+ {
+  "k": "1",
+  "id": "0",
+  "jh": "9b0adbb971d5",
+  "eh": "26f1554b532c",
+  "ko": "{playwork(0)}은(는) {color(1)}{itemwork(0)}{color(0)}을(를) 훔쳤다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "2",
+  "id": "1",
+  "jh": "4ea28ec9bf1e",
+  "eh": "4fbdbb1f2b0c",
+  "ko": "{playwork(0)}은(는) {color(2)}{itemwork(0)}{color(0)}을(를) 훔쳤다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "3",
+  "id": "2",
+  "jh": "a982277db5c6",
+  "eh": "b4363072dcc8",
+  "ko": "훔치지 못했다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "4",
+  "id": "3",
+  "jh": "3b780570397a",
+  "eh": "4536ad7d1a84",
+  "ko": "아무것도 갖고 있지 않다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "6",
+  "id": "5",
+  "jh": "ffb15dcf6112",
+  "eh": "a8719438c827",
+  "ko": "훔친 물건을 떨어뜨렸다!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "7",
+  "id": "6",
+  "jh": "aeebc1966787",
+  "eh": "cc5ffae685de",
+  "ko": "{color(6)}동결{color(0)}되어 움직일 수 없다!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "8",
+  "id": "7",
+  "jh": "3e4fdd1757b8",
+  "eh": "e72420030297",
+  "ko": "{playwork(0)} 일행은 힘이 다했다…",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "9",
+  "id": "8",
+  "jh": "a3eb62424c70",
+  "eh": "280a859f03d8",
+  "ko": "{playwork(0)}은(는) 힘이 다했다…",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "34",
+  "id": "33",
+  "jh": "91dd130fea2c",
+  "eh": "034ca02cd8e8",
+  "ko": "일정 시간 {color(1)}공격력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "35",
+  "id": "34",
+  "jh": "cfd0071c0e76",
+  "eh": "7cf1e7fcfb12",
+  "ko": "일정 시간 {color(1)}방어력{color(0)} 저하",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "36",
+  "id": "35",
+  "jh": "95c09fadf0f1",
+  "eh": "36c9ded6fcbf",
+  "ko": "일정 시간 {color(4)}빨강 엘레멘트{color(0)} 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "37",
+  "id": "36",
+  "jh": "d891da72f05b",
+  "eh": "d831cac0b92b",
+  "ko": "일정 시간 {color(1)}회피율{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "38",
+  "id": "37",
+  "jh": "a7e6c9d1ca29",
+  "eh": "e59d470cac6f",
+  "ko": "일정 시간 {color(1)}회피율{color(0)} 저하",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "39",
+  "id": "38",
+  "jh": "9899d9dbcd3a",
+  "eh": "29eb42676b8c",
+  "ko": "일정 시간 {color(6)}파랑 엘레멘트{color(0)} 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "40",
+  "id": "39",
+  "jh": "7e5b8449b5e6",
+  "eh": "d161be3b721e",
+  "ko": "일정 시간 {color(1)}공격력{color(0)} 저하",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "41",
+  "id": "40",
+  "jh": "f58442178c49",
+  "eh": "f170d12fd94a",
+  "ko": "일정 시간 {color(1)}초록 엘레멘트{color(0)} 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "42",
+  "id": "41",
+  "jh": "9151f9631999",
+  "eh": "58900e6eedf7",
+  "ko": "일정 시간 {color(1)}방어력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "43",
+  "id": "42",
+  "jh": "68882a0dd3fc",
+  "eh": "46349d25d5f3",
+  "ko": "일정 시간 물리 공격 무효",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "44",
+  "id": "43",
+  "jh": "c302302a5507",
+  "eh": "52e6f8950e74",
+  "ko": "일정 시간 {color(7)}노랑 엘레멘트{color(0)} 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "45",
+  "id": "44",
+  "jh": "d1e8c0d5cfb8",
+  "eh": "13db93deb067",
+  "ko": "일정 시간 {color(1)}명중률{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "46",
+  "id": "45",
+  "jh": "52392b1fbd62",
+  "eh": "17019f51fdee",
+  "ko": "일정 시간 {color(1)}명중률{color(0)} 저하",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "47",
+  "id": "46",
+  "jh": "0a9ad717e6e5",
+  "eh": "fa766cd5b896",
+  "ko": "일정 시간 {color(7)}검정 엘레멘트{color(0)} 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "48",
+  "id": "47",
+  "jh": "5370c898d3b8",
+  "eh": "429902f89c6c",
+  "ko": "일정 시간 {color(1)}마법 방어력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "49",
+  "id": "48",
+  "jh": "1b0c589adad3",
+  "eh": "c6b11905942f",
+  "ko": "일정 시간 {color(1)}마법 방어력{color(0)} 저하",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "50",
+  "id": "49",
+  "jh": "a9706ed0a179",
+  "eh": "c112f76d213f",
+  "ko": "일정 시간 엘레멘트 대미지 1.5배",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "51",
+  "id": "50",
+  "jh": "29558be6a1fc",
+  "eh": "2e3bd3665b6d",
+  "ko": "일정 시간 마법 공격 무효",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "52",
+  "id": "51",
+  "jh": "ea670ee6b520",
+  "eh": "07f16c87581f",
+  "ko": "일정 시간 {color(7)}하양 엘레멘트{color(0)} 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "53",
+  "id": "52",
+  "jh": "3643d9e3ae0c",
+  "eh": "9554f90eb429",
+  "ko": "일정 시간 {color(1)}마법 공격력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "54",
+  "id": "53",
+  "jh": "7d5b4eb3bc44",
+  "eh": "17fea7e5abb9",
+  "ko": "일정 시간 {color(1)}마법 공격력{color(0)} 저하",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "55",
+  "id": "54",
+  "jh": "94a51bfac251",
+  "eh": "4ead79c34fac",
+  "ko": "일정 시간 엘레멘트 대미지 절반",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "56",
+  "id": "55",
+  "jh": "e545a1b65c71",
+  "eh": "be08a64f9905",
+  "ko": "일정 시간 모든 엘레멘트 사용 불가",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "57",
+  "id": "56",
+  "jh": "84123bae66c2",
+  "eh": "2354c1ec171e",
+  "ko": "일정 시간 {color(1)}공격력{color(0)} 상승, 명중률 99%",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "58",
+  "id": "57",
+  "jh": "e1ade3cdc8fa",
+  "eh": "2fcc6f2f4379",
+  "ko": "일정 시간 {color(1)}방어력{color(0)}과 {color(1)}마법 방어력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "59",
+  "id": "58",
+  "jh": "b3c54306b672",
+  "eh": "ccf1a2a12f51",
+  "ko": "일정 시간 {color(1)}모든 능력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "60",
+  "id": "59",
+  "jh": "e2cfe37a336c",
+  "eh": "027f92380754",
+  "ko": "일정 시간 {color(1)}공격력{color(0)}과 {color(1)}마법 공격력{color(0)} 상승",
+  "status": "draft",
+  "note": ""
+ }
+]

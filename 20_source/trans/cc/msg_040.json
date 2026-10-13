@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "427:23",
+  "jh": "492e2005d1f9",
+  "eh": "c5563daf69a7",
+  "ko": "{KARSH%}은(는)\\n{color(4)}{itemwork(0)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "427:24",
+  "jh": "0ffd15e90c4c",
+  "eh": "dc499703b341",
+  "ko": "{KARSH%}:\\n……고맙다.\\n이건 소중히 맡아 두지.{bpage}\\n언젠가 반드시 진실을\\n너희한테 말해 줄게……{wait(15)}\\n그때까지 기다려 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:0",
+  "jh": "6cc571dfde95",
+  "eh": "7a77913c7b01",
+  "ko": "{KARSH%}:\\n저게……{wait(15)}\\n그랜드리온인가!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:1",
+  "jh": "19bc2288dc39",
+  "eh": "1b2a6fa25f8f",
+  "ko": "{KARSH%}:\\n다리오!?{wait(15)}\\n뭘 하는 거야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:2",
+  "jh": "cd9f137ae14e",
+  "eh": "27521e718a24",
+  "ko": "……{wait(15)}\\n죽어라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:3",
+  "jh": "24f667c2a96a",
+  "eh": "0966c31a7e62",
+  "ko": "멸망하라,{wait(15)}\\n살아 있는\\n모든 것들이여!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:4",
+  "jh": "4b728fa30fff",
+  "eh": "cd64c7c8b0cc",
+  "ko": "{KARSH%}:\\n설마, 그 검이……!?\\n그 검을 놔,\\n다리오!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:5",
+  "jh": "69f351939910",
+  "eh": "993afa7e8f44",
+  "ko": "쳇……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:6",
+  "jh": "b5d16ccd5369",
+  "eh": "7c6ccc6c1eeb",
+  "ko": "{KARSH%}:\\n그만해, 다리오!!!\\n나야!\\n{KARSH%}라고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:7",
+  "jh": "7ad5bbd74188",
+  "eh": "c26d31e0d223",
+  "ko": "크윽!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:8",
+  "jh": "53f6bddbfc49",
+  "eh": "0e29c6b32b29",
+  "ko": "다리오:\\n베어라, {KARSH%}!\\n어서!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:9",
+  "jh": "18cd5ceed3d8",
+  "eh": "f687e55d74c8",
+  "ko": "{KARSH%}:\\n아, 안 돼……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:10",
+  "jh": "dc6473b89666",
+  "eh": "4fb9a62493a7",
+  "ko": "다리오:\\n해, {KARSH%}!!!\\n이대로라면 나는……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:11",
+  "jh": "84270350a5d5",
+  "eh": "8d6b892967a8",
+  "ko": "{KARSH%}:\\n안 돼, 다리오!\\n난 못 해!{bpage}\\n정신 차려,\\n다리오!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:12",
+  "jh": "04b3130e66f0",
+  "eh": "a0b5fad1585d",
+  "ko": "크크크……\\n끝까지 멍청한 녀석이군.\\n모처럼 기회를 줬는데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:13",
+  "jh": "69c6e0189ea6",
+  "eh": "5159f3761c30",
+  "ko": "정면으로 붙으면\\n넌 날 못 이긴다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:14",
+  "jh": "71b16f3b2e20",
+  "eh": "b7f2293ff331",
+  "ko": "결국 넌 나보다 못한\\n인간일 뿐이니까……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:15",
+  "jh": "eb2c162f657a",
+  "eh": "900578852942",
+  "ko": "{KARSH%}:\\n뭐라고……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:16",
+  "jh": "0fd3194e9f8e",
+  "eh": "ac112751389c",
+  "ko": "먼저 너를 베어 버리고\\n그다음은……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:17",
+  "jh": "05d56e97c2ef",
+  "eh": "365b8538d1ec",
+  "ko": "그래,{wait(15)}\\n{RIDDEL%}로 하지……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:18",
+  "jh": "9c7ab02f4862",
+  "eh": "0138766eba08",
+  "ko": "{RIDDEL%}의 피를\\n그랜드리온에게\\n실컷 마시게 해 주마……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:19",
+  "jh": "ef4e9e72042a",
+  "eh": "270aa900aa02",
+  "ko": "크크크……!{wait(15)}\\n하하하하……!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:20",
+  "jh": "0761c86e81a3",
+  "eh": "f268997b85ce",
+  "ko": "{KARSH%}:\\n이, 이 자식……!{wait(15)}\\n우오오오오……!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:21",
+  "jh": "7095f19915d3",
+  "eh": "e2fe6412a317",
+  "ko": "{KARSH%}:\\n다리오……!!!{bpage}\\n내가 무슨 짓을……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:22",
+  "jh": "161c3258b8c9",
+  "eh": "47ab66c6d200",
+  "ko": "가련하구나……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:23",
+  "jh": "862c2f11e4f2",
+  "eh": "62ea072a2a04",
+  "ko": "{KARSH%}:\\n다, 당신은……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:24",
+  "jh": "876e35815aee",
+  "eh": "d3c855acb6c4",
+  "ko": "야마네코:\\n다리오는 망령에게\\n당해 죽은 거다.\\n알겠나, {KARSH%}?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:25",
+  "jh": "0555ff240b14",
+  "eh": "0ca0e59d7bb6",
+  "ko": "{KARSH%}:\\n하지만……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:26",
+  "jh": "ef041e9473ec",
+  "eh": "ff63228d1af8",
+  "ko": "야마네코:\\n설마 있었던 일을\\n모두에게 솔직히\\n말할 셈인가?{bpage}\\n{RIDDEL%}에게도\\n“마검에 홀린 다리오를\\n내가 베었다”{wait(10)}\\n……라고 말할 셈인가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:27",
+  "jh": "5bf711ad0b51",
+  "eh": "751835ec3bb2",
+  "ko": "{KARSH%}:\\n크윽……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:28",
+  "jh": "186b6323281a",
+  "eh": "2007db5203b3",
+  "ko": "야마네코:\\n걱정 마라.\\n내 말대로만 하면\\n아무 문제 없다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:29",
+  "jh": "1641ba67ae0a",
+  "eh": "8cb21b75b351",
+  "ko": "다리오……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "428:30",
+  "jh": "6cc571dfde95",
+  "eh": "7a77913c7b01",
+  "ko": "{KARSH%}:\\n저게……{wait(15)}\\n그랜드리온인가!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:0",
+  "jh": "54b32dd995ab",
+  "eh": "05fe293cb303",
+  "ko": "{RADIUS%}:\\n증오에 사로잡히지 말게!{bpage}\\n어둠을 떨쳐 내는 걸세!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:1",
+  "jh": "02e8467a60f2",
+  "eh": "606dd7280f11",
+  "ko": "{KARSH%}:\\n도망칠 수는 없어!\\n여기서 결판을 내야 해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:2",
+  "jh": "e9037467bb22",
+  "eh": "2101fb01e2d3",
+  "ko": "나의 검을 받고\\n어둠에 떨어져라……{wend(120)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:3",
+  "jh": "05c227f54b74",
+  "eh": "dd427c48a30f",
+  "ko": "{RADIUS%}:\\n……그랬던 겐가.{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:4",
+  "jh": "6827a931824a",
+  "eh": "8d1247481613",
+  "ko": "{RADIUS%}:\\n다리오도 그랜드리온의\\n증오에 사로잡혔던 겐가.{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:5",
+  "jh": "05c227f54b74",
+  "eh": "dd427c48a30f",
+  "ko": "{RADIUS%}:\\n……그랬던 겐가.{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:6",
+  "jh": "6827a931824a",
+  "eh": "8d1247481613",
+  "ko": "{RADIUS%}:\\n다리오도 그랜드리온의\\n증오에 사로잡혔던 겐가.{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:7",
+  "jh": "2df7082cf3a5",
+  "eh": "135ffaeb4b8b",
+  "ko": "{RADIUS%}:\\n온다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:8",
+  "jh": "2df7082cf3a5",
+  "eh": "135ffaeb4b8b",
+  "ko": "{RADIUS%}:\\n온다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:9",
+  "jh": "4b53c9f8da28",
+  "eh": "af7dcff287d7",
+  "ko": "{KARSH%}:\\n싸울 수밖에\\n없는 건가!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:10",
+  "jh": "4b53c9f8da28",
+  "eh": "af7dcff287d7",
+  "ko": "{KARSH%}:\\n싸울 수밖에\\n없는 건가!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:11",
+  "jh": "8be9527fd870",
+  "eh": "ffaa71f5773f",
+  "ko": "{RIDDEL%}:\\n다리오와 싸우는 건\\n저는 못 해요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:12",
+  "jh": "ba3fbdc32b3d",
+  "eh": "61334215129e",
+  "ko": "{GLENN%}:\\n저도 마찬가지입니다!{bpage}\\n겨우 만났는데\\n형님과 싸우다니……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:13",
+  "jh": "6acaa9796fdf",
+  "eh": "d740127a216b",
+  "ko": "{RADIUS%}:\\n어둠을 떨쳐 내려면\\n그랜드리온을 쓰러뜨릴 수밖에 없네!{bpage}\\n다리오를 구하려면\\n그 길뿐일세!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:14",
+  "jh": "6acaa9796fdf",
+  "eh": "d740127a216b",
+  "ko": "{RADIUS%}:\\n어둠을 떨쳐 내려면\\n그랜드리온을 쓰러뜨릴 수밖에 없네!{bpage}\\n다리오를 구하려면\\n그 길뿐일세!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:15",
+  "jh": "2cdce291da75",
+  "eh": "78742383eb69",
+  "ko": "나의 검의 증오를 받아라……{wend(120)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:16",
+  "jh": "9f1cd630b822",
+  "eh": "a2a46fdc3ea8",
+  "ko": "{RADIUS%}:\\n음!\\n그랜드리온이 새로운\\n주인을 고른 모양이네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:17",
+  "jh": "9f1cd630b822",
+  "eh": "a2a46fdc3ea8",
+  "ko": "{RADIUS%}:\\n음!\\n그랜드리온이 새로운\\n주인을 고른 모양이네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:18",
+  "jh": "3a593acc16d0",
+  "eh": "c3a3b8208e6a",
+  "ko": "{KARSH%}:\\n뭐!?\\n{SERGE%}!!!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:19",
+  "jh": "3a593acc16d0",
+  "eh": "c3a3b8208e6a",
+  "ko": "{KARSH%}:\\n뭐!?\\n{SERGE%}!!!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:20",
+  "jh": "ffc9aac6986e",
+  "eh": "403a49f5f503",
+  "ko": "{RADIUS%}:\\n당황하지 말게.\\n주위를 잘 보게나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:21",
+  "jh": "ffc9aac6986e",
+  "eh": "403a49f5f503",
+  "ko": "{RADIUS%}:\\n당황하지 말게.\\n주위를 잘 보게나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:22",
+  "jh": "ab5dd77cc9cf",
+  "eh": "709a18bc86f6",
+  "ko": "{RIDDEL%}:\\n……새들이!{bpage}\\n달아났던 새들이\\n돌아오고 있어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:23",
+  "jh": "61d87bfbdbb8",
+  "eh": "96347d2e0fe3",
+  "ko": "{RADIUS%}:\\n그랜드리온에게서 사악함이\\n조금도 느껴지지 않네.{bpage}\\n이제 증오에\\n사로잡힐 일도 없을 걸세.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:24",
+  "jh": "61d87bfbdbb8",
+  "eh": "96347d2e0fe3",
+  "ko": "{RADIUS%}:\\n그랜드리온에게서 사악함이\\n조금도 느껴지지 않네.{bpage}\\n이제 증오에\\n사로잡힐 일도 없을 걸세.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:25",
+  "jh": "93913dca8095",
+  "eh": "0a4c2dd6d07e",
+  "ko": "{SERGE%}의 시스왈로가\\n{color(2)}그랜드림{color(0)}으로\\n진화했다.{wend(240)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:26",
+  "jh": "687c4f1563c1",
+  "eh": "d1a8de6fff1a",
+  "ko": "다리오:\\n으음……{wait(40)}\\n여기는……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:27",
+  "jh": "a9d854f2dc22",
+  "eh": "a91801774302",
+  "ko": "다리오:\\n{RIDDEL%}……\\n{RIDDEL%} 아닌가.{bpage}\\n나는 어떻게 된 거지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:28",
+  "jh": "d63db6b01bca",
+  "eh": "3b79cc2b3d39",
+  "ko": "{RIDDEL%}:\\n다리오……{wait(30)}\\n다행이에요.{bpage}\\n기억이 돌아왔군요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:29",
+  "jh": "e5cb5d407d20",
+  "eh": "743cbfad1c87",
+  "ko": "다리오:\\n기억? 그래,\\n나는 그때\\n그랜드리온에……{bpage}\\n{KARSH%}, 미안했다.\\n너한테 괴로운 짓을\\n시킨 것 같군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:30",
+  "jh": "b8f7c997959a",
+  "eh": "1fad310b1f25",
+  "ko": "{KARSH%}:\\n흥!\\n무슨 소리야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:31",
+  "jh": "b8f7c997959a",
+  "eh": "1fad310b1f25",
+  "ko": "{KARSH%}:\\n흥!\\n무슨 소리야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:32",
+  "jh": "d7d21b61209f",
+  "eh": "e1ca71eeb3c1",
+  "ko": "{RADIUS%}:\\n기억이 돌아와도\\n더 가혹한 현실이\\n기다리고 있네.{bpage}\\n기억이 안 돌아오는 편이\\n행복했을지도 모르지……{bpage}\\n따라오게.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:33",
+  "jh": "d7d21b61209f",
+  "eh": "e1ca71eeb3c1",
+  "ko": "{RADIUS%}:\\n기억이 돌아와도\\n더 가혹한 현실이\\n기다리고 있네.{bpage}\\n기억이 안 돌아오는 편이\\n행복했을지도 모르지……{bpage}\\n따라오게.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:34",
+  "jh": "0632d6c5a3a7",
+  "eh": "6746242c84a0",
+  "ko": "역시……\\n떠나시는군요……{bpage}\\n언젠가 이날이 올 거라고\\n각오하고 있었어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:35",
+  "jh": "4b90d16027e3",
+  "eh": "b0767f1d29b0",
+  "ko": "안녕히……\\n언제까지나 건강하세요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:36",
+  "jh": "866a20c5e614",
+  "eh": "201d8a841d88",
+  "ko": "{RIDDEL%}:\\n모두 상처 입고\\n뿔뿔이 흩어져 있네요……{bpage}\\n불완전하고, 미숙하고……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:37",
+  "jh": "69791137236c",
+  "eh": "b42848488f17",
+  "ko": "{RIDDEL%}:\\n하지만 그렇게 살아가기에\\n더 나은 존재로\\n변할 수 있는지도 몰라요……{bpage}\\n더 다정하고, 더 큰 존재로……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:38",
+  "jh": "26a1843500fb",
+  "eh": "1c79f82b7946",
+  "ko": "리온:\\n하아암……{wait(40)}\\n깼어, 그랜?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:39",
+  "jh": "973dc1567c47",
+  "eh": "193da4f6cb48",
+  "ko": "그랜:\\n응……\\n그런데 정신 차리고 생각해 보니{bpage}\\n우리, 뭔가 꽤\\n큰일 저지른 거 아냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:40",
+  "jh": "aff59fa39426",
+  "eh": "cfac470e6a07",
+  "ko": "리온:\\n하하하.\\n가만있으면 아무도 몰라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:41",
+  "jh": "09b3211797b3",
+  "eh": "51dbe0a6e87c",
+  "ko": "도린:\\n너희!\\n또 무슨 짓 한 거\\n아니지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:42",
+  "jh": "d4ea188d52be",
+  "eh": "e4e9d7dff076",
+  "ko": "그랜:\\n앗!\\n도린 누나다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:43",
+  "jh": "5567bcd39b36",
+  "eh": "02fe88b30e95",
+  "ko": "리온:\\n……몰라.\\n우린 아무것도 기억 안 나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:44",
+  "jh": "dae48f38724a",
+  "eh": "c6903d0f6447",
+  "ko": "도린:\\n흐~응.\\n뭐, 됐어.\\n그 대신 이번엔 나도\\n같이 갈 거야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:45",
+  "jh": "03d874482ed9",
+  "eh": "676d5c9e7800",
+  "ko": "그랜:\\n신난다!\\n우리 셋이 함께하는 게\\n몇 세기 만이지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:46",
+  "jh": "41e6e72e9d62",
+  "eh": "c873a613b41c",
+  "ko": "도린:\\n그럼 가자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "429:47",
+  "jh": "f2748f8d318d",
+  "eh": "0c6f37ea71c8",
+  "ko": "잠겨 있는 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:0",
+  "jh": "382a523ffeb0",
+  "eh": "68bd135a8034",
+  "ko": "다리오:\\n제 이름이\\n다리오입니까?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:1",
+  "jh": "8fa9ff6e97cd",
+  "eh": "b0d77ed0f4ac",
+  "ko": "다리오:\\n뭔가 아주 소중한 걸\\n잃어버린 것 같은 기분이야……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:2",
+  "jh": "cbaeb3961da5",
+  "eh": "36bc66f07bad",
+  "ko": "그 사람은 이제\\n돌아오지 않는 건가요……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:3",
+  "jh": "2d3bdaded401",
+  "eh": "13f6020ef4c9",
+  "ko": "저는 여기서 계속\\n기다릴 거예요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:4",
+  "jh": "7f273679ef25",
+  "eh": "3b4a829ff252",
+  "ko": "누구에게나 잊고 싶은\\n과거가 있지 않나요?{bpage}\\n더는 이 사람을\\n괴롭히지 말아 주세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:5",
+  "jh": "54c0ee675af7",
+  "eh": "4ec893ce4bf2",
+  "ko": "저희는 여기서 조용히 살아요.\\n제발…… 내버려 두세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:6",
+  "jh": "d1596034eb04",
+  "eh": "8adb7123551a",
+  "ko": "저희는 여기서\\n조용히 살고 있어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:7",
+  "jh": "f5414cdc62a5",
+  "eh": "58e21926f20e",
+  "ko": "부디 조용히 내버려 두세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:8",
+  "jh": "3122f9412289",
+  "eh": "05170c19df6f",
+  "ko": "이 사람을 아시나요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:9",
+  "jh": "e6effe880934",
+  "eh": "43244b3f1851",
+  "ko": "이 사람이 다 죽어 가는\\n상태로 이 섬에\\n떠밀려 온 지\\n벌써 4년이 됐어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:10",
+  "jh": "900883e82e43",
+  "eh": "4f9a571b541e",
+  "ko": "며칠이나 생사의 경계를\\n헤맸지만, 기적적으로\\n목숨을 건졌죠.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:11",
+  "jh": "9fb02c614447",
+  "eh": "b497fc2cd0b0",
+  "ko": "하지만 이 사람은……\\n자기 이름도 모를 만큼\\n과거의 기억을\\n잃어버렸어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:12",
+  "jh": "57c642724e36",
+  "eh": "cd32ca011fbb",
+  "ko": "뭐, 뭐야……{wait(30)}\\n대체 왜 그래?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:13",
+  "jh": "6a29f7189819",
+  "eh": "4fd28ce19257",
+  "ko": "꺄아악!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:14",
+  "jh": "cbba58e50122",
+  "eh": "cf228d160c62",
+  "ko": "남자:\\n무슨 일이시죠?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:15",
+  "jh": "9e2c2b350685",
+  "eh": "5e986bfba799",
+  "ko": "남자:\\n저를 아시는\\n건가요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:16",
+  "jh": "c269834ec32a",
+  "eh": "4646f4ebdbd8",
+  "ko": "다리오:\\n미안합니다.\\n도무지 기억이 나지 않아요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:17",
+  "jh": "f856dcbb385b",
+  "eh": "2d8f67b67627",
+  "ko": "{RIDDEL%}:\\n당신은……{wait(40)}\\n설마, 다리오!?{bpage}\\n그래, 세계가 다르구나.\\n여긴 다른 세계야.{bpage}\\n이 세계에서는\\n살아 있었군요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:18",
+  "jh": "e8e5b0370fea",
+  "eh": "0a6418502f11",
+  "ko": "다리오:\\n당신은 저를\\n잘 아시는 것 같군요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:19",
+  "jh": "e08ef0d4bf97",
+  "eh": "f41d819e815c",
+  "ko": "{RIDDEL%}:\\n아아, 다리오.\\n저를 모르시겠어요?{bpage}\\n당신이 모르는 {RIDDEL%}일지도\\n모르지만, 저는 언제나\\n당신만을……{bpage}\\n그런데도……\\n잊어버린 건가요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:20",
+  "jh": "0925e3907f20",
+  "eh": "4c55384191bd",
+  "ko": "다리오:\\n{RIDDEL%}……?{wait(40)}\\n그리운 울림이다……{bpage}\\n뭔가 아주 소중한 걸\\n잃어버린 것 같은 기분이야……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:21",
+  "jh": "7addefd85747",
+  "eh": "83fa8173a1d3",
+  "ko": "{RIDDEL%}:\\n뭔가 기억을 일깨울\\n것이 있다면……{bpage}\\n그래요.{bpage}\\n당신이 준, 당신\\n어머님의 유품이 있으면\\n뭔가 떠올릴지도 몰라요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:22",
+  "jh": "625b3f37073e",
+  "eh": "92ed52347d64",
+  "ko": "{RIDDEL%}:\\n아버지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:23",
+  "jh": "b063b893ff16",
+  "eh": "1ed447a1a7c1",
+  "ko": "{VIPER%}:\\n음, 그거 말이냐……{bpage}\\n네가 너무 슬퍼해서\\n빨리 잊게 하려고{bpage}\\n사골관의\\n비밀 보물고에\\n넣어 두었다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:24",
+  "jh": "50a98023d3e5",
+  "eh": "266062253940",
+  "ko": "{RIDDEL%}:\\n비밀 보물고요?\\n동쪽 탑에 있는\\n방 말씀이시죠?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:25",
+  "jh": "17a4d526973c",
+  "eh": "2576834791d6",
+  "ko": "{VIPER%}:\\n그래, 지금은 2층\\n홀에서 갈 수 있게\\n되어 있을 거다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:26",
+  "jh": "c9faa37f94c6",
+  "eh": "22c0a3adf5d9",
+  "ko": "{RIDDEL%}:\\n잠깐만요.{bpage}\\n거기 보물 상자 안의 물건은\\n슈가르 일행이\\n가져가 버렸어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:27",
+  "jh": "fbfc87e36bbe",
+  "eh": "925498e96d3c",
+  "ko": "{VIPER%}:\\n그런가, 그 녀석들……{bpage}\\n{KARSH%}를 데리고\\n망자의 섬에 가는 수밖에\\n없겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:28",
+  "jh": "276cf314c847",
+  "eh": "e88fa872bcd0",
+  "ko": "{RIDDEL%}:\\n그건 분명……{bpage}\\n아버지께서 제가\\n너무 슬퍼하는 걸\\n보다 못해……{bpage}\\n빨리 잊게 하려고\\n사골관의 비밀 보물고에\\n넣어 두셨을 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:29",
+  "jh": "c6eb6ded9377",
+  "eh": "b0682d2d778e",
+  "ko": "{PARTY2%}:\\n비밀 보물고?\\n그게 어디 있는데?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:30",
+  "jh": "be756d6391dc",
+  "eh": "7215319a9aa8",
+  "ko": "{RIDDEL%}:\\n동쪽 탑에 있는\\n방이에요.{bpage}\\n2층 홀에서\\n갈 수 있어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:31",
+  "jh": "c9faa37f94c6",
+  "eh": "22c0a3adf5d9",
+  "ko": "{RIDDEL%}:\\n잠깐만요.{bpage}\\n거기 보물 상자 안의 물건은\\n슈가르 일행이\\n가져가 버렸어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:32",
+  "jh": "365375605f82",
+  "eh": "8412e7063f3c",
+  "ko": "{KARSH%}:\\n그런가, 그 녀석들……{bpage}\\n망자의 섬에 가는 수밖에\\n없겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:33",
+  "jh": "aab2a9f51624",
+  "eh": "d7bdfc82f4c9",
+  "ko": "{PARTY2%}:\\n망자의 섬에 가는\\n수밖에 없겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:34",
+  "jh": "f856dcbb385b",
+  "eh": "2d8f67b67627",
+  "ko": "{RIDDEL%}:\\n당신은……{wait(40)}\\n설마, 다리오!?{bpage}\\n그래, 세계가 다르구나.\\n여긴 다른 세계야.{bpage}\\n이 세계에서는\\n살아 있었군요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:35",
+  "jh": "e8e5b0370fea",
+  "eh": "0a6418502f11",
+  "ko": "다리오:\\n당신은 저를\\n잘 아시는 것 같군요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:36",
+  "jh": "e08ef0d4bf97",
+  "eh": "b8797713a46a",
+  "ko": "{RIDDEL%}:\\n아아, 다리오.\\n저를 모르시겠어요?{bpage}\\n당신이 모르는 {RIDDEL%}일지도\\n모르지만{bpage}\\n저는 언제나 당신만을……{bpage}\\n그런데도……\\n잊어버린 건가요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:37",
+  "jh": "0925e3907f20",
+  "eh": "4c55384191bd",
+  "ko": "다리오:\\n{RIDDEL%}……?{wait(40)}\\n그리운 울림이다……{bpage}\\n뭔가 아주 소중한 걸\\n잃어버린 것 같은 기분이야……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:38",
+  "jh": "2a481b4182c4",
+  "eh": "5d2e828467a0",
+  "ko": "{RIDDEL%}:\\n뭔가 기억을 일깨울\\n것이 있다면……{bpage}\\n그래요.{bpage}\\n이 펜던트.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:39",
+  "jh": "f856dcbb385b",
+  "eh": "2d8f67b67627",
+  "ko": "{RIDDEL%}:\\n당신은……{wait(40)}\\n설마, 다리오!?{bpage}\\n그래, 세계가 다르구나.\\n여긴 다른 세계야.{bpage}\\n이 세계에서는\\n살아 있었군요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:40",
+  "jh": "0379505c4742",
+  "eh": "7b3e5e12a41c",
+  "ko": "{GLENN%}:\\n설마!{wait(30)}\\n형님!{bpage}\\n대체 어떻게……!?{wait(40)}\\n그렇군……\\n이 세계에서는 살아 있었군요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:41",
+  "jh": "722677e71923",
+  "eh": "60d7018f6486",
+  "ko": "{RADIUS%}:\\n자네!{wait(30)}\\n설마, 다리오!?{bpage}\\n이럴 수가, 살아 있었구먼!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:42",
+  "jh": "b4f6b80c4c89",
+  "eh": "3f5a3ee05951",
+  "ko": "{KARSH%}:\\n다리오!{wait(30)}\\n정말 너야!?{bpage}\\n이게 어떻게 된 거야!?\\n그래, 이 세계에서는\\n살아 있었구나!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:43",
+  "jh": "5296105dafda",
+  "eh": "1b46f92c024e",
+  "ko": "{VIPER%}:\\n자네는!{wait(30)}\\n다리오인가!?{bpage}\\n이럴 수가……{wait(40)}\\n그런가, 이 세계에서는\\n살아 있구나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:44",
+  "jh": "982cf2785a88",
+  "eh": "2ae035a76610",
+  "ko": "{MARCY%}:\\n어라!{wait(30)}\\n너, 다리오!?{bpage}\\n살아 있었구나……{bpage}\\n그렇지, 그 다리오가\\n죽을 리 없지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:45",
+  "jh": "29d75453f589",
+  "eh": "b4c2d0808011",
+  "ko": "{LUCCIA%}:\\n당신……{wait(30)}\\n다리오니?{bpage}\\n그래, 이 세계에서는\\n살아 있었구나.{bpage}\\n충분히 있을 법한\\n일이지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:46",
+  "jh": "bb0effaef9a1",
+  "eh": "dac3b1c86530",
+  "ko": "{ZOAH%}:\\n다, 다리오!{bpage}\\n이 세계에서는\\n살아 있었구나!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:47",
+  "jh": "ca0830bd80b8",
+  "eh": "2c5f02dba011",
+  "ko": "{GLENN%}:\\n형님!\\n살아 계셨군요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:48",
+  "jh": "a272b6b3f860",
+  "eh": "ddce7dc6e701",
+  "ko": "{RADIUS%}:\\n다리오!{bpage}\\n이럴 수가……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:49",
+  "jh": "a254c18c84d2",
+  "eh": "ca8ecf7176aa",
+  "ko": "{KARSH%}:\\n다리오!\\n그렇지……\\n여긴 다른 세계지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:50",
+  "jh": "646364fec7ba",
+  "eh": "639d288c3dc1",
+  "ko": "{VIPER%}:\\n다리오로군!{bpage}\\n살아 있었다니……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:51",
+  "jh": "05d35485e6cd",
+  "eh": "0db2a6d946d0",
+  "ko": "{MARCY%}:\\n앗, 다리오다!{bpage}\\n다리오가 죽을 리\\n없다니까!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:52",
+  "jh": "31cc29400625",
+  "eh": "67403db91e90",
+  "ko": "{LUCCIA%}:\\n다리오!{bpage}\\n그래, 다른 세계에서\\n살아 있는 것도\\n충분히 있을 법하지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:53",
+  "jh": "54711c996fa5",
+  "eh": "6633d18938bc",
+  "ko": "{ZOAH%}:\\n다, 다리오!{bpage}\\n살아 있었구나!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:54",
+  "jh": "1971624fb6fb",
+  "eh": "d705cf7e21b7",
+  "ko": "{RIDDEL%}:\\n뭐라고요!?{bpage}\\n설마……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:55",
+  "jh": "25cddaa224b6",
+  "eh": "9c29109b5b78",
+  "ko": "{GLENN%}:\\n형님, 무슨\\n말씀이세요!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:56",
+  "jh": "db70c3dea3fc",
+  "eh": "c4d748d5a392",
+  "ko": "{RADIUS%}:\\n뭐라고?{bpage}\\n나를 못\\n알아보겠나?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:57",
+  "jh": "3c6efa136969",
+  "eh": "301d5d1301cf",
+  "ko": "{KARSH%}:\\n장난치지 마,\\n다리오!{bpage}\\n모를 리가 없잖아!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:58",
+  "jh": "38ee20771ae1",
+  "eh": "93ee84575b3b",
+  "ko": "{VIPER%}:\\n자기가 누군지\\n모른단 말인가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:59",
+  "jh": "6d42128fd6b7",
+  "eh": "2ea52c776a88",
+  "ko": "{MARCY%}:\\n무슨 소리야!?\\n정신 좀 차려!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:60",
+  "jh": "15271170a098",
+  "eh": "ddb21cb17829",
+  "ko": "{LUCCIA%}:\\n다리오……\\n설마 너……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:61",
+  "jh": "228480274a0c",
+  "eh": "465b08d7b3ef",
+  "ko": "{ZOAH%}:\\n응?\\n자기 이름도\\n모른단 말이냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:62",
+  "jh": "e08ef0d4bf97",
+  "eh": "f41d819e815c",
+  "ko": "{RIDDEL%}:\\n아아, 다리오.\\n저를 모르시겠어요?{bpage}\\n당신이 모르는 {RIDDEL%}일지도\\n모르지만, 저는 언제나\\n당신만을……{bpage}\\n그런데도……\\n잊어버린 건가요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:63",
+  "jh": "0925e3907f20",
+  "eh": "4c55384191bd",
+  "ko": "다리오:\\n{RIDDEL%}……?{wait(40)}\\n그리운 울림이다……{bpage}\\n뭔가 아주 소중한 걸\\n잃어버린 것 같은 기분이야……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:64",
+  "jh": "a556b7cad8da",
+  "eh": "af8c4fd220fe",
+  "ko": "{GLENN%}:\\n형님!{bpage}\\n저예요! 동생\\n{GLENN%}라고요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:65",
+  "jh": "cbc3c1ca7df8",
+  "eh": "ad3491950597",
+  "ko": "{RADIUS%}:\\n흐음……{bpage}\\n살아 있는 것만도\\n기적이니\\n어쩔 수 없는 겐가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:66",
+  "jh": "7339a70d93a8",
+  "eh": "cdd13ad8d479",
+  "ko": "{KARSH%}:\\n다리오!\\n나야, {KARSH%}!\\n친구 얼굴을 잊었냐!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:67",
+  "jh": "a3b6880e138c",
+  "eh": "fd9de3effa4f",
+  "ko": "{VIPER%}:\\n음……\\n정말 아무것도\\n기억하지 못하는가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:68",
+  "jh": "8f5c6b1e6ba0",
+  "eh": "e3517196580c",
+  "ko": "{MARCY%}:\\n있잖아!\\n나 잊어버린 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:69",
+  "jh": "811573aaffa4",
+  "eh": "d8972fd51257",
+  "ko": "{LUCCIA%}:\\n부상 충격으로 인한\\n기억 상실이구나.{bpage}\\n이건 골치 아프겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:70",
+  "jh": "163508e6510c",
+  "eh": "5d633e467f67",
+  "ko": "{ZOAH%}:\\n이럴 수가……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:71",
+  "jh": "6900b1c4c7d4",
+  "eh": "cb9a24b1ffed",
+  "ko": "{RIDDEL%}:\\n뭔가 기억을 일깨울\\n것이 있다면……{bpage}\\n그래요.{bpage}\\n이걸 보세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:72",
+  "jh": "7addefd85747",
+  "eh": "bf29d0eceda9",
+  "ko": "{RIDDEL%}:\\n뭔가 기억을 일깨울\\n것이 있다면……{bpage}\\n그래요.{bpage}\\n당신이 준, 당신\\n어머님의 유품이 있으면\\n뭔가 떠올릴지도 몰라요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:73",
+  "jh": "de08443205a1",
+  "eh": "314d9641eb6e",
+  "ko": "{GLENN%}:\\n어떻게 하지!?{bpage}\\n그래!\\n{RIDDEL%} 누님을 데려오면\\n뭔가 떠올릴지도 몰라!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:74",
+  "jh": "623e4dd7192e",
+  "eh": "875edc1215c5",
+  "ko": "{RADIUS%}:\\n어찌하면 좋을꼬?{bpage}\\n그렇지!\\n{RIDDEL%}를 데려오면\\n뭔가 떠올릴지도 모르겠구먼.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:75",
+  "jh": "d63a7629481a",
+  "eh": "7ca54e835397",
+  "ko": "{KARSH%}:\\n젠장!\\n어떻게 하지?{bpage}\\n그래!{bpage}\\n{RIDDEL%} 아가씨를\\n데려오면 뭔가\\n떠올리지 않을까!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:76",
+  "jh": "3fa1a50c689f",
+  "eh": "365cb60e8cc7",
+  "ko": "{VIPER%}:\\n어찌하면 좋겠나?{bpage}\\n그래, 내 딸 {RIDDEL%}라면\\n기억을 되살릴지도 모른다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:77",
+  "jh": "c9d1fb0c8796",
+  "eh": "925b3fa68093",
+  "ko": "{MARCY%}:\\n어떻게 하면 돼?{bpage}\\n아, 맞다!\\n{RIDDEL%} 언니를 데려오면\\n뭔가 떠올릴지도!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:78",
+  "jh": "ebd47805d382",
+  "eh": "ce1e69469d56",
+  "ko": "{LUCCIA%}:\\n기억을 자극할 만한\\n뭔가가……{bpage}\\n그래, {RIDDEL%}를\\n데려오면 어떨까……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:79",
+  "jh": "9a2c7c2eca44",
+  "eh": "9a86aea53014",
+  "ko": "{ZOAH%}:\\n어떻게 하면 되지?{bpage}\\n음, 그렇지!\\n{RIDDEL%} 아가씨를 데려오면\\n뭔가 떠올릴지도 모른다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:80",
+  "jh": "5e83d8cfc45d",
+  "eh": "6e1875221e90",
+  "ko": "{playwork(0)}:\\n이 펜던트는 {RIDDEL%}가\\n직접 보여 주지 않으면\\n소용없어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:81",
+  "jh": "b0be9a224f99",
+  "eh": "fa12cf1dbc88",
+  "ko": "{RIDDEL%}:\\n이 펜던트는 당신\\n어머님의 유품……{bpage}\\n그리고 우리 약혼의\\n징표로 당신이\\n저에게 준 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:82",
+  "jh": "2b9d9e15593b",
+  "eh": "9a15c1b371f5",
+  "ko": "다리오:\\n이건……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:83",
+  "jh": "749e02d45968",
+  "eh": "539821179643",
+  "ko": "{RIDDEL%}:\\n기억해 내요!{bpage}\\n우리는 어릴 때부터\\n줄곧 함께였어요.{bpage}\\n그리고 앞으로도 계속……{bpage}\\n저는 무슨 일이 있어도\\n당신을 잊지 않아요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:84",
+  "jh": "68a4dcbfdeed",
+  "eh": "8d35a86642b8",
+  "ko": "다리오:\\n{RIDDEL%}……{wait(40)}\\n도, 도망쳐……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:85",
+  "jh": "bf5dfa015ce1",
+  "eh": "df7df4013744",
+  "ko": "다리오:\\n우오오오오오!{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:86",
+  "jh": "9d75a7b75692",
+  "eh": "1b36c5e710a7",
+  "ko": "{RIDDEL%}……{wait(30)}\\n{RIDDEL%}……\\n그래……{wait(30)} {RIDDEL%}……{wend(60)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:87",
+  "jh": "c6dcf078842c",
+  "eh": "fc31ed87cca1",
+  "ko": "{RADIUS%}:\\n이, 이런!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:88",
+  "jh": "c6dcf078842c",
+  "eh": "fc31ed87cca1",
+  "ko": "{RADIUS%}:\\n이, 이런!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:89",
+  "jh": "6629e2324b4e",
+  "eh": "9d3e51168d74",
+  "ko": "{RADIUS%}:\\n안 돼!\\n건드리면 안 되네!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:90",
+  "jh": "6629e2324b4e",
+  "eh": "9d3e51168d74",
+  "ko": "{RADIUS%}:\\n안 돼!\\n건드리면 안 되네!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:91",
+  "jh": "1d28c2059478",
+  "eh": "38e689893646",
+  "ko": "{KARSH%}:\\n뭐야……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:92",
+  "jh": "1d28c2059478",
+  "eh": "38e689893646",
+  "ko": "{KARSH%}:\\n뭐야……!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:93",
+  "jh": "00aaab1fcd36",
+  "eh": "2867db8e3c29",
+  "ko": "{KARSH%}:\\n그, 그랜드리온!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:94",
+  "jh": "00aaab1fcd36",
+  "eh": "2867db8e3c29",
+  "ko": "{KARSH%}:\\n그, 그랜드리온!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:95",
+  "jh": "349fd4fd5169",
+  "eh": "d29539881ec9",
+  "ko": "{RIDDEL%}:\\n다리오!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:96",
+  "jh": "5e4365d0d493",
+  "eh": "38d16098f95e",
+  "ko": "{RIDDEL%}:\\n안 돼요!{wait(30)}\\n그 검을 만지지 마요!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:97",
+  "jh": "9d3a077677ef",
+  "eh": "1f88fc6d5376",
+  "ko": "{RIDDEL%}……\\n나의 검이 너의 피를 원한다……{wend(120)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:98",
+  "jh": "9f4a9e7a6ec9",
+  "eh": "acd5cef5ff77",
+  "ko": "{RADIUS%}:\\n역시 그랬구먼!{bpage}\\n그랜드리온은 죽음의 문에서\\n사라진 게 아니었어.{bpage}\\n그저 주인 곁으로\\n돌아갔을 뿐이었네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:99",
+  "jh": "9f4a9e7a6ec9",
+  "eh": "acd5cef5ff77",
+  "ko": "{RADIUS%}:\\n역시 그랬구먼!{bpage}\\n그랜드리온은 죽음의 문에서\\n사라진 게 아니었어.{bpage}\\n그저 주인 곁으로\\n돌아갔을 뿐이었네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:100",
+  "jh": "3cbb1c712ae9",
+  "eh": "bfc0b4ae5622",
+  "ko": "{KARSH%}:\\n뭐라고!\\n그럼 다리오는 아직……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:101",
+  "jh": "3cbb1c712ae9",
+  "eh": "bfc0b4ae5622",
+  "ko": "{KARSH%}:\\n뭐라고!\\n그럼 다리오는 아직……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:102",
+  "jh": "1858fe22430f",
+  "eh": "a71b92f15059",
+  "ko": "{RADIUS%}:\\n대체 무슨 일이 있었던 겐가!{bpage}\\n다리오는 망자의 섬에서\\n망령들에게 당한 게\\n아니었나!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:103",
+  "jh": "1858fe22430f",
+  "eh": "a71b92f15059",
+  "ko": "{RADIUS%}:\\n대체 무슨 일이 있었던 겐가!{bpage}\\n다리오는 망자의 섬에서\\n망령들에게 당한 게\\n아니었나!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:104",
+  "jh": "3d43e40e2016",
+  "eh": "4a598e6ec4eb",
+  "ko": "{KARSH%}:\\n그때……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:105",
+  "jh": "3d43e40e2016",
+  "eh": "4a598e6ec4eb",
+  "ko": "{KARSH%}:\\n그때……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:106",
+  "jh": "625b3f37073e",
+  "eh": "92ed52347d64",
+  "ko": "{RIDDEL%}:\\n아버지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:107",
+  "jh": "b063b893ff16",
+  "eh": "1ed447a1a7c1",
+  "ko": "{VIPER%}:\\n음, 그거 말이냐……{bpage}\\n네가 너무 슬퍼해서\\n빨리 잊게 하려고{bpage}\\n사골관의\\n비밀 보물고에\\n넣어 두었다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:108",
+  "jh": "50a98023d3e5",
+  "eh": "266062253940",
+  "ko": "{RIDDEL%}:\\n비밀 보물고요?\\n동쪽 탑에 있는\\n방 말씀이시죠?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:109",
+  "jh": "17a4d526973c",
+  "eh": "2576834791d6",
+  "ko": "{VIPER%}:\\n그래, 지금은 2층\\n홀에서 갈 수 있게\\n되어 있을 거다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:110",
+  "jh": "c9faa37f94c6",
+  "eh": "22c0a3adf5d9",
+  "ko": "{RIDDEL%}:\\n잠깐만요.{bpage}\\n거기 보물 상자 안의 물건은\\n슈가르 일행이\\n가져가 버렸어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:111",
+  "jh": "fbfc87e36bbe",
+  "eh": "925498e96d3c",
+  "ko": "{VIPER%}:\\n그런가, 그 녀석들……{bpage}\\n{KARSH%}를 데리고\\n망자의 섬에 가는 수밖에\\n없겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:112",
+  "jh": "276cf314c847",
+  "eh": "e88fa872bcd0",
+  "ko": "{RIDDEL%}:\\n그건 분명……{bpage}\\n아버지께서 제가\\n너무 슬퍼하는 걸\\n보다 못해……{bpage}\\n빨리 잊게 하려고\\n사골관의 비밀 보물고에\\n넣어 두셨을 거예요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:113",
+  "jh": "c6eb6ded9377",
+  "eh": "b0682d2d778e",
+  "ko": "{PARTY2%}:\\n비밀 보물고?\\n그게 어디 있는데?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:114",
+  "jh": "be756d6391dc",
+  "eh": "7215319a9aa8",
+  "ko": "{RIDDEL%}:\\n동쪽 탑에 있는\\n방이에요.{bpage}\\n2층 홀에서\\n갈 수 있어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:115",
+  "jh": "c9faa37f94c6",
+  "eh": "22c0a3adf5d9",
+  "ko": "{RIDDEL%}:\\n잠깐만요.{bpage}\\n거기 보물 상자 안의 물건은\\n슈가르 일행이\\n가져가 버렸어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:116",
+  "jh": "365375605f82",
+  "eh": "8412e7063f3c",
+  "ko": "{KARSH%}:\\n그런가, 그 녀석들……{bpage}\\n망자의 섬에 가는 수밖에\\n없겠군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "430:117",
+  "jh": "aab2a9f51624",
+  "eh": "d7bdfc82f4c9",
+  "ko": "{PARTY2%}:\\n망자의 섬에 가는\\n수밖에 없겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "431:0",
+  "jh": "f2748f8d318d",
+  "eh": "0c6f37ea71c8",
+  "ko": "잠겨 있는 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:0",
+  "jh": "89c2d74e9323",
+  "eh": "20e48441eb18",
+  "ko": "이런 외진 데까지\\n무슨 일이여?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:1",
+  "jh": "43dd7c5efe1f",
+  "eh": "575f43232cb9",
+  "ko": "따지고 보면 우리 아인이\\n쫓겨난 건 다\\n당신네 탓 아니여?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:2",
+  "jh": "230fcb8ada1c",
+  "eh": "ea5763145eb7",
+  "ko": "어릴 적엔 우리\\n동족이 훨씬 많아서{bpage}\\n아르니 마을 남쪽에\\n살았었구먼유.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:3",
+  "jh": "cd6464b8c8d0",
+  "eh": "6ff7e3d15fdd",
+  "ko": "용신의 폭포에 자주\\n놀러 갔었지유.{bpage}\\n그 폭포 아직 있으려나.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:4",
+  "jh": "d36a476b202d",
+  "eh": "c00986bf04a4",
+  "ko": "저기유……\\n여긴 내 집인디……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:5",
+  "jh": "57ff4162f8dd",
+  "eh": "a884464a305c",
+  "ko": "참 시끄러운\\n사람들이었구먼유.{bpage}\\n멋대로 쳐들어왔다가\\n멋대로 나가 버렸어유.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:6",
+  "jh": "d36a476b202d",
+  "eh": "c00986bf04a4",
+  "ko": "저기유……\\n여긴 내 집인디……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:7",
+  "jh": "bf4152d1385e",
+  "eh": "343619f3f881",
+  "ko": "슈가르:\\n우, 우리는 숨어 있는 게\\n아닌 거다.{bpage}\\n반격할 기회를 엿보고\\n있는 것뿐인 거다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:8",
+  "jh": "75b15e4ebe76",
+  "eh": "dd158a78698b",
+  "ko": "슈가르:\\n{KARSH%} 님!\\n우리가 오해했던 거다.{bpage}\\n{KARSH%} 님은 역시\\n우리 대장인 거다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:9",
+  "jh": "b24ef09aa10c",
+  "eh": "9d508414621a",
+  "ko": "솔튼:\\n여기는 제 본가입니다!{bpage}\\n결코 도망쳐 숨어 있는\\n것이 아닙니다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:10",
+  "jh": "065bc7c756f2",
+  "eh": "58d1a0d4b81d",
+  "ko": "솔튼:\\n{KARSH%} 님!\\n저희는 {KARSH%} 님을\\n믿고 있습니다.{bpage}\\n용기사단이 재결성되면\\n바로 달려가겠습니다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:11",
+  "jh": "f380aed864a6",
+  "eh": "d4ff12b0ed9a",
+  "ko": "이 사람들을 따라온 게\\n잘한 건지\\n못한 건지.{bpage}\\n뭐, 도망치는 데는 일류라\\n목숨만은\\n건졌지만요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:12",
+  "jh": "c6605f9b53c9",
+  "eh": "d4ff12b0ed9a",
+  "ko": "저 사람들을 따라온 게\\n잘한 건지\\n못한 건지.{bpage}\\n뭐, 도망치는 데는 일류라\\n목숨만은\\n건졌지만요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "432:13",
+  "jh": "f380aed864a6",
+  "eh": "d4ff12b0ed9a",
+  "ko": "이 사람들을 따라온 게\\n잘한 건지\\n못한 건지.{bpage}\\n뭐, 도망치는 데는 일류라\\n목숨만은\\n건졌지만요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:0",
+  "jh": "060ec8486378",
+  "eh": "c0708123a57c",
+  "ko": "여긴 천룡이 사는 곳이었는데\\n용이 사라진 뒤로\\n대신 엄청난 몬스터가\\n눌러앉았어.{bpage}\\n고생해서 손에 넣은\\n“별의 조각”을 빼앗겼지.{bpage}\\n뭐, 그게 없었으면\\n목숨을 빼앗겼겠지만.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:1",
+  "jh": "f13c0ee79440",
+  "eh": "b29fef8c45b0",
+  "ko": "별의 조각은 해파리 바다라는\\n해역의 바닥에 있어.{bpage}\\n바다 밑이긴 한데 왠지 그 해역엔\\n공기층이 있어서 걸어 들어갈 수 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:2",
+  "jh": "8fe60bed3c4d",
+  "eh": "da141025c6b9",
+  "ko": "여긴 가까이 가지 말라고\\n들었지만 결국 와 버렸어.{bpage}\\n우리 모험가는\\n가지 말라고 하면\\n괜히 더 가고 싶어지거든!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:3",
+  "jh": "1d5f67f87ece",
+  "eh": "ac7dc95b79ad",
+  "ko": "해파리 바다라는 해역은\\n옛날 별이 떨어졌다는\\n소문이 있는 곳이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:4",
+  "jh": "2319fa4558a0",
+  "eh": "739a3580c8de",
+  "ko": "고마워!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:5",
+  "jh": "8174ca989c8e",
+  "eh": "c4a6867bdb3f",
+  "ko": "살려 줘!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:6",
+  "jh": "0d80eec3295a",
+  "eh": "76f44995b5be",
+  "ko": "꺄아아악!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:7",
+  "jh": "de3b46b6c6d3",
+  "eh": "f7555fe4c5bc",
+  "ko": "고마워!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:8",
+  "jh": "b25a24f0ed6a",
+  "eh": "17a673d35d51",
+  "ko": "고마워,\\n{NEOFIO%}!{wend(40)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:9",
+  "jh": "a92b4825b574",
+  "eh": "df459d0820d5",
+  "ko": "이거 줄게!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:10",
+  "jh": "a92b4825b574",
+  "eh": "df459d0820d5",
+  "ko": "이거 줄게!{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:11",
+  "jh": "e71b153a532f",
+  "eh": "5cd84d72a15b",
+  "ko": "{NEOFIO%}의\\n{color(3)}{itemwork(3)}{color(0)}을(를) 손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:12",
+  "jh": "7de26d2f6e65",
+  "eh": "819e2382f5fa",
+  "ko": "그럼 안녕.{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "433:13",
+  "jh": "5039e0306d4f",
+  "eh": "013d9020ba61",
+  "ko": "바이바이.{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:0",
+  "jh": "0759724ca67c",
+  "eh": "a78c3ba86269",
+  "ko": "으음.{bpage}\\n아무래도 천룡은\\n이 섬을 떠난 모양이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:1",
+  "jh": "0759724ca67c",
+  "eh": "a78c3ba86269",
+  "ko": "으음.{bpage}\\n아무래도 천룡은\\n이 섬을 떠난 모양이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:2",
+  "jh": "5039caadca1e",
+  "eh": "368b5b362cc5",
+  "ko": "위쪽 분위기가\\n아무래도 이상해.{bpage}\\n아, 아니, 난 안 가.\\n가 보려면 너희끼리 가.\\n하하하…… {color(GRAY)}식은땀……{color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:3",
+  "jh": "40cf94e3a5a2",
+  "eh": "da055c65bb97",
+  "ko": "이 섬은 천룡이 사는 곳이라고\\n전해졌는데\\n어디론가 가 버린 모양이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:4",
+  "jh": "7461dc868006",
+  "eh": "019c7c2ccf6b",
+  "ko": "지하에는 전설의 용인들의\\n유적이 있다고 해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:5",
+  "jh": "65ea5447690e",
+  "eh": "a44a05944015",
+  "ko": "천룡님이 떠나셨다고\\n주민들이 난리야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:6",
+  "jh": "65ea5447690e",
+  "eh": "a44a05944015",
+  "ko": "천룡님이 떠나셨다고\\n주민들이 난리야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:7",
+  "jh": "afff5d038167",
+  "eh": "9c735a551459",
+  "ko": "천룡님이 돌아오셨다고\\n주민들이 난리야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "434:8",
+  "jh": "29aff7fad40c",
+  "eh": "28d0dcea855d",
+  "ko": "이 섬은 주민들이 절대\\n가까이 가지 않는 신성한 곳이야.{bpage}\\n하지만 모험가의 끝없는\\n탐구심에 금기 따윈 없지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "435:0",
+  "jh": "6d34c4108d4a",
+  "eh": "4dc829ff5cd2",
+  "ko": "여기는 옛 용인들의\\n유적이 아닐까요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "435:1",
+  "jh": "f8bc63adeba1",
+  "eh": "1f32d1a67d37",
+  "ko": "이 나무 아래에\\n석상이 잔뜩 늘어서 있어요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "436:0",
+  "jh": "83f62bd2b556",
+  "eh": "fe879581e3f4",
+  "ko": "약 100년 전 대륙 사람들이\\n이 땅에 들어오기 전까지는\\n용족과 아인이\\n아직 많이 남아 있었대.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "436:1",
+  "jh": "4433b05dbce6",
+  "eh": "640a2004bc21",
+  "ko": "이 섬은 그 용족들이\\n남긴 유적인 것 같아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:0",
+  "jh": "f2b7a446724b",
+  "eh": "63a185b15ced",
+  "ko": "어이,\\n네 배는 찾았냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:1",
+  "jh": "8bd5cafceb00",
+  "eh": "e871e2cc1cc8",
+  "ko": "그 녀석은 나가 버렸어.{bpage}\\n은자의 오두막에 간다고\\n하던데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:2",
+  "jh": "2b6a883040d7",
+  "eh": "f15fc7f2f3d1",
+  "ko": "뭐야, 본체는 그렇게\\n쪼그만 녀석이었어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:3",
+  "jh": "027499a6f46d",
+  "eh": "ab49baa926aa",
+  "ko": "여긴 엄청난 몬스터가\\n있다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:4",
+  "jh": "9b1f92f5b2b8",
+  "eh": "41c5db9a4291",
+  "ko": "그런데 별의 조각을\\n안 갖고 있으면\\n덤비지 않는 모양이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:5",
+  "jh": "754a4fb829e9",
+  "eh": "dd738a5b16b0",
+  "ko": "여기 몬스터를 만나고 싶으면\\n해파리 바다에 있는\\n별의 조각을 가져오지 그래?{bpage}\\n다만 별의 조각이\\n있는 곳은 트로픽스의\\n둥지란 걸 명심해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:6",
+  "jh": "0aa0a5298e94",
+  "eh": "b5d6a6b329f4",
+  "ko": "으악, 나왔다아아!!!{wend(80)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:7",
+  "jh": "db99fac042a2",
+  "eh": "9e482c14a66c",
+  "ko": "자, 이거 줄 테니\\n기운 내!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "437:8",
+  "jh": "5bcae0e7c325",
+  "eh": "665cdf113826",
+  "ko": "그 녀석을 만나면\\n이걸 전해 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ }
+]

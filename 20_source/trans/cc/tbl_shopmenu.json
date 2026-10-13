@@ -1,0 +1,776 @@
+[
+ {
+  "k": "3",
+  "id": "0x801DF40C",
+  "jh": "9b3b0602ecc2",
+  "eh": "223a772b5334",
+  "ko": "엘레멘트 숍",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "4",
+  "id": "0x801DF424",
+  "jh": "2e6c5c0041a7",
+  "eh": "e52e5e6cd50e",
+  "ko": "어서 오세요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "5",
+  "id": "0x801DF438",
+  "jh": "2fc51f1624c4",
+  "eh": "3b436dcc02e8",
+  "ko": "나머지 엘레멘트는\n\n왼쪽에 있는 분들에게\n\n배치되어 있습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "8",
+  "id": "0x801DF470",
+  "jh": "53c9fb7ee48a",
+  "eh": "7b6dd29a1040",
+  "ko": "누구의 그리드에서\n\n빼서 파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "11",
+  "id": "0x801DF4A4",
+  "jh": "cf0f6ccd6190",
+  "eh": "1daec180566c",
+  "ko": "감사합니다!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "15",
+  "id": "0x801DF4D5",
+  "jh": "513a6b70a335",
+  "eh": "43a9492abfcd",
+  "ko": "어느 엘레멘트를\n\n사시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "16",
+  "id": "0x801DF4D6",
+  "jh": "2fd4577a8e72",
+  "eh": "9df99ed1e386",
+  "ko": "몇 개\n\n사시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "18",
+  "id": "0x801DF4E5",
+  "jh": "ed448ccb9587",
+  "eh": "0442bfd0c515",
+  "ko": "어느 엘레멘트를\n\n파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "19",
+  "id": "0x801DF4E6",
+  "jh": "a3b567899851",
+  "eh": "888e23009f02",
+  "ko": "몇 개\n\n파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "24",
+  "id": "0x801DF538",
+  "jh": "7d74b8462b5c",
+  "eh": "bcecf4562f17",
+  "ko": "소지 수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "25",
+  "id": "0x801DF540",
+  "jh": "7c9c9940ce50",
+  "eh": "c249df168c39",
+  "ko": "배치됨",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "26",
+  "id": "0x801DF54C",
+  "jh": "df56c3a62eef",
+  "eh": "d474dcf8a935",
+  "ko": "보관 수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "27",
+  "id": "0x801DF558",
+  "jh": "97699d6e8dc1",
+  "eh": "b7baa1d40c4e",
+  "ko": "개수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "29",
+  "id": "0x801DF560",
+  "jh": "1b25424d7395",
+  "eh": "3e8248e32edf",
+  "ko": "가격",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "30",
+  "id": "0x801DF568",
+  "jh": "3d6367a3b068",
+  "eh": "1aa6e8ca6610",
+  "ko": "Lv",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "34",
+  "id": "0x801DF581",
+  "jh": "2fe2fa580f5f",
+  "eh": "482544e6b685",
+  "ko": "적·단일",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "35",
+  "id": "0x801DF582",
+  "jh": "d6ff1f6a499b",
+  "eh": "f3489cf0732a",
+  "ko": "아군·단일",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "36",
+  "id": "0x801DF583",
+  "jh": "d241a484752f",
+  "eh": "afadbeee4853",
+  "ko": "적/아군·단일",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "38",
+  "id": "0x801DF589",
+  "jh": "9fdd55952cc8",
+  "eh": "d83abb6c087e",
+  "ko": "적·전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "39",
+  "id": "0x801DF58A",
+  "jh": "fed06a272eb3",
+  "eh": "fc1da938ab27",
+  "ko": "아군·전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "40",
+  "id": "0x801DF58B",
+  "jh": "d02d232253b4",
+  "eh": "a0d0333471e7",
+  "ko": "적/아군·전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "41",
+  "id": "0x801DF590",
+  "jh": "0f8e5b4de960",
+  "eh": "04a212215ef9",
+  "ko": "결정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "44",
+  "id": "0x801DF5A9",
+  "jh": "3fcec5091cc8",
+  "eh": "bbf7ed9161a0",
+  "ko": "(선천 속성 색 초록만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "46",
+  "id": "0x801DF5B5",
+  "jh": "f83b36ad9c24",
+  "eh": "981432d080c7",
+  "ko": "(선천 속성 색 하양만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "48",
+  "id": "0x801DF5C1",
+  "jh": "d1037aeeef5e",
+  "eh": "2537121afc94",
+  "ko": "(선천 속성 색 검정만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "50",
+  "id": "0x801DF5CD",
+  "jh": "c26491560e73",
+  "eh": "b412958134f5",
+  "ko": "(선천 속성 색 빨강만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "52",
+  "id": "0x801DF5D9",
+  "jh": "aa992110f849",
+  "eh": "93ef82f3f212",
+  "ko": "(선천 속성 색 노랑만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "54",
+  "id": "0x801DF5E5",
+  "jh": "098762b9014c",
+  "eh": "2bd73c08b724",
+  "ko": "(선천 속성 색 파랑만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "56",
+  "id": "0x801DF5F8",
+  "jh": "ee046475682f",
+  "eh": "49c533dfbe78",
+  "ko": "야마네코",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "59",
+  "id": "0x801DF668",
+  "jh": "4f7261f6e59d",
+  "eh": "a87b2bc7de9a",
+  "ko": "필요 Lv만큼 선택했습니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "61",
+  "id": "0x801DF688",
+  "jh": "6c3a932bcf14",
+  "eh": "1dcafcf75c98",
+  "ko": "엘레멘트 트레이드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "63",
+  "id": "0x801DF6A0",
+  "jh": "7bc4d0130851",
+  "eh": "9ae5d07e18fb",
+  "ko": "교환할 엘레멘트를\n\n보관함에서 골라\n\n주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "66",
+  "id": "0x801DF6DC",
+  "jh": "59e7e1910502",
+  "eh": "3840cb23951a",
+  "ko": "어서 와!\n\n필요 없는 엘레멘트를\n\n물건으로 바꿔 줄게!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "67",
+  "id": "0x801DF6EC",
+  "jh": "777910609e9f",
+  "eh": "f7c5c27f90fe",
+  "ko": "어떤 물건과\n\n바꾸시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "68",
+  "id": "0x801DF6F8",
+  "jh": "63137fd3e40e",
+  "eh": "a57c75023c43",
+  "ko": "교환하시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "73",
+  "id": "0x801DF72D",
+  "jh": "46f9c80baeca",
+  "eh": "a57a08ffd13c",
+  "ko": "엘레멘트 전체 색",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "74",
+  "id": "0x801DF734",
+  "jh": "97699d6e8dc1",
+  "eh": "b7baa1d40c4e",
+  "ko": "개수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "76",
+  "id": "0x801DF73C",
+  "jh": "7d74b8462b5c",
+  "eh": "cccaa4a97e23",
+  "ko": "소지 수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "77",
+  "id": "0x801DF744",
+  "jh": "cf0f6ccd6190",
+  "eh": "1daec180566c",
+  "ko": "감사합니다!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "79",
+  "id": "0x801DF760",
+  "jh": "9c42ef3ffb20",
+  "eh": "83cffb52a5f6",
+  "ko": "Lv만큼 더 필요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "81",
+  "id": "0x801DF774",
+  "jh": "ea192c378342",
+  "eh": "45a2d805598f",
+  "ko": "Lv 상당",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "83",
+  "id": "0x801DF77D",
+  "jh": "c7149eb3b1d5",
+  "eh": "cb39daf14ff8",
+  "ko": "초록 엘레멘트 한정!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "84",
+  "id": "0x801DF77E",
+  "jh": "2cacb7d4d855",
+  "eh": "a32a71637d31",
+  "ko": "하양 엘레멘트 한정!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "85",
+  "id": "0x801DF77F",
+  "jh": "6f6ccf535db6",
+  "eh": "119e5ad3acde",
+  "ko": "검정 엘레멘트 한정!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "86",
+  "id": "0x801DF780",
+  "jh": "c6b8ba6b9d2d",
+  "eh": "3c757a652fb3",
+  "ko": "빨강 엘레멘트 한정!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "87",
+  "id": "0x801DF781",
+  "jh": "2f39ace58ca9",
+  "eh": "57e1345ac145",
+  "ko": "노랑 엘레멘트 한정!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "88",
+  "id": "0x801DF782",
+  "jh": "ce7e6d9f9339",
+  "eh": "04e84ce72bca",
+  "ko": "파랑 엘레멘트 한정!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "89",
+  "id": "0x801DF784",
+  "jh": "9cf2d261f0cf",
+  "eh": "6363ae592564",
+  "ko": "교환 레이트",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "97",
+  "id": "0x801DF7B4",
+  "jh": "c92b4cda8bdf",
+  "eh": "5397e0583f14",
+  "ko": "예",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "98",
+  "id": "0x801DF7BC",
+  "jh": "f901585367d6",
+  "eh": "816c52fd2bdd",
+  "ko": "아니요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "102",
+  "id": "0x801DF814",
+  "jh": "b0a7bdec038e",
+  "eh": "13e773d24a4f",
+  "ko": "무슨 일로 오셨어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "104",
+  "id": "0x801DF834",
+  "jh": "f0f0442ae35f",
+  "eh": "d60cdbaa7d0c",
+  "ko": "단조할까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "105",
+  "id": "0x801DF835",
+  "jh": "e05b2fca7ece",
+  "eh": "4586f129e008",
+  "ko": "무엇을\n\n단조할까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "110",
+  "id": "0x801DF845",
+  "jh": "54b2b0ed6c3c",
+  "eh": "7900d36ed8d0",
+  "ko": "무엇을\n\n분해할까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "111",
+  "id": "0x801DF846",
+  "jh": "91f4d2daee02",
+  "eh": "c2f388b7f987",
+  "ko": "어느 무기를\n\n분해할까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "112",
+  "id": "0x801DF847",
+  "jh": "cbf6abd145f1",
+  "eh": "51515d16d60a",
+  "ko": "어느 방어구를\n\n분해할까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "113",
+  "id": "0x801DF848",
+  "jh": "71b0daf92660",
+  "eh": "9b19d303c3d6",
+  "ko": "어느 액세서리를\n\n분해할까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "115",
+  "id": "0x801DF855",
+  "jh": "6fe6e66161bd",
+  "eh": "891b5b496981",
+  "ko": "무엇을 파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "116",
+  "id": "0x801DF856",
+  "jh": "f5c88b13e460",
+  "eh": "02e1091ca372",
+  "ko": "어느 무기를\n\n파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "117",
+  "id": "0x801DF857",
+  "jh": "d55caaa9d068",
+  "eh": "46ac383b64e0",
+  "ko": "어느 방어구를\n\n파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "118",
+  "id": "0x801DF858",
+  "jh": "99059d4bfa11",
+  "eh": "5feacd56bcd1",
+  "ko": "어느 액세서리를\n\n파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "119",
+  "id": "0x801DF859",
+  "jh": "297401c4a006",
+  "eh": "888e23009f02",
+  "ko": "몇 개\n\n파시겠어요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "125",
+  "id": "0x801DF892",
+  "jh": "02620146bcb4",
+  "eh": "53a3b76015a7",
+  "ko": "어느 무기를\n\n만들까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "126",
+  "id": "0x801DF893",
+  "jh": "c10fd6a88a8b",
+  "eh": "aeffb7dceb03",
+  "ko": "어느 방어구를\n\n만들까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "127",
+  "id": "0x801DF894",
+  "jh": "0bc29cb60a65",
+  "eh": "a3bc84af03a1",
+  "ko": "어느 액세서리를\n\n만들까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "128",
+  "id": "0x801DF8A0",
+  "jh": "ab0982b46abc",
+  "eh": "7824249b5847",
+  "ko": "        예",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "129",
+  "id": "0x801DF8AC",
+  "jh": "97e40d1c6587",
+  "eh": "a54e39fd70be",
+  "ko": "        아니요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "134",
+  "id": "0x801DF8FD",
+  "jh": "5760bbb8261f",
+  "eh": "8ac1a4f3ceb0",
+  "ko": "그 무기를 만들기엔\n\n재료가 모자라요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "135",
+  "id": "0x801DF8FE",
+  "jh": "cee9142b18f6",
+  "eh": "9c35b027174c",
+  "ko": "그 방어구를 만들기엔\n\n재료가 모자라요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "136",
+  "id": "0x801DF8FF",
+  "jh": "3c4ab8f328ba",
+  "eh": "df18441eaae5",
+  "ko": "그걸 만들기엔\n\n재료가 모자라요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "137",
+  "id": "0x801DF914",
+  "jh": "18f36130d173",
+  "eh": "aea8d48aadb2",
+  "ko": "돈이\n\n모자라요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "138",
+  "id": "0x801DF92D",
+  "jh": "c3e3be40b3fe",
+  "eh": "960156a0f93a",
+  "ko": "자, 하나 완성!\n\n마음에 드셨으면 좋겠네요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "139",
+  "id": "0x801DF92E",
+  "jh": "c3e3be40b3fe",
+  "eh": "298d873fbf31",
+  "ko": "분해 완료!\n\n감사합니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "141",
+  "id": "0x801DF95C",
+  "jh": "f3b31c15f6f4",
+  "eh": "3b633e29ed84",
+  "ko": "분해해도 될까요?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "144",
+  "id": "0x801DF985",
+  "jh": "038d680bdef7",
+  "eh": "a62b4a29d829",
+  "ko": "장비 중인 것은\n\n분해할 수 없어요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "145",
+  "id": "0x801DF99C",
+  "jh": "8099d6e4471e",
+  "eh": "8b80d66f258e",
+  "ko": "재료는 99개까지만\n\n가질 수 있어서 넘는 건\n\n제가 사 뒀어요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "150",
+  "id": "0x801DF9E5",
+  "jh": "8fc9e8d33ef8",
+  "eh": "6e6c66216333",
+  "ko": "장비 중인 것은\n\n살 수 없어요!",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "151",
+  "id": "0x801DFAC8",
+  "jh": "696d23daee27",
+  "eh": "409e410128c1",
+  "ko": "대장간",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "152",
+  "id": "0x801DFAD0",
+  "jh": "7d74b8462b5c",
+  "eh": "bcecf4562f17",
+  "ko": "소지 수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "153",
+  "id": "0x801DFAD8",
+  "jh": "8278f7d72734",
+  "eh": "c42b46c244a5",
+  "ko": "장비 수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "154",
+  "id": "0x801DFAE4",
+  "jh": "df56c3a62eef",
+  "eh": "d474dcf8a935",
+  "ko": "보관 수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "155",
+  "id": "0x801DFAF0",
+  "jh": "ffbc8ce43bcf",
+  "eh": "c6e89c9caf21",
+  "ko": "수수료",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "156",
+  "id": "0x801DFAF8",
+  "jh": "4578af1d2196",
+  "eh": "a9647c271e1d",
+  "ko": "필요/소지",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "158",
+  "id": "0x801DFB0C",
+  "jh": "45d8cebff494",
+  "eh": "3183c8a635a1",
+  "ko": "분해 후 재료/소지",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "160",
+  "id": "0x801DFB28",
+  "jh": "97699d6e8dc1",
+  "eh": "b7baa1d40c4e",
+  "ko": "개수",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161",
+  "id": "0x801DFB30",
+  "jh": "1b25424d7395",
+  "eh": "3e8248e32edf",
+  "ko": "가격",
+  "status": "draft",
+  "note": ""
+ }
+]

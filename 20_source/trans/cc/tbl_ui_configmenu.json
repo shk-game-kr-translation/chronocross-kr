@@ -1,0 +1,866 @@
+[
+ {
+  "k": "1",
+  "id": "0",
+  "jh": "ee7929cef18b",
+  "eh": "c47ae15370cf",
+  "ko": "도움말",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "2",
+  "id": "1",
+  "jh": "cbd4783103e0",
+  "eh": "1a2285d8881f",
+  "ko": "게임 종료",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "3",
+  "id": "2",
+  "jh": "98e30020c731",
+  "eh": "446678634a84",
+  "ko": "게임을 종료하고 런처 화면으로 돌아갑니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "4",
+  "id": "3",
+  "jh": "d1f3bbf89aa3",
+  "eh": "258c1af9cf74",
+  "ko": "게임을 종료하시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "5",
+  "id": "4",
+  "jh": "c92b4cda8bdf",
+  "eh": "5397e0583f14",
+  "ko": "예",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "6",
+  "id": "5",
+  "jh": "f901585367d6",
+  "eh": "816c52fd2bdd",
+  "ko": "아니요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "7",
+  "id": "6",
+  "jh": "3518c34d0980",
+  "eh": "acdac205f5e2",
+  "ko": "오디오",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "8",
+  "id": "7",
+  "jh": "ebdc5661d588",
+  "eh": "99295e3e2577",
+  "ko": "오디오 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "9",
+  "id": "8",
+  "jh": "d479ac65afe4",
+  "eh": "bc17c1f0179a",
+  "ko": "그래픽",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "10",
+  "id": "9",
+  "jh": "5eb5056335a1",
+  "eh": "48cb01d3693c",
+  "ko": "그래픽 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "11",
+  "id": "10",
+  "jh": "9e0b53d40bbd",
+  "eh": "ad50e3dc5798",
+  "ko": "마스터 볼륨",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "12",
+  "id": "11",
+  "jh": "6e365ad337a5",
+  "eh": "f78358a3c3e0",
+  "ko": "마스터 볼륨을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "13",
+  "id": "12",
+  "jh": "f00cc4f7f67a",
+  "eh": "3d6052382b67",
+  "ko": "BGM 볼륨",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "14",
+  "id": "13",
+  "jh": "fcf220ae3780",
+  "eh": "08ee709bec20",
+  "ko": "BGM 볼륨을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "15",
+  "id": "14",
+  "jh": "1e6c47c10f13",
+  "eh": "729429a60311",
+  "ko": "효과음 볼륨",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "16",
+  "id": "15",
+  "jh": "08684b15e7b7",
+  "eh": "198608553f5a",
+  "ko": "효과음 볼륨을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "17",
+  "id": "16",
+  "jh": "cca07e281116",
+  "eh": "516aae52959d",
+  "ko": "해상도",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "18",
+  "id": "17",
+  "jh": "bc624593e746",
+  "eh": "f11cd86293d5",
+  "ko": "표시 해상도를 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "19",
+  "id": "18",
+  "jh": "f6ffc1eb0a77",
+  "eh": "c3f3f6203976",
+  "ko": "화면 모드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "20",
+  "id": "19",
+  "jh": "2888e73a8df9",
+  "eh": "3a5df1885897",
+  "ko": "화면 모드를 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "21",
+  "id": "20",
+  "jh": "f1954f212061",
+  "eh": "48da25a986b6",
+  "ko": "창 모드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "22",
+  "id": "21",
+  "jh": "ce2fa9994d68",
+  "eh": "2f879c226a54",
+  "ko": "전체 화면",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "23",
+  "id": "22",
+  "jh": "832341e3b391",
+  "eh": "8746fab16b2f",
+  "ko": "테두리 없음",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "24",
+  "id": "23",
+  "jh": "bd4d418445de",
+  "eh": "e1a2b65df8ed",
+  "ko": "밝기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "25",
+  "id": "24",
+  "jh": "fd292ae49c62",
+  "eh": "c82a47ceb584",
+  "ko": "밝기를 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "26",
+  "id": "25",
+  "jh": "12255a8b0647",
+  "eh": "44605974562e",
+  "ko": "비등방성 필터링",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "27",
+  "id": "26",
+  "jh": "41e9bbe9e4cf",
+  "eh": "2ae16eb9dc14",
+  "ko": "텍스처 비등방성 필터링 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "28",
+  "id": "27",
+  "jh": "6fe62d0dd7db",
+  "eh": "6fe62d0dd7db",
+  "ko": "1x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "29",
+  "id": "28",
+  "jh": "8b48f47fb234",
+  "eh": "8b48f47fb234",
+  "ko": "2x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "30",
+  "id": "29",
+  "jh": "64f2c0d3c55d",
+  "eh": "64f2c0d3c55d",
+  "ko": "4x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "31",
+  "id": "30",
+  "jh": "921da7c8a1be",
+  "eh": "921da7c8a1be",
+  "ko": "8x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "32",
+  "id": "31",
+  "jh": "ab8c7843acbd",
+  "eh": "ab8c7843acbd",
+  "ko": "16x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "33",
+  "id": "32",
+  "jh": "3bec5a28d588",
+  "eh": "666c1b860b0f",
+  "ko": "안티에일리어싱",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "34",
+  "id": "33",
+  "jh": "fc1a046cb2e2",
+  "eh": "85af4dfeeeed",
+  "ko": "안티에일리어싱 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "35",
+  "id": "34",
+  "jh": "ae1db090aa85",
+  "eh": "ae1db090aa85",
+  "ko": "MSAA 2x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "36",
+  "id": "35",
+  "jh": "e4aeea7c42b5",
+  "eh": "e4aeea7c42b5",
+  "ko": "MSAA 4x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "37",
+  "id": "36",
+  "jh": "4c82a6db5ff4",
+  "eh": "4c82a6db5ff4",
+  "ko": "MSAA 8x",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "38",
+  "id": "37",
+  "jh": "ad50489054dd",
+  "eh": "e3de5ab0ca4c",
+  "ko": "끔",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "39",
+  "id": "38",
+  "jh": "7c2c03be3cbf",
+  "eh": "43082f52d320",
+  "ko": "안티에일리어싱(Post Filter)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "40",
+  "id": "39",
+  "jh": "1164839b8703",
+  "eh": "f356f2494dd1",
+  "ko": "안티에일리어싱(Post Filter) 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "41",
+  "id": "40",
+  "jh": "2fdb7190fc32",
+  "eh": "2fdb7190fc32",
+  "ko": "FXAA",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "42",
+  "id": "41",
+  "jh": "bd0e7c78cfd8",
+  "eh": "bc24e9c5956c",
+  "ko": "SMAA 낮음",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "43",
+  "id": "42",
+  "jh": "6b307eef358d",
+  "eh": "a3c6398f6cb5",
+  "ko": "SMAA 중간",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "44",
+  "id": "43",
+  "jh": "640236123090",
+  "eh": "a0611ee5ef91",
+  "ko": "SMAA 높음",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "45",
+  "id": "44",
+  "jh": "6015e70dcb66",
+  "eh": "80d764bfc7c2",
+  "ko": "SMAA 최고",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "46",
+  "id": "45",
+  "jh": "7ddbd7cde32a",
+  "eh": "6662c40bac78",
+  "ko": "키보드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "47",
+  "id": "46",
+  "jh": "ec7f091b348b",
+  "eh": "18fcd31c2b2b",
+  "ko": "키보드 키 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "48",
+  "id": "47",
+  "jh": "1d24bf061000",
+  "eh": "a36a5ffa6e0d",
+  "ko": "컨트롤러",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "49",
+  "id": "48",
+  "jh": "44b466361064",
+  "eh": "8d958d2260cd",
+  "ko": "컨트롤러 키 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "50",
+  "id": "49",
+  "jh": "ec9970386ac4",
+  "eh": "31cf2f55acf8",
+  "ko": "설정할 기능을 고른 뒤 할당할 키를 입력하세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "51",
+  "id": "50",
+  "jh": "27ad3e4b56cf",
+  "eh": "cd032c3bb360",
+  "ko": "키 설정 1",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "52",
+  "id": "51",
+  "jh": "66d2658204c9",
+  "eh": "8699545fc7cd",
+  "ko": "키 설정 2",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "53",
+  "id": "52",
+  "jh": "819d0cc5dada",
+  "eh": "248281b16eed",
+  "ko": "할당할 키를 입력하세요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "54",
+  "id": "53",
+  "jh": "be0d1f6a80e7",
+  "eh": "890408313976",
+  "ko": "이동 위",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "55",
+  "id": "54",
+  "jh": "abf3705a3591",
+  "eh": "4b95e71d75d8",
+  "ko": "이동 아래",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "56",
+  "id": "55",
+  "jh": "7fbade6658f4",
+  "eh": "0e0c0e8afc4c",
+  "ko": "이동 왼쪽",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "57",
+  "id": "56",
+  "jh": "68da805d81d4",
+  "eh": "9dea56dd4943",
+  "ko": "이동 오른쪽",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "58",
+  "id": "57",
+  "jh": "1eb17449c05a",
+  "eh": "bda354f6643f",
+  "ko": "대화/결정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "59",
+  "id": "58",
+  "jh": "5f91e58477d3",
+  "eh": "9756919c0c53",
+  "ko": "달리기/취소",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "60",
+  "id": "59",
+  "jh": "5d42a001a5cd",
+  "eh": "b4b6d5976067",
+  "ko": "중요 아이템 창 열기/닫기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "61",
+  "id": "60",
+  "jh": "3c0ca456e9e1",
+  "eh": "2ed6d6843f75",
+  "ko": "메뉴/시점 변경",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "62",
+  "id": "61",
+  "jh": "269b0f92e460",
+  "eh": "77dfd2135f4d",
+  "ko": "취소",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "63",
+  "id": "62",
+  "jh": "21ec6fff33bc",
+  "eh": "1914de088cf4",
+  "ko": "조작 캐릭터 변경(오른쪽)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "64",
+  "id": "63",
+  "jh": "d82bb62a7ca2",
+  "eh": "1921c78cdb3b",
+  "ko": "조작 캐릭터 변경(왼쪽)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "65",
+  "id": "64",
+  "jh": "3b9a0deaeb86",
+  "eh": "7f4fc3f22730",
+  "ko": "기본 설정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "66",
+  "id": "65",
+  "jh": "f5c53d042f3a",
+  "eh": "9b5b2f07e1fd",
+  "ko": "기본 설정으로 되돌리시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "67",
+  "id": "66",
+  "jh": "b0a98216a324",
+  "eh": "9ce3bd4224c8",
+  "ko": "OK",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "68",
+  "id": "67",
+  "jh": "20ad8896dd5c",
+  "eh": "8a985dad015a",
+  "ko": "게임으로 돌아가기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "69",
+  "id": "68",
+  "jh": "0a687375640b",
+  "eh": "4094ecbe8dc3",
+  "ko": "키보드 키 바인드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "70",
+  "id": "69",
+  "jh": "44515585022b",
+  "eh": "50ffe7225515",
+  "ko": "화면 타입",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "71",
+  "id": "70",
+  "jh": "5397d3f3ae32",
+  "eh": "b6bc170db625",
+  "ko": "화면 타입을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "72",
+  "id": "71",
+  "jh": "5fba7e2b0805",
+  "eh": "2291012298b4",
+  "ko": "슬로 재생",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "73",
+  "id": "72",
+  "jh": "8f4e5ca7353c",
+  "eh": "bbff746d4e5e",
+  "ko": "빨리 감기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "74",
+  "id": "73",
+  "jh": "4227307ca9de",
+  "eh": "45e118d0563e",
+  "ko": "노멀",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "75",
+  "id": "74",
+  "jh": "698e9aca2b16",
+  "eh": "10b28a8c1e44",
+  "ko": "풀",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "76",
+  "id": "75",
+  "jh": "c13f3133af4b",
+  "eh": "2e4e6d30267f",
+  "ko": "줌",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "77",
+  "id": "76",
+  "jh": "9b01cacf2d12",
+  "eh": "20bda2bc9955",
+  "ko": "줌 비율",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "78",
+  "id": "77",
+  "jh": "0bfb96fc85d1",
+  "eh": "2616f7a70580",
+  "ko": "줌 비율을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "79",
+  "id": "78",
+  "jh": "125337ad201d",
+  "eh": "64fbd995d3b6",
+  "ko": "변경",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "80",
+  "id": "79",
+  "jh": "a678e4dc5870",
+  "eh": "0ec02117acab",
+  "ko": "키 설정 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "81",
+  "id": "80",
+  "jh": "133e9c18cab0",
+  "eh": "e998f191409d",
+  "ko": "변경 사항을 적용하시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "82",
+  "id": "81",
+  "jh": "df02af731084",
+  "eh": "82d86373acfd",
+  "ko": "ESC 메뉴",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "83",
+  "id": "82",
+  "jh": "803f8e747888",
+  "eh": "e09e906916f9",
+  "ko": "키 바인드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "84",
+  "id": "83",
+  "jh": "fbfa7b1ab257",
+  "eh": "bf127c6b0cfd",
+  "ko": "키보드와 컨트롤러의 키 설정을 변경합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "85",
+  "id": "84",
+  "jh": "4f8be539a003",
+  "eh": "92e2ee11590f",
+  "ko": "선택지·커서 이동 위",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "86",
+  "id": "85",
+  "jh": "77781632f9f1",
+  "eh": "42da8948c9e7",
+  "ko": "선택지·커서 이동 아래",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "87",
+  "id": "86",
+  "jh": "2b3e8d44f0ca",
+  "eh": "abfcd201d15e",
+  "ko": "커서 이동 왼쪽",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "88",
+  "id": "87",
+  "jh": "31d313d5adf2",
+  "eh": "193d3ed16912",
+  "ko": "커서 이동 오른쪽",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "89",
+  "id": "88",
+  "jh": "0f8e5b4de960",
+  "eh": "04a212215ef9",
+  "ko": "결정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "90",
+  "id": "89",
+  "jh": "269b0f92e460",
+  "eh": "77dfd2135f4d",
+  "ko": "취소",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "91",
+  "id": "90",
+  "jh": "d64ec523cece",
+  "eh": "fa1d69c78d18",
+  "ko": "오토 텍스트",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "92",
+  "id": "91",
+  "jh": "d76ad798bc54",
+  "eh": "57f5f5efbc59",
+  "ko": "메뉴 표시",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "93",
+  "id": "92",
+  "jh": "17fa228c121a",
+  "eh": "6243b007a4dc",
+  "ko": "메뉴 내 사운드 설정 변경(왼쪽)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "94",
+  "id": "93",
+  "jh": "3a8e61f83e61",
+  "eh": "be85960c4ff7",
+  "ko": "메뉴 내 사운드 설정 변경(오른쪽)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "95",
+  "id": "94",
+  "jh": "78fbf9134863",
+  "eh": "8eadc3c52c53",
+  "ko": "컨트롤러 1",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "96",
+  "id": "95",
+  "jh": "e631c8d33bed",
+  "eh": "04ee8df9c880",
+  "ko": "컨트롤러 2",
+  "status": "draft",
+  "note": ""
+ }
+]

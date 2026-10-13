@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "214:86",
+  "jh": "d5ba21b10903",
+  "eh": "a5074596c7f8",
+  "ko": "{KORCHA%}:\\n선생님 말 들었잖아.\\n할 수 있는 건 다 했어.{wait(15)}\\n이제 믿고 기다리자.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:87",
+  "jh": "09dcf8eb7789",
+  "eh": "647df7b40a0f",
+  "ko": "{KID%}:\\n어쩔래, {SERGE%}?{wait(15)}\\n　　　원래 세계로 돌아간다\\n　　　아직 안 돌아간다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:88",
+  "jh": "99160b212054",
+  "eh": "9f5c5da87b42",
+  "ko": "{PARTY1%}:\\n{SERGE%},{wait(20)}\\n정말 그걸로\\n괜찮은 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:89",
+  "jh": "1b2713060966",
+  "eh": "1751816ff743",
+  "ko": "{KID%}:\\n{speed(48)}그렇구나……{speed(128)}{wait(30)}\\n그럼 좀 더 같이\\n다녀 줄게.{bpage}\\n대신 발목 잡지는\\n마라, 알았지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:90",
+  "jh": "9dede859c1b6",
+  "eh": "a23bcd5dacf0",
+  "ko": "{KID%}:\\n10년 전에 무슨 일이\\n있었는지는 모르지만……{bpage}\\n{VIPER%} 패거리가\\n얽혀 있는 것 같아.{bpage}\\n놈들을 쫓아가자.{wait(15)}\\n나도 야마네코 놈을 박살 내고\\n얼어붙은 불꽃을\\n손에 넣어야 하니까!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:91",
+  "jh": "de827dd08323",
+  "eh": "2208531f0ac2",
+  "ko": "{KID%}:\\n{speed(64)}야마네코는……{bpage}\\n{speed(72)}그 녀석은 내 소중한 걸\\n빼앗아 갔어……{wait(15)}\\n내 미래를 빼앗았다고……!{bpage}\\n{speed(160)}반드시 찾아낼 거야!{wait(15)}\\n무슨 수를 써서라도!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:92",
+  "jh": "6c7b82bfbacb",
+  "eh": "f5ccbb0c84a8",
+  "ko": "{KID%}:\\n{KORCHA%},\\n너도 찾는 걸\\n도와줬다며.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:93",
+  "jh": "f922e6274ced",
+  "eh": "8f1e8a3a5152",
+  "ko": "{KORCHA%}:\\n흥.{wait(15)}\\n별것도 아니야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:94",
+  "jh": "a3586b8b4fc5",
+  "eh": "f19356817ab7",
+  "ko": "{KID%}:\\n그래?{wait(5)}\\n그래도 고마워.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:95",
+  "jh": "21793add32f0",
+  "eh": "d5fbc7064fdc",
+  "ko": "{speed(48)}……자, 그럼.{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:96",
+  "jh": "a809c3472709",
+  "eh": "bd10d9a8b383",
+  "ko": "{KORCHA%}:\\n한때는 끝장인 줄\\n알았는데, 이제\\n일단락된 것 같네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:97",
+  "jh": "696ef6cf4a83",
+  "eh": "d1826b2b05d3",
+  "ko": "{KORCHA%}:\\n남은 건 너희를 테르미나에\\n데려다주는 거지?{wait(15)}\\n그걸로 내 일은 끝이야.{bpage}\\n이번엔 특별히 왕복\\n300G로 깎아 줄게.\\n미안하지만 나도\\n먹고살아야 하거든.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:98",
+  "jh": "c123476e4884",
+  "eh": "e47fdf6b21c6",
+  "ko": "{KID%}:\\n하하, 참\\n약삭빠르네.{bpage}\\n아까 고맙다고\\n하지 말걸.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:99",
+  "jh": "14bf45a4f313",
+  "eh": "237c3c2d8e75",
+  "ko": "음?{wend(45)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:100",
+  "jh": "740091ad25ca",
+  "eh": "0cb82f291e6d",
+  "ko": "{KORCHA%}:\\n왜 그래?\\n뭐 찾아?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:101",
+  "jh": "57d53d206172",
+  "eh": "7fbba596de9c",
+  "ko": "{KID%}:\\n{speed(72)}……응,{wait(5)} 그래.\\n{speed(96)}내 그리드에 있던\\n엘레멘트가 없어졌어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:102",
+  "jh": "cea47fe821f7",
+  "eh": "78718a376c21",
+  "ko": "{KID%}:\\n어이, {SERGE%}.{wait(15)}\\n네가 내 그리드에서\\n엘레멘트 뺐어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:103",
+  "jh": "0018ae86d796",
+  "eh": "617e76e44168",
+  "ko": "{KID%}:\\n흠, 네가 아니면……{wait(20)}\\n{speed(80)}대체 누구지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:104",
+  "jh": "b0b2f581968f",
+  "eh": "98d59f8599a4",
+  "ko": "{KORCHA%}:\\n우리가 없는 동안 널\\n돌본 건 선생님이랑\\n간호사뿐이야.{bpage}\\n옆방에 있을 테니\\n나갈 때 물어보자.{wait(15)}\\n선생님이라면 뭔가 알겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:105",
+  "jh": "af326b9e9ed6",
+  "eh": "a1d5be665c36",
+  "ko": "{KID%}:\\n{speed(64)}……{wait(20)}\\n{speed(96)}그러면 좋겠는데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:106",
+  "jh": "1c44d4b26033",
+  "eh": "86cd6a0219c1",
+  "ko": "{POSHUL%}:\\n생각해 보슈, {SERGE%}!{bpage}\\n왜 굳이 세계를 넘어서까지\\n{KID%}를 구하러 갔슈?{bpage}\\n그냥 자기 세계로 돌아가고\\n싶어서만은 아니었잖슈?{bpage}\\n이 세계로 돌아올\\n다른 이유가 있었던 거슈!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:107",
+  "jh": "152e88781c2b",
+  "eh": "d99accf6c60f",
+  "ko": "{PARTY2%}:\\n생각해 봐, {SERGE%}!{bpage}\\n왜 굳이 세계를 넘어서까지\\n{KID%}를 구하러 갔어?{bpage}\\n그냥 자기 세계로 돌아가고\\n싶어서만은 아니었잖아?{bpage}\\n이 세계로 돌아올\\n다른 이유가 있었던 거야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:108",
+  "jh": "a1897dd0dbd1",
+  "eh": "d99accf6c60f",
+  "ko": "{PARTY2%}:\\n생각해 봐, {SERGE%}!{bpage}\\n왜 굳이 세계를 넘어서까지\\n{KID%}를 구하러 갔어?{bpage}\\n그냥 자기 세계로 돌아가고\\n싶어서만은 아니었잖아?{bpage}\\n이 세계로 돌아올\\n다른 이유가 있었던 거야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "214:109",
+  "jh": "8b789cf7cbce",
+  "eh": "d99accf6c60f",
+  "ko": "{PARTY2%}:\\n생각해 봐, {SERGE%}!{bpage}\\n왜 굳이 세계를 넘어서까지\\n{KID%}를 구하러 갔어?{bpage}\\n그냥 자기 세계로 돌아가고\\n싶어서만은 아니었잖아?{bpage}\\n이 세계로 돌아올\\n다른 이유가 있었던 거야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:0",
+  "jh": "1a1c7849e93d",
+  "eh": "101d99f2304b",
+  "ko": "도시에 비하면 물건이\\n적지만, 흥미로운 희귀\\n엘레멘트도 있어요.{wait(15)}\\n　　　좀 볼게요\\n　　　다음에 할게요{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:1",
+  "jh": "e0940ae8e947",
+  "eh": "8a16bd8fbb51",
+  "ko": "정말 감사합니다.{wait(15)}\\n{speed(96)}여러분의 항해에\\n용의 가호가 있기를.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:2",
+  "jh": "e3eb2b45fd52",
+  "eh": "6cb44850f265",
+  "ko": "{speed(96)}그래요, 아쉽네요.{wait(15)}\\n좋은 항해 되세요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:3",
+  "jh": "138e01b0f09d",
+  "eh": "9b7ede4da5e0",
+  "ko": "천룡의 섬에는 옛날에\\n용신이 살았다더라.{bpage}\\n원래 용의 이름이 붙은\\n섬들에는 다 용신이\\n있었다나 봐.{bpage}\\n우리 탐사대가 조사하는\\n북쪽 “토룡의 섬”도 그중 하나야.{wait(20)}\\n근데 모래랑 바위밖에 없더라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:4",
+  "jh": "db7ed6c61920",
+  "eh": "9775a4256f75",
+  "ko": "그 근처는 별이 떨어졌다는\\n이야기로 유명한\\n곳이야.{bpage}\\n바다 밑에 공기층이 있는 것도\\n떨어진 별의 영향이라는\\n소문이 있을 정도야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:5",
+  "jh": "b04dc541bd0f",
+  "eh": "1e9df1d5df18",
+  "ko": "엘니도엔 정말 신기한 게\\n여기저기 널려 있다니까.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:6",
+  "jh": "dad71875207b",
+  "eh": "def4d077d99e",
+  "ko": "보아하니 여행자들이군?\\n너희 “별의 조각”\\n들어 봤어?{wait(15)}\\n　　　별의 조각?\\n　　　들어 봤어{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:7",
+  "jh": "b3774a4a123d",
+  "eh": "f06a0fc4b0a6",
+  "ko": "세쌍둥이 섬 근처 바다……{wait(15)}\\n여기선 “엘니도 트라이앵글”이라고\\n부르는데.{bpage}\\n그 근처에서 예쁜\\n별 모양 돌이 나와.\\n그래서 별의 조각이라고\\n부르지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:8",
+  "jh": "0a261a8a10bf",
+  "eh": "54169b3ef96e",
+  "ko": "예쁘기만 하지\\n별 가치는 없어.{wait(15)}\\n그래도 난 지닌 사람에게\\n행운을 주는 돌이라고 믿어.{bpage}\\n그래서 이렇게 늘\\n지니고 다니지.{wait(30)}\\n{speed(96)}얘기가 바뀌는데, 그\\n엘니도 트라이앵글은 신기한 곳이야.{bpage}\\n조금만 잠수하면\\n바닷속인데 공기층이 있어서\\n땅 위처럼 걸을 수 있어.\\n깜짝 놀랄걸!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:9",
+  "jh": "070bbb89853f",
+  "eh": "c54b3adff0a3",
+  "ko": "그럼 천룡의 섬의\\n괴물 얘기는 들어 봤어?{wait(15)}\\n　　　괴물?\\n　　　물론 들었지{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:10",
+  "jh": "50b9d914a8bf",
+  "eh": "b028920d1337",
+  "ko": "우리 동료 하나가\\n천룡의 섬을 조사했어.{wait(15)}\\n그 녀석도 나처럼\\n별의 조각을 지니고 있었지.{bpage}\\n유적을 조사하다가\\n“엄청나게 큰” 괴물한테 습격당해\\n별의 조각을\\n빼앗겼대.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:11",
+  "jh": "f5fbd60c2e25",
+  "eh": "def6d307d2d9",
+  "ko": "이상하게도 그 녀석 자신은\\n다치지 않았대.{wait(20)}\\n정말이지,{wait(5)} 내가 거기 있었으면\\n나도 당했을 거야!{bpage}\\n나 운 좋지?{wait(15)}\\n다 이 별의 조각 덕분이야.{wait(30)}\\n{speed(72)}어……?{wait(5)} 잠깐만……{wait(5)}그럼\\n그 녀석은 왜 습격당한 거지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "215:12",
+  "jh": "513c6328ea6a",
+  "eh": "3b60c17308dc",
+  "ko": "{speed(48)}……{wait(30)}\\n{speed(72)}너희 사실은 변장한\\n모험가지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:0",
+  "jh": "c5f9dc7bec99",
+  "eh": "9ae6be4b9f77",
+  "ko": "전보다 엘레멘트 구성을\\n조금 바꿨어요.\\n꼭 둘러보세요.{wait(15)}\\n　　　둘러볼게요\\n　　　다음에 할게요{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:1",
+  "jh": "7241b002f59c",
+  "eh": "8a601f352113",
+  "ko": "작은 마을이지만\\n큰 도시에서 못 구하는\\n희귀 엘레멘트도 있어요.\\n　　　좀 볼게요\\n　　　다음에 할게요{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:2",
+  "jh": "6227679dc3d7",
+  "eh": "3bce5191663c",
+  "ko": "정말 감사합니다.{wait(15)}\\n{speed(96)}바다를 다니실 땐\\n조심하세요.\\n좋은 항해 되세요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:3",
+  "jh": "dfbce24f9a8f",
+  "eh": "724dfe9720f8",
+  "ko": "마을에 오시면\\n또 들러 주세요.{wait(15)}\\n{speed(96)}……좋은 항해 되세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:4",
+  "jh": "0080811d3176",
+  "eh": "4b21dc1e55d5",
+  "ko": "바다 사나이라면\\n땅 위든 배 위든\\n늘 긴장하고 있어야지!{bpage}\\n난 엘레멘트 배치에 늘\\n신경 쓰고 있어!{wait(15)} 지형이랑\\n속성 조건까지 생각해야 하니\\n꽤 복잡하다고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:5",
+  "jh": "3f2cf90309d9",
+  "eh": "c54b9d952da1",
+  "ko": "엘니도 바다 저 남동쪽에\\n우리 아인의 고향 “마블”이라는\\n마을이 있어…… 하지만 거기\\n동료들, 인간을 싫어해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "216:6",
+  "jh": "190d93ca74af",
+  "eh": "8e5952640fef",
+  "ko": "옛날 옛적, 인간과 아인이\\n대륙에서 사이좋게\\n살았다고 들었어.{wait(15)}\\n그 시절로 돌아가고 싶어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:0",
+  "jh": "23bfb303a19d",
+  "eh": "8aebe5f3cef0",
+  "ko": "{ORCHA%}:\\n{speed(96)}내면의 어둠이라……\\n내 상상을 넘는구먼.{wait(20)}\\n흐음……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:1",
+  "jh": "e9f790520043",
+  "eh": "6e9f300cf5d5",
+  "ko": "{ORCHA%}:\\n{speed(93)}응?{wait(5)} 으응??{wait(15)}\\n이게 어찌 된 거랑가?{wait(30)}\\n내가 또 하나……{bpage}\\n지, 진짜랑가?{wait(15)}\\n아니면 대낮부터\\n악몽을 꾸는 거랑가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:2",
+  "jh": "bec9f50002a2",
+  "eh": "0f623244ae96",
+  "ko": "{ORCHA%}:\\n나는 너고, 너도 나랑께.{wait(15)}\\n깊이 생각할 거 없어.\\n이것도 하나의 현실이랑께.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:3",
+  "jh": "ac575d995578",
+  "eh": "4a939be84f3f",
+  "ko": "{ORCHA%}:\\n{speed(96)}세상엔 참 신기한 일도\\n다 있구먼……{bpage}\\n또 하나의 나랑\\n이렇게 얼굴을\\n마주하다니……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:4",
+  "jh": "1bfbacf40458",
+  "eh": "01199d65687d",
+  "ko": "{ORCHA%}:\\n{speed(96)}……기분 탓인지 몰라도{wait(15)}\\n네 뒤에 그림자 같은 게\\n겹쳐 보인당께.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:5",
+  "jh": "6b9ca1f32b07",
+  "eh": "5a94d523b1ff",
+  "ko": "{ORCHA%}:\\n{speed(80)}그림자라……\\n흠, 내 안의 어둠이라고\\n해 두지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:6",
+  "jh": "fcaf0c030147",
+  "eh": "985e0d51feae",
+  "ko": "{ORCHA%}:\\n{speed(72)}그럼 나한테도\\n있다는 거랑가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:7",
+  "jh": "425b4c7d395f",
+  "eh": "573869a7e9a2",
+  "ko": "{ORCHA%}:\\n어이, 작은 가게지만\\n느긋하게 쉬기엔\\n괜찮은 곳이지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:8",
+  "jh": "d2740be43f90",
+  "eh": "04488bba2088",
+  "ko": "여기서 동쪽으로 한참 가면\\n일 년 내내 두꺼운 구름에 덮인\\n“사해”라는 해역이\\n있는데……{bpage}\\n이상하게도 들어가는\\n입구가 어디에도 없어.\\n독 산호가 빙\\n둘러싸고 있거든.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:9",
+  "jh": "0f56cf690848",
+  "eh": "d5ac8305523d",
+  "ko": "엘니도에서 설치는\\n파레포리군도 몇 번 시도하다\\n결국 포기했대.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:10",
+  "jh": "1189f2fa5b69",
+  "eh": "eb31db9b5921",
+  "ko": "있잖아, 들어 봤어?{wait(20)}\\n이 마을 어딘가에 멸망한\\n용족이 남긴 “용의 눈물”이\\n모셔져 있대.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "217:11",
+  "jh": "cc384c68e799",
+  "eh": "d45feb53609b",
+  "ko": "정말 용족 유물이라면\\n엄청 오래된 보물이야!{wait(15)}\\n요즘 소문난 얼어붙은 불꽃만큼\\n값질지도 몰라!{bpage}\\n좀 과장인가.\\n아무튼 그 용의 눈물,\\n한 번은 꼭 보고 싶어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:0",
+  "jh": "66648e4b4605",
+  "eh": "9e7ce343e16a",
+  "ko": "{ORLHA%}:\\n{speed(72)}이 푸른 보석……{wait(30)} 원래 모습을\\n되찾은 것 같네.{wait(15)}\\n이제 내가 약속을 지킬 차례야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:1",
+  "jh": "47790c3de923",
+  "eh": "8c46e5df18b4",
+  "ko": "{ORLHA%}:\\n{speed(80)}이 푸른 보석은 너와 나의\\n약속의 증표야.{wait(30)}\\n잊지 마, {SERGE%}.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:2",
+  "jh": "60d1249be308",
+  "eh": "d61996426304",
+  "ko": "{ORLHA%}:\\n여행은 어때,\\n{SERGE%}?{wait(15)}\\n도움이 필요하면 언제든 불러!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:3",
+  "jh": "16705dcbf0f7",
+  "eh": "399a73975282",
+  "ko": "{ORLHA%}:\\n{speed(96)}언젠가 반드시\\n동생 티아를 찾아낼 거야……{wait(15)}\\n어디서든, 어떻게든……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:4",
+  "jh": "bd0d337ff795",
+  "eh": "0ab70dcc7f90",
+  "ko": "{ORLHA%}:\\n{speed(96)}응?{wait(5)} {MEL%}?{wait(30)}\\n오늘은 여기\\n안 왔는데……{bpage}\\n또 뭔가 저질렀어?{wait(20)}\\n이번엔 뭘 했는데?{wait(15)}\\n또 벽에\\n낙서했어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:5",
+  "jh": "5d28dcd65d91",
+  "eh": "4d3dd6932cdb",
+  "ko": "{KORCHA%}:\\n뭐, 별일 아니야.\\n여기 없으면 됐어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:6",
+  "jh": "6cf05d6853aa",
+  "eh": "2cd49fdd5f19",
+  "ko": "{ORLHA%}:\\n어서 와.{wait(15)}\\n작은 가게지만\\n편히 둘러봐.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:7",
+  "jh": "179197081c41",
+  "eh": "e9449d12edc7",
+  "ko": "{ORLHA%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:8",
+  "jh": "531b16082d8b",
+  "eh": "1596b5a78cdd",
+  "ko": "옛날엔 좋았는데……{wait(15)}\\n히드라가 없어진\\n그 숲은 이제 끝이여……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:9",
+  "jh": "a8680b10dda6",
+  "eh": "b3027406b08d",
+  "ko": "어이쿠, 늪의 식물은\\n이 방울 소리에 반응한당께.{wait(20)}\\n나한텐 이제 필요 없응께,\\n자,{wait(5)} 특별히 꼬마한테 줄게!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:10",
+  "jh": "205618ad4799",
+  "eh": "92ed2072007c",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 받았다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:11",
+  "jh": "6be6a836ce34",
+  "eh": "fc48bc442389",
+  "ko": "그리운 바람 냄새여……\\n어이 꼬마, 본섬 사람이지?{wait(15)}\\n히드라 늪 알어?\\n남동쪽에 있는 큰 숲이여.{bpage}\\n히드라 늪이라고 부르지만\\n이제 히드라는\\n한 마리도 없어.{bpage}\\n히드라가 사라진 뒤로\\n다들 그 숲을 떠났지.\\n나도 그중 하나고……{bpage}\\n그곳은 이제 생물이\\n살 땅이 아니여.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:12",
+  "jh": "1a62dcabad1c",
+  "eh": "27d30c6c911f",
+  "ko": "요즘은 통 비가\\n안 와.{wait(15)}\\n행상들 말로는 수룡의 섬\\n물도 말라 버렸다더라……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:13",
+  "jh": "44e1c557cf79",
+  "eh": "a7c72f1888d7",
+  "ko": "본섬 소식은 이런 변방까진\\n잘 안 들려와.{wait(15)}\\n철로 보면 엘니도 축제가\\n열릴 때쯤인가?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:14",
+  "jh": "a2613f1a27ce",
+  "eh": "0f82842c6c37",
+  "ko": "잠까안, {ORLHA%}.\\n나 혼자 이 가게를\\n보라는 거야?{bpage}\\n뭐, 투덜대 봤자 소용없지!\\n잘 다녀와. 대신\\n가끔은 돌아와야 해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:15",
+  "jh": "2efda58d80cf",
+  "eh": "a8003040575b",
+  "ko": "{ORLHA%}:\\n미안, 미안!{wait(20)}\\n대신 월급\\n올려 줄게.{bpage}\\n정말 잠깐만이니까,\\n응, 부탁이야?{wait(15)}\\n이렇게 빌게!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:16",
+  "jh": "0273450a1d60",
+  "eh": "4f6bccbe0aec",
+  "ko": "음,{wait(5)} 할 수 없지.{wait(15)}\\n그걸로 합의 볼게!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:17",
+  "jh": "90462a1ce1a4",
+  "eh": "e3e39c34ff4d",
+  "ko": "아이참, 카운터 안으로\\n들어오지 말라고\\n몇 번을 말……{bpage}\\n어머, 처음 보는 얼굴이네.{wait(15)}\\n그래도 손님은 손님이지,\\n자, 나가 나가.\\n방해되잖아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:18",
+  "jh": "eab67f4535ff",
+  "eh": "e7961136f11f",
+  "ko": "식물한테 다가가서\\n이렇게 울리면{speed(12)}……{wait(15)}{fset(2)}{wait(45)}\\n{speed(128)}돼.{wait(15)} 그럼 직접 안 건드려도\\n식물이 휘어서 길이 열린당께.{bwait}{fset(3)}{fwait(1)}{wend(1)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:19",
+  "jh": "08eb2c164004",
+  "eh": "417414448aeb",
+  "ko": "{DOC%}:\\n{speed(72)}또 하나의 생명이\\n내 손에서 빠져나가려 해……{wait(15)}\\n예전처럼.{bpage}\\n의학을 공부해도\\n아무것도 달라지지 않았어……\\n난 정말 무력하군……!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:20",
+  "jh": "1b365d2d4cec",
+  "eh": "f756b8ebbefe",
+  "ko": "{ORLHA%}:\\n{speed(80)}……그래서 이 생명을\\n그냥 포기하겠다는 거야?{bpage}\\n{speed(96)}그게 아니잖아?{wait(20)}\\n당신이 안 하면\\n누가 그 애를 생사의 경계에서\\n구해 낼 수 있겠어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:21",
+  "jh": "169d019d761d",
+  "eh": "baa687053794",
+  "ko": "{speed(64)}……{wait(1)}……{wait(1)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:22",
+  "jh": "373934a59325",
+  "eh": "0861e98a58cc",
+  "ko": "{ORLHA%}:\\n{speed(96)}당신 과거는 몰라.{wait(15)}\\n하지만 과거에 얽매여\\n사는 건 괴로운 일이야.{bpage}\\n현실을 똑바로\\n마주해야 해.{wait(20)}\\n도망치는 건 죄가 아니지만\\n아무것도 이루지 못해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:23",
+  "jh": "b4be479379f7",
+  "eh": "6f3bcc3f5c47",
+  "ko": "{DOC%}:\\n{speed(72)}하지만 나는……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:24",
+  "jh": "74e54ee67ef8",
+  "eh": "0dec3feb0223",
+  "ko": "{ORLHA%}:\\n{speed(80)}과거와 다른 게 하나 있어.{wait(10)}\\n지금 당신에겐…… 고치는\\n힘이 있다는 거야.{bpage}\\n그건 마을 사람 모두가\\n인정하고 있어.{wait(20)}\\n혼자 괴로워하지 마……{bpage}\\n지금 포기하면 영영 과거에서\\n벗어날 수 없을 거야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:25",
+  "jh": "6d06d8464d28",
+  "eh": "b43b19a72310",
+  "ko": "{ORLHA%}:\\n{speed(80)}자, 가……{wait(30)}\\n아무것도 해 보지 않고\\n끝내면 안 돼.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:26",
+  "jh": "043408eee236",
+  "eh": "0babeaa06d2f",
+  "ko": "{DOC%}:\\n{speed(96)}그들에게 실례를 했군……{wait(15)}\\n의사로서 실격이지만\\n할 수 있는 건 해야겠지.{bpage}\\n고마워, {ORLHA%}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:27",
+  "jh": "0d12549582c4",
+  "eh": "8c4cd47b937f",
+  "ko": "{ORLHA%}:\\n{speed(96)}나에겐 쌍둥이 동생이 있어.{wait(30)}\\n이름은 티아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:28",
+  "jh": "f73cb36119b2",
+  "eh": "3719c15cbd04",
+  "ko": "{ORLHA%}:\\n전설에 따르면{wait(20)}\\n쌍둥이는 재앙의 징조래……{bpage}\\n어릴 때 엄마와 동생은\\n엘니도를 떠났고,\\n난 남겨졌어.{wait(20)}\\n남은 건 아빠뿐이었지.{bpage}\\n내 몸의 반쪽을\\n잃은 것 같았어.{wait(30)}\\n가슴에 커다란\\n구멍이 뚫린 것처럼……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:29",
+  "jh": "9dc9abaaf03f",
+  "eh": "ad5b486b42f7",
+  "ko": "{ORLHA%}:\\n{speed(80)}{color(GRAY)}후훗……{color(0)}{wait(5)} 이런 얘기,\\n남한테 한 적 없는데……{wait(5)}\\n이상하네.{bpage}\\n가끔 정말로 느껴져.\\n세계는 무수히 있고……{wait(15)}\\n지금의 내가 전부가 아니라고……{wait(30)}\\n이상하게 들리지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:30",
+  "jh": "aa70d5048435",
+  "eh": "fe3672255e75",
+  "ko": "{ORLHA%}:\\n{speed(80)}하지만 그건 그냥\\n현실에서 도망치는 걸지도 몰라……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:31",
+  "jh": "e8602e00bb79",
+  "eh": "a6e6f81c2ac0",
+  "ko": "{ORLHA%}:\\n{speed(96)}약해질 때마다 늘\\n날 지탱해 준 게\\n이 사파이어 브로치야……{bpage}\\n우리 집안에 대대로\\n전해져 온\\n증표지.{bpage}\\n지금은 둘로 깨져서\\n반은 나에게, 나머지 반은\\n동생 티아에게……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:32",
+  "jh": "f73f24b62756",
+  "eh": "c22a3faa8bce",
+  "ko": "{ORLHA%}:\\n아직은 돌려주지\\n않아도 돼.{bpage}\\n이 푸른 보석은 이 세상에\\n단 하나뿐이야.{bpage}\\n그러니 네가 “진짜”\\n{SERGE%}라는 증거이기도 해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "218:33",
+  "jh": "056addc275e3",
+  "eh": "9f1d6a765492",
+  "ko": "{ORLHA%}:\\n그러니까 진짜 모습을\\n되찾을 때까지\\n갖고 있어 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:0",
+  "jh": "2d2c630e0bf5",
+  "eh": "0a32b6a5756e",
+  "ko": "{MACHA%}:\\n이 나이쯤 되면\\n웬만한 건 다 봤지.{bpage}\\n그래도 또 하나의 나라니\\n깜짝 놀랐네.{wait(15)}\\n이건 생각도 못 했어!\\n아하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:1",
+  "jh": "aa3096457a34",
+  "eh": "0cd7f69ff836",
+  "ko": "{MACHA%}:\\n너희도 할 일이 많겠지만\\n힘내서 버티렴!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:2",
+  "jh": "6ebbd7be7610",
+  "eh": "7e8d79d23c00",
+  "ko": "{MACHA%}:\\n어머머, 이게 뭐니!?{wait(15)}\\n내가 또 하나 있잖아!\\n어떻게 된 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:3",
+  "jh": "81ff22ba9707",
+  "eh": "e763f872e550",
+  "ko": "{MACHA%}:\\n저쪽 나도 꽤 놀랍지만{wait(10)}\\n{speed(80)}나도 만만치 않지……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:4",
+  "jh": "ece9f4906adf",
+  "eh": "4c2a9972f47e",
+  "ko": "{MACHA%}:\\n어머, 그만해.{wait(15)}\\n자기한테 칭찬받으니\\n기분이 이상하네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:5",
+  "jh": "facaf8052605",
+  "eh": "eb79e6c99ebf",
+  "ko": "{MACHA%}:\\n아하하! 맞는 말이야.{wait(15)}\\n말해 놓고 나니\\n부끄럽네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:6",
+  "jh": "033606c06463",
+  "eh": "adee26d8d86b",
+  "ko": "{MACHA%}:\\n어머, 누구니?\\n{KORCHA%} 친구니?{bpage}\\n이상하네, 처음 보는\\n얼굴인데. 놀러 오는 애들\\n얼굴은 대충 다\\n기억하는데……{bpage}\\n뭐, 그런 걸 따져\\n봤자지.\\n아하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:7",
+  "jh": "1b9aed7395b5",
+  "eh": "b7b45482236f",
+  "ko": "{MACHA%}:\\n좁은 집이지만 편히\\n있다 가렴.{wait(15)} 우리 아들은\\n2층에 있어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:8",
+  "jh": "c2e631905ca9",
+  "eh": "31e77e42e225",
+  "ko": "{KORCHA%}:\\n뭐야, 너희구나.\\n잘 지냈어?{wait(15)}\\n항해는 정말 최고야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:9",
+  "jh": "99fe9274667b",
+  "eh": "c922cf98269f",
+  "ko": "{speed(96)}어?{wait(5)} 누구……!?{wend(15)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:10",
+  "jh": "08208d412869",
+  "eh": "80f1aecb75ec",
+  "ko": "{KORCHA%}:\\n왜,{wait(5)} 왜 내가\\n저기 서 있는 거야!?{wait(15)}\\n이게 대체 어떻게 된 거야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:11",
+  "jh": "f965e6ce6584",
+  "eh": "bdd7a7ac6a54",
+  "ko": "{KORCHA%}:\\n그런 사소한 건\\n신경 쓰지 마.{bpage}\\n어차피 설명할 방법도\\n없으니까!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:12",
+  "jh": "3befd9a3b108",
+  "eh": "8b73d4e75c6f",
+  "ko": "{KORCHA%}:\\n{speed(72)}……그게 사소한 거냐?{wait(15)}\\n설명할 방법이 없다는 건\\n동의하지만.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:13",
+  "jh": "cdb973aef265",
+  "eh": "51601d6c4c33",
+  "ko": "{KORCHA%}:\\n신경 쓰지 마,{wait(5)} 신경 쓰지 마.{wait(15)}\\n안 쓰던 머리는\\n쓰는 게 아니라고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:14",
+  "jh": "d58e9d9aa802",
+  "eh": "b4ac93a10aa6",
+  "ko": "{KORCHA%}:\\n{speed(96)}……그걸 자기 입으로\\n말하냐.{wait(30)}\\n뭐, 됐다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:15",
+  "jh": "2001ec65f893",
+  "eh": "30b9e12d61d7",
+  "ko": "{KORCHA%}:\\n응? 너흰 누구야?{wait(15)} 남의 집에\\n허락도 없이\\n들어오지 마!{bpage}\\n뭐?{wait(5)} “{SERGE%}”?\\n그런 이름의 친구는\\n없는데.{bpage}\\n됐어, 볼일 없으면\\n나가 줘!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:16",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:17",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:18",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:19",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:20",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:21",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "219:22",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:0",
+  "jh": "59f114c3b2c8",
+  "eh": "a76b79f59386",
+  "ko": "{KORCHA%}:\\n어이, {SERGE%}.{wait(15)}\\n요즘 날 안 불러 줘서\\n한가해 죽겠다!{bpage}\\n아, 잊기 전에\\n이거 돌려줘야지.{wait(20)}\\n전에 {MEL%}이(가)\\n훔쳤던 엘레멘트야.{bpage}\\n내가 따끔하게 혼내 놨어!{wait(15)}\\n애 장난이니까\\n봐줘, 응?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:1",
+  "jh": "a56da020b2ab",
+  "eh": "48270061b5cf",
+  "ko": "도둑맞았던 {KID%}의\\n엘레멘트를 전부 돌려받았다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:2",
+  "jh": "d33fa5a3add2",
+  "eh": "1c22a52f77ad",
+  "ko": "{KORCHA%}:\\n어이, {SERGE%}.{wait(15)}\\n요즘 날 안 불러 줘서\\n한가해 죽겠다!{bpage}\\n그리고 빌려준 보트\\n험하게 다루지 마.\\n내가 아끼는 보트니까,\\n알았지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:3",
+  "jh": "d889e814e5dc",
+  "eh": "b8a579c81896",
+  "ko": "{KORCHA%}:\\n오늘 나한테 볼일 있어?\\n　　　딱히 없어\\n　　　같이 가자{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:4",
+  "jh": "a31af826448f",
+  "eh": "e5b7aa9e13cc",
+  "ko": "{KORCHA%}:\\n아, 또 나만 두고 가?{wait(15)}\\n여기 있으면 엄마가\\n잔심부름을 엄청 시킨다고.{bpage}\\n보트도 너희가 갖고 있으니\\n마을 밖으로도 못 나가……{bpage}\\n제발, {SERGE%}, 다음엔\\n꼭 데려가 줘,\\n알았지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:5",
+  "jh": "5e85faa35ea2",
+  "eh": "705b5faba1c6",
+  "ko": "{KORCHA%}:\\n마침 잘됐다.\\n심심해 죽는 줄 알았어!{wait(15)}\\n다시 넓은 바다로 나가 보자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:6",
+  "jh": "2408202f5ccd",
+  "eh": "76e80ad84468",
+  "ko": "{KORCHA%}:\\n……결국 또 남는구나.{wait(15)}\\n좀 너무한 거\\n아니야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:7",
+  "jh": "2644d310b6cc",
+  "eh": "a6c07a54cd47",
+  "ko": "{KORCHA%}:\\n응? 너흰 누구야?{wait(20)}\\n처음 보는 얼굴인데.\\n엄마 친구야?{bpage}\\n뭐, 상관없어.{wait(15)}\\n미안하지만 모르는 사람이랑\\n얘기할 기분 아니야.{wait(15)}\\n나 좀 내버려 둘래?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:8",
+  "jh": "e407c29ba433",
+  "eh": "c5d5a4045255",
+  "ko": "{KORCHA%}:\\n아, 또 너희구나.\\n나 비웃으러 왔냐?{wait(15)}\\n하, 한심한 녀석들……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:9",
+  "jh": "989b91bbee43",
+  "eh": "702d490e91f5",
+  "ko": "{KORCHA%}:\\n착각하지 마!\\n엄마가 시켜서\\n보트를 빌려주는 거야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:10",
+  "jh": "98f5d8caea80",
+  "eh": "e3fa2ad51a3e",
+  "ko": "{KORCHA%}:\\n뭐야?{wait(15)}\\n나한테 볼일 있어?{bpage}\\n난 너희랑\\n엮이기 싫어.{wait(15)}\\n나가.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:11",
+  "jh": "57750cda1bcf",
+  "eh": "ad7767d1eac4",
+  "ko": "{KORCHA%}:\\n{speed(80)}뭔가 할 말 있는 얼굴이네?{wait(15)}\\n{speed(128)}　　　보트를 빌려줘\\n　　　……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:12",
+  "jh": "f1cdabdaec20",
+  "eh": "e1fcf3252e16",
+  "ko": "{KORCHA%}:\\n하, 나랑은\\n상관없는 일이야.{bpage}\\n거기 서 있으면\\n신경 쓰여.\\n얼른 방에서\\n나가 줄래?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:13",
+  "jh": "9bd2d0d16357",
+  "eh": "810232e2d61a",
+  "ko": "{KORCHA%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:14",
+  "jh": "f39644a4e854",
+  "eh": "355a433c83ce",
+  "ko": "{KORCHA%}:\\n너…… {SERGE%}이야?{wait(15)}\\n살아 있었구나……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:15",
+  "jh": "4d46ad5ab543",
+  "eh": "2146028c5f41",
+  "ko": "{KORCHA%}:\\n{speed(96)}……미안.{wait(20)}\\n지금 기뻐해야 할지\\n당황해야 할지 모르겠어.{bpage}\\n거기서 일어난 일을\\n정리하느라 머리가\\n아직 엉망이야.{bpage}\\n{speed(72)}넌 네가 맞는데……\\n아직 잘 모르겠어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:16",
+  "jh": "df14430f8408",
+  "eh": "a082198d455f",
+  "ko": "{KORCHA%}:\\n{speed(160)}누,{wait(5)} 누구야, 너!?{wait(30)}\\n{speed(128)}뭐? {SERGE%}이라고?\\n미쳤어?{bpage}\\n그 녀석은 인간이었어.\\n아무리 봐도 넌\\n아인이잖아.{bpage}\\n웃기려고 한 거라면\\n최악의 농담이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:17",
+  "jh": "56b05a53552d",
+  "eh": "e676860b42e1",
+  "ko": "아주머니:\\n드디어 깼니?{wait(15)}\\n친구들은\\n밖에 있단다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:18",
+  "jh": "3ba35c99c61b",
+  "eh": "4ca103a73753",
+  "ko": "아주머니:\\n아니, 아니, 그쪽 말고.{wait(15)}\\n나가려면 이쪽으로\\n가야 해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:19",
+  "jh": "959ade436e1d",
+  "eh": "e5b6d0db66c8",
+  "ko": "{KORCHA%}의 엄마:\\n잠깐만.{bpage}\\n그 말을 들은 이상\\n동료를 버리게\\n둘 순 없지.{bpage}\\n{fset(2)}음, 빨간 옷 입은\\n금발 아가씨가 안 보이는데.\\n그 애는 어떻게 됐니?{bwait}{fset(3)}{fwait(1)}{wend(1)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:20",
+  "jh": "cbc9e0f8fcd5",
+  "eh": "049c72300756",
+  "ko": "{KORCHA%}의 엄마:\\n……그렇구나.{wait(15)}\\n그래서 그 애가 없는 거구나.{bpage}\\n그래서 네가 잔뜩\\n토라져서 돌아온 거고.{wait(20)}\\n못 말리는 녀석이야,\\n너도.{bwait}{fset(3)}{fwait(1)}{wend(1)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:21",
+  "jh": "8ec4f4acfa80",
+  "eh": "8b1d029d0bc0",
+  "ko": "{KORCHA%}의 엄마:\\n이름이 {SERGE%}……{wait(5)}\\n그래, {SERGE%}, 반갑다!{bpage}\\n내 이름은 {MACHA%}란다.\\n아줌마{wait(5)}든\\n{MACHA%}{wait(5)}든 편하게 부르렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:22",
+  "jh": "7f4d8c5514ef",
+  "eh": "dec5128d0015",
+  "ko": "{speed(64)}영차……{wend(30)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:23",
+  "jh": "385b66f83d15",
+  "eh": "5811d5a5198a",
+  "ko": "{MACHA%}:\\n그럼, {SERGE%}.{wait(15)}\\n아줌마는 선착장에서\\n기다릴게.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:24",
+  "jh": "6d6aca0d9604",
+  "eh": "ae2b977d4357",
+  "ko": "{MACHA%}:\\n어서 와, {SERGE%}.{wait(15)}\\n아줌마 힘이 필요하면\\n언제든 부르렴.{bpage}\\n원한다면 지금 당장\\n도와줄 수도 있어!\\n　　　고마워요, 다음에\\n　　　도와주세요{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:25",
+  "jh": "3d2aec825c01",
+  "eh": "93716be51b4d",
+  "ko": "{MACHA%}:\\n그럼 몸조심하렴.{wait(15)}\\n위험한 일에 너무\\n끼어들지 말고, 알았지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:26",
+  "jh": "3e7854b7c5d5",
+  "eh": "8919a7d26f9b",
+  "ko": "{MACHA%}:\\n좋아, 아줌마한테 맡겨!{wait(15)}\\n엄마의 사랑보다\\n강한 건 없단다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:27",
+  "jh": "2f738aeb2676",
+  "eh": "edf395e61366",
+  "ko": "{MACHA%}:\\n……아.{wait(15)}\\n이번엔 아줌마가 필요 없구나.\\n아쉽네.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:28",
+  "jh": "35eb8b6b2728",
+  "eh": "18836130ba79",
+  "ko": "{KORCHA%}의 엄마:\\n어머, 누구니?{wait(15)}\\n별난 손님이네.\\n우리 아들 보러 왔니?{bpage}\\n아들은 위층에 있어.\\n아무것도 없지만\\n편히 있다 가렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:29",
+  "jh": "a26765beaaf0",
+  "eh": "0cd28cc673db",
+  "ko": "{KORCHA%}의 엄마:\\n어머, 안녕.{wait(15)}\\n아무것도 없지만\\n편히 있다 가렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:30",
+  "jh": "4f0807b96c51",
+  "eh": "493b84de9ba9",
+  "ko": "아주머니:\\n하룻밤 푹 잤니?{wait(15)}\\n저 문으로 나갈 수 있어.\\n친구들한테 얼굴 보여 주렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:31",
+  "jh": "8a07231ee191",
+  "eh": "4cb76b4666f4",
+  "ko": "{MACHA%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:32",
+  "jh": "5a28198c2620",
+  "eh": "0d2624c70122",
+  "ko": "{MACHA%}:\\n무사했구나, {SERGE%}.{wait(15)}\\n아무 도움도 못 돼서\\n미안해……{bpage}\\n그래도 무사한 모습을 보니\\n마음이 놓인다.{wait(20)}\\n하지만 지금은 아줌마가\\n좀 냉정하지 못해서.{bpage}\\n이래선 도움이 안 될 거야……\\n아직은 도와줄 수 없어.\\n정말 미안해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:33",
+  "jh": "247c80ae2b9f",
+  "eh": "bd5adcdba888",
+  "ko": "{MACHA%}:\\n{speed(160)}누, 누구야, 너는!?{wait(30)}\\n뭐, {SERGE%}라고?{bpage}\\n말도 안 되는 소리!\\n그런 농담은\\n혼자 하렴!{bpage}\\n놀 시간 있으면\\n가서 일이나 해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:34",
+  "jh": "7b80808ebafe",
+  "eh": "e77b9b8d0036",
+  "ko": "{MACHA%}:\\n그럼, {SERGE%}.{wait(15)}\\n떠날 준비가 되면\\n불러 주렴.{bpage}\\n별건 아니지만\\n이거 받아 둬.{bpage}\\n프레임은 알지?{wait(20)}\\n“남국의 낙원”이라는\\n프레임이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:35",
+  "jh": "9957b25f5371",
+  "eh": "9e2c636265f4",
+  "ko": "{PARTY0%}은(는)\\n프레임 “남국의 낙원”을\\n손에 넣었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:36",
+  "jh": "4e793ff6eb7d",
+  "eh": "c4b6de7e7ce0",
+  "ko": "{KORCHA%}:\\n시,{wait(5)} 시끄러!{fset(2)}{wait(10)}\\n저런 녀석들\\n친구도 아니야!{bpage}\\n애초에 엄마랑은\\n상관없잖아!{bpage}\\n동료를 버리는 녀석들한테\\n왜 내 보트를\\n빌려줘야 하는데!?{bwait}{fset(3)}{fwait(1)}{wend(1)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:37",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:38",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:39",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:40",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:41",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:42",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:43",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:44",
+  "jh": "09b1eb63d947",
+  "eh": "c653aba84b71",
+  "ko": "{KORCHA%}:\\n보트를 빌려 달라고?{bpage}\\n하, 웃기지 마!{wait(5)}\\n내가 왜 너희한테 빌려줘?{wait(15)}\\n미안하지만 딴 데 알아봐.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:45",
+  "jh": "943aaa053439",
+  "eh": "0ee9360e3c34",
+  "ko": "{speed(145)}거기 서!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:46",
+  "jh": "dc1216f6fcf9",
+  "eh": "efcedbaf1932",
+  "ko": "{KORCHA%}:\\n{speed(24)}어, 어, {speed(255)}엄마!!!{wait(15)}\\n{speed(128)}왜 여기 있어? 장 보러\\n간다고 했잖아!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:47",
+  "jh": "7143bff0faff",
+  "eh": "6bc3dc84c914",
+  "ko": "{KORCHA%}의 엄마:\\n말대꾸하지 마!\\n친구가 곤란한데\\n안 도와줄 거니?{bpage}\\n돌아왔을 때부터\\n이상하다 했더니,\\n널 그렇게 생각 없는 애로\\n키운 기억은 없어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:48",
+  "jh": "4e96bf8fc252",
+  "eh": "a3f808bb7374",
+  "ko": "{KORCHA%}의 엄마:\\n그래서 무슨 일이니?{wait(15)}\\n아줌마도 알아듣게\\n설명해 보렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:49",
+  "jh": "9fb85ba53ca1",
+  "eh": "8d89c2b6ae78",
+  "ko": "{KORCHA%}의 엄마:\\n이 애는 어떻게 해야 할지\\n모르겠다고 했을 뿐이잖아.\\n당연한 반응 아니니?{bpage}\\n넌 그냥 심술부린 거야.\\n네가 이 애 입장이었으면\\n어떻게 했겠어?\\n말해 보렴, {KORCHA%}!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:50",
+  "jh": "732f5afec4e7",
+  "eh": "624ff97c454e",
+  "ko": "{KORCHA%}:\\n{speed(64)}으…… 그, 그건……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:51",
+  "jh": "23ca11d39bd7",
+  "eh": "9c7187eadf3c",
+  "ko": "{KORCHA%}의 엄마:\\n봐라.\\n너도 똑같잖아.{wait(15)}\\n이 애한테 사과하렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:52",
+  "jh": "b97ce1d42475",
+  "eh": "c7225cf50781",
+  "ko": "{KORCHA%}:\\n미,{wait(5)} 미안했어……{wait(15)}\\n그만 욱해서.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:53",
+  "jh": "5251f2a4b955",
+  "eh": "45638020e610",
+  "ko": "{KORCHA%}의 엄마:\\n그래, 됐다.{wait(15)}\\n알았으면 이 애들\\n부탁도 들어주렴.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:54",
+  "jh": "2f08fe065ee4",
+  "eh": "2785e688c95e",
+  "ko": "{KORCHA%}:\\n{speed(160)}자,{speed(128)}{wait(5)} 잠깐, 그건 전혀\\n다른 얘기야, 엄마.{wait(15)}\\n보트를 빌려줄 순……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:55",
+  "jh": "b23c08609d02",
+  "eh": "2d7d186eb976",
+  "ko": "{KORCHA%}의 엄마:\\n쩨쩨하게 굴지 마.\\n보트 한두 척쯤 빌려줘.{bpage}\\n보트가 그렇게 걱정되면\\n같이 따라가면 되잖아.{wait(15)}\\n간단하잖니, {KORCHA%}.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:56",
+  "jh": "5c2d614c1fce",
+  "eh": "4cebd0b4247d",
+  "ko": "{KORCHA%}:\\n한두 척이라니, 내 보트는\\n그거 하나뿐이라고!{bpage}\\n게다가 난 이 녀석들을\\n잘 알지도……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:57",
+  "jh": "630c49eed3e6",
+  "eh": "d4fbb65d127a",
+  "ko": "{KORCHA%}의 엄마:\\n정말 고집불통이구나!{wait(15)}\\n좋아! 그 보트는 내가 쓰마!{bpage}\\n넌 늘 마을에 붙어 있질 않으니\\n이참에 집안일이나 하렴.\\n{MEL%}도 좀\\n돌봐 주고.{bpage}\\n알았니?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:58",
+  "jh": "d1fba9991674",
+  "eh": "8f6cd29611c5",
+  "ko": "{speed(64)}헉! 말도 안 돼……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:59",
+  "jh": "a3727a0eb130",
+  "eh": "2f4e0642f9b8",
+  "ko": "{KORCHA%}의 엄마:\\n자, 젊은이,\\n이름이 뭐니?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:60",
+  "jh": "4bea3fa24892",
+  "eh": "bc6bae512a3a",
+  "ko": "{MACHA%}:\\n선착장에서 기다릴게.{wait(15)}\\n마을을 떠날 준비가 되면\\n불러 주렴.{bpage}\\n그리고 {SERGE%}.\\n무녀님을 만나\\n보렴.{bpage}\\n길을 잃은 얼굴이야.\\n무녀님이라면 길을 되찾게\\n도와주실지도 몰라……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "220:61",
+  "jh": "12450d291c71",
+  "eh": "201821f11aed",
+  "ko": "{MACHA%}:\\n어머, 깜빡할 뻔했네.\\n두고 온 걸 가지러\\n돌아왔는데.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "221:0",
+  "jh": "5e08044daa35",
+  "eh": "b134b0c9783e",
+  "ko": "뭔가 적힌 종이가\\n떨어져 있다.{wait(15)}\\n　　　관심 없다\\n　　　읽어 본다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "221:1",
+  "jh": "4eb2ec5678fe",
+  "eh": "5fdbbfeb4976",
+  "ko": "지금 외출 중~\\n볼일 있는 사람은……\\n찾지 마세요.\\n　\\n　　　{MEL%}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "221:2",
+  "jh": "441fa9c7fd06",
+  "eh": "8b111e2d467a",
+  "ko": "{MEL%}:\\n{speed(96)}에이, 뭐야!\\n……재미없어.{bpage}\\n모처럼 이쪽 세계의\\n{MEL%}을 만날 줄\\n알았는데.{wait(15)}\\n나 어디 간 거지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "221:3",
+  "jh": "ec5ebc7c2349",
+  "eh": "6b1aacee8f33",
+  "ko": "{KORCHA%}:\\n너랑 똑같다면,{wait(15)}\\n어디서 장난이라도\\n치고 있겠지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "221:4",
+  "jh": "b7c8c1f5a9de",
+  "eh": "3789cc16d594",
+  "ko": "{MEL%}:\\n{speed(96)}시끄러, 오빠!{bpage}\\n{KID%} 언니 일 이후로\\n{MEL%}은 착하게 지낸다고.\\n장난 안 쳤어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "221:5",
+  "jh": "4c875f341de1",
+  "eh": "73530e3471bf",
+  "ko": "{KORCHA%}:\\n{speed(72)}……착하게, 라.{wait(20)}\\n{speed(96)}어디까지가 진짜인지\\n알 수가 있어야지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:0",
+  "jh": "655533f13deb",
+  "eh": "290d4e8b5ed0",
+  "ko": "{MEL%}:\\n저기저기, {SERGE%}!{wait(15)}\\n나도 데려가 줘!{bpage}\\n오빠보다 훨씬\\n쓸모 있을 거야!{wait(15)} 진짜야!\\n정말 괜찮다니까!{wait(15)}\\n제발~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:1",
+  "jh": "655533f13deb",
+  "eh": "290d4e8b5ed0",
+  "ko": "{MEL%}:\\n저기저기, {SERGE%}!{wait(15)}\\n나도 데려가 줘!{bpage}\\n오빠보다 훨씬\\n쓸모 있을 거야!{wait(15)} 진짜야!\\n정말 괜찮다니까!{wait(15)}\\n제발~!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:2",
+  "jh": "a76a74fcb94e",
+  "eh": "acb003ac6ae6",
+  "ko": "{MEL%}:\\n어라?{wait(15)}\\n오늘은 금발 언니랑\\n같이 안 왔어, {SERGE%}?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:3",
+  "jh": "1dcc8e0fecbf",
+  "eh": "1bc19054962d",
+  "ko": "{MEL%}:\\n{MEL%}한테 고양이 인간\\n친구는 없는데.{wait(15)}\\n오빠 만나러 왔어?{bpage}\\n오빠는 위층에 있어.{wait(15)}\\n……근데 고양이 인간은\\n처음 봐.\\n대륙에서 왔어?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:4",
+  "jh": "12c2d9c40ce8",
+  "eh": "aea3ce7c7a68",
+  "ko": "{MEL%}:\\n{MEL%}은 엘레멘트를\\n오빠한테 다 돌려줬으니까\\n화내지 마.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:5",
+  "jh": "43fa07e2cb0a",
+  "eh": "7cb312538e25",
+  "ko": "{MEL%}:\\n{speed(96)}{MEL%}은 이제 장난 안 칠게.{wait(20)}\\n대신 또 같이\\n놀아 주기로 약속해!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:6",
+  "jh": "0dc815ae6d14",
+  "eh": "7d88e288b580",
+  "ko": "{MEL%}:\\n{speed(72)}……{wait(20)}뭐야?{wait(5)} 방해하지 마!{wait(5)}\\n집중,{wait(5)}\\n집중해야 한단 말이야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:7",
+  "jh": "87d6698e5a2c",
+  "eh": "a4f5313b2947",
+  "ko": "{MEL%}:\\n……에이, 결국\\n{MEL%}은 남는 거야?{wait(20)}\\n재미없어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:8",
+  "jh": "87d6698e5a2c",
+  "eh": "a4f5313b2947",
+  "ko": "{MEL%}:\\n……에이, 결국\\n{MEL%}은 남는 거야?{wait(20)}\\n재미없어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:9",
+  "jh": "c7284e6b5d80",
+  "eh": "17c04bed01bb",
+  "ko": "{MEL%}:\\n{speed(96)}……앗!?{wait(15)}\\n살아 있었구나.\\n다행……인 거지?{bpage}\\n어라……\\n{MEL%}, 지금 뭐가 맞는지\\n잘 모르겠어.{bpage}\\n모습은 달라도 속은\\n{SERGE%}인 건 아는데……{bpage}\\n미안해, {SERGE%}.{wait(15)}\\n아직 너무 혼란스러워……\\n마음 정리가\\n아직 안 됐나 봐……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:10",
+  "jh": "299caac07d81",
+  "eh": "05503d24dcb3",
+  "ko": "{MEL%}:\\n야! 남의 집에 멋대로\\n들어오면 안 되는 거야!\\n그건 상식이잖아?{bpage}\\n뭐? {SERGE%}?{wait(45)}\\n{speed(80)}……괜찮아요, 고양이 아저씨?\\n{speed(128)}{MEL%}의 친구 {SERGE%}은\\n인간이라고!!!{bpage}\\n하나도 안 웃긴 농담은\\n하지 마.\\n좀 더 진지하게\\n살아야지.{bpage}\\n바이바이, 고양이 아저씨.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:11",
+  "jh": "c6efa8b02155",
+  "eh": "2ea9ce6bd3f7",
+  "ko": "{MEL%}:\\n앗,{wait(5)} 금발 언니!{wait(15)}\\n{speed(96)}저기, 의논하고\\n싶은 게 있는데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:12",
+  "jh": "8809b2a341eb",
+  "eh": "a7a3109e392b",
+  "ko": "{KID%}:\\n{speed(96)}……응?{wait(5)}\\n나한테 할 얘기가 있어?{wait(15)}\\n해 봐.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:13",
+  "jh": "6bd404c42ed3",
+  "eh": "c34c27876120",
+  "ko": "{MEL%}:\\n{speed(72)}음, 가능하면\\n언니랑 단둘이서\\n얘기하고 싶어……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:14",
+  "jh": "4aa5a54f0e1d",
+  "eh": "7ba57fb60698",
+  "ko": "{KID%}:\\n{speed(96)}뭐, 그래.\\n난 상관없어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:15",
+  "jh": "68732cfb2761",
+  "eh": "f78637c985aa",
+  "ko": "{KID%}:\\n{speed(72)}……그래서,{wait(5)} 나한테\\n할 얘기가 뭔데?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:16",
+  "jh": "a3bb4a3e185a",
+  "eh": "7dc3a4d95d32",
+  "ko": "{MEL%}:\\n{speed(96)}실은,{wait(0)} 그게,{wait(0)} 음{wait(0)}……{wait(0)}……{wait(45)}\\n{speed(64)}……{wait(0)}……{wait(10)}\\n……{wait(0)}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:17",
+  "jh": "a3e9b0ab5ebc",
+  "eh": "ac2d0db77150",
+  "ko": "{KID%}:\\n그래,{wait(5)} 좋아!{wait(15)}\\n그 문제는 나도\\n골치 아팠거든!{bpage}\\n{MEL%},{wait(5)} 네 마음\\n충분히{wait(5)} 알겠어!{wait(30)}\\n걱정 마!{wait(15)}\\n방해 안 할게.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:18",
+  "jh": "3548171f9738",
+  "eh": "07ad2aca9747",
+  "ko": "{MEL%}:\\n{speed(160)}고마워, {KID%} 언니!{wait(15)}\\n그럼 {MEL%}도\\n데려가 줘!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:19",
+  "jh": "8210598e4db1",
+  "eh": "0d3515b9ac05",
+  "ko": "{KORCHA%}:\\n{speed(80)}……어이,{wait(5)} 무슨 얘기 하는 거야?{wait(15)}\\n우리한테도 알려 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:20",
+  "jh": "735407839d61",
+  "eh": "9b3773146a36",
+  "ko": "{KID%}:\\n안 돼. 이건 여자들끼리의\\n굳은 약속이야!{wait(15)}\\n미안하지만 못 알려 줘.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:21",
+  "jh": "f40e974c2515",
+  "eh": "2985e5664279",
+  "ko": "{KORCHA%}:\\n뭐?{wait(5)} 그게 무슨 소리야?{wait(30)}\\n그건 그렇고, {MEL%}까지\\n끼면 시끄러워지겠네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:22",
+  "jh": "c39942f8755d",
+  "eh": "cae4bbb9c8e2",
+  "ko": "　{MEL%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:23",
+  "jh": "e30e8bbc08f3",
+  "eh": "63c3a0caa643",
+  "ko": "{MEL%}:\\n아, 그리고 {KID%} 언니!{wait(15)}\\n이걸 약속의 증표로\\n받아 줘.{bpage}\\n갈도브 특산 프레임\\n“갈도비안 스티치”야.{bpage}\\n무늬가 멋지니까\\n분명 마음에 들 거야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:24",
+  "jh": "2a14baf27806",
+  "eh": "50eede56b6df",
+  "ko": "{KID%}은(는)\\n프레임 “갈도비안 스티치”를\\n받았다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:25",
+  "jh": "057de8964077",
+  "eh": "a1a49286cfeb",
+  "ko": "{color(GRAY)}으아앙……{color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:26",
+  "jh": "5bb8175bbfa8",
+  "eh": "744a56b25282",
+  "ko": "{KORCHA%}:\\n이 바보야.\\n손님한테 장난친\\n벌이야!{bpage}\\n운다고 봐줄 줄\\n알아!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:27",
+  "jh": "359797df97a0",
+  "eh": "ae4e04701339",
+  "ko": "{KID%}:\\n그 정도면 됐어.{wait(15)}\\n물건도 돌려받았고\\n피해도 없었잖아.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:28",
+  "jh": "7dd8e3be364d",
+  "eh": "020abaebc1e9",
+  "ko": "{KORCHA%}:\\n{speed(96)}……그래도 이 녀석한테\\n버릇을 좀\\n가르쳐야 해.{bpage}\\n또 언제 할지\\n모른다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:29",
+  "jh": "15437a1ee63a",
+  "eh": "e6cda4dc11c0",
+  "ko": "{KID%}:\\n그런 사소한 건\\n신경 쓰지 마.{bpage}\\n내가 용서한다잖아.\\n그걸로\\n끝내자고.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:30",
+  "jh": "43a93b80efdd",
+  "eh": "642be53e8457",
+  "ko": "{KID%}:\\n{speed(96)}게다가……{bpage}\\n래디컬 드리머즈 멤버한테서\\n훔치다니 배짱 있는\\n꼬맹이잖아!\\n하하하!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:31",
+  "jh": "19f224414f66",
+  "eh": "b2e0fcb44525",
+  "ko": "{MEL%}:\\n{speed(160)}야!\\n꼬맹이라고\\n하지 마!{bpage}\\n나도 이름이\\n있다고!\\n{MEL%}이야!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:32",
+  "jh": "a06e19e76068",
+  "eh": "9fa4adc8398a",
+  "ko": "{KID%}:\\n오오,{wait(5)} 무서워라!{wait(15)}\\n기세까지 진짜네,\\n이 녀석!{bpage}\\n근데 방금까지\\n울지 않았어?{wait(30)}\\n혹시 거짓 울음이었냐?{bpage}\\n이거 원……\\n크면 장난 아니겠는데!\\n하하하!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:33",
+  "jh": "e1527a2fd681",
+  "eh": "086a9d34bb12",
+  "ko": "{MEL%}:\\n{speed(96)}……그게 무슨 소리야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:34",
+  "jh": "5b4f05cf55b5",
+  "eh": "598548031aca",
+  "ko": "{KID%}:\\n아이고! 넌 아직\\n꼬맹이였지.{wait(15)}\\n신경 쓰지 마, 잊어버려!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:35",
+  "jh": "54a7111481fd",
+  "eh": "220866ac88bf",
+  "ko": "{MEL%}:\\n{speed(72)}으으……{wait(5)} 정말,{wait(5)}\\n{speed(128)}꼬맹이라고\\n하지 말랬지!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:36",
+  "jh": "570b400f3eda",
+  "eh": "a6b0c026ed53",
+  "ko": "{KORCHA%}:\\n{speed(80)}……어이,{wait(5)}\\n정말 이걸로\\n끝내도 돼?{bpage}\\n도무지 너희를 모르겠다.{wait(30)}\\n뭐, 됐다, 이제 와서\\n따져 봤자지.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:37",
+  "jh": "8e5f7d4c74ca",
+  "eh": "4aaf8843aa47",
+  "ko": "{KORCHA%}:\\n그럼 난 먼저 선착장에서\\n기다릴게.{bpage}\\n준비되면\\n찾아와.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "222:38",
+  "jh": "2905879d2b3e",
+  "eh": "65a53839d25d",
+  "ko": "{KID%}:\\n좋아, 그럼\\n가 볼까……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:0",
+  "jh": "feb6bb2b9f10",
+  "eh": "7980cf9bf818",
+  "ko": "{STEENA%}:\\n{speed(72)}운명의 사슬로부터의\\n해방……{bpage}\\n인간처럼 용신들도\\n운명에 묶여 있었군요……\\n이것이 마지막 싸움이 될 겁니다……{bpage}\\n별의 수호자\\n“시간을 먹는 자”와\\n우리 별의 아이들의\\n싸움이……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:1",
+  "jh": "6d485eb26a50",
+  "eh": "2c3b42249988",
+  "ko": "{STEENA%}:\\n오래된 용신들의 힘이\\n여러분을 신의 정원으로\\n인도해 줄 겁니다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:2",
+  "jh": "93dedcfba831",
+  "eh": "6900fa630573",
+  "ko": "{STEENA%}:\\n자, {color(4)}{itemwork(3)}{color(0)}을(를)\\n가지고…… 고룡의 요새\\n“의식의 방”으로.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:3",
+  "jh": "1d4606729a1a",
+  "eh": "b12b5908bf68",
+  "ko": "{STEENA%}:\\n약속대로 여러분께\\n{color(4)}{itemwork(3)}{color(0)}을(를) 빌려드리지요.{bpage}\\n요새에는 저도\\n함께 가겠습니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:4",
+  "jh": "bd43e9a6c986",
+  "eh": "32d10bf0aa90",
+  "ko": "{STEENA%}:\\n분명히 말씀드리지요,\\n{SERGE%}.{bpage}\\n엘니도에 잠든 가장 오래된\\n존재, 용신들을 찾아가세요.{bpage}\\n당신은 여행하며\\n용신들을 직접\\n보았을 겁니다.{wait(20)}\\n저는 느낄 수 있어요……{bpage}\\n용신에게 인정받은 자에게\\n용족의 비보\\n“{color(4)}{itemwork(3)}{color(0)}”을(를)\\n빌려드리겠습니다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:5",
+  "jh": "8d5f81be9b33",
+  "eh": "289976744d83",
+  "ko": "{STEENA%}이(가) 동료가 되었다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:6",
+  "jh": "87242ac0b380",
+  "eh": "8418203ea2b0",
+  "ko": "{STEENA%}:\\n{speed(96)}별의 아이들인 우리에게\\n사라진 운명의 여신의\\n축복이 있기를……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "223:7",
+  "jh": "2425b78237d5",
+  "eh": "9b57d6dc44ab",
+  "ko": "{STEENA%}:\\n{speed(96)}별의 아이들인 우리에게\\n위대한 여섯 용신의\\n가호가 있기를……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:0",
+  "jh": "42d1634a32b4",
+  "eh": "21e3d67e1fed",
+  "ko": "디레아:\\n그대들 싸움의 끝은\\n이 별에 반가운\\n변화를 가져올 것이다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:1",
+  "jh": "098c0854e648",
+  "eh": "1c8edb9a1cf3",
+  "ko": "{STEENA%}:\\n{speed(96)}……디레아 님,\\n다시 뵙게 되어\\n기쁩니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:2",
+  "jh": "61631a0c9fca",
+  "eh": "28c8c09d86a3",
+  "ko": "디레아:\\n이런, {STEENA%}가 아니냐.{bpage}\\n{speed(96)}……그렇군. 저쪽 세계에서는\\n이미 네가 장의 자리를\\n이어받았구나……{bpage}\\n역시 저쪽 세계에서는\\n일이 꽤 다르게 흘러가는군.{wait(15)}\\n그게 무엇을 뜻하는지는\\n나도 모르겠다만.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:3",
+  "jh": "56cf58e65c17",
+  "eh": "8c4b69ff79ec",
+  "ko": "디레아:\\n{speed(96)}분명한 건 두 세계의\\n운명이 그대들에게\\n달려 있다는 것……{bpage}\\n인간과 용과 운명……\\n힘겨운 싸움이 되겠지.{wait(15)}\\n조심해서 가거라,\\n젊은 무녀여……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:4",
+  "jh": "1023a081c61f",
+  "eh": "d65d971053e9",
+  "ko": "디레아:\\n옛 가르침은 시간과 함께 사라지고\\n새로운 질서가 태어난다.{wait(20)}\\n우리 인간도 그 흐름을 따르지.{bpage}\\n별의 꿈이 끝날 때\\n우리는 어떻게 되어 있을까?\\n지금 그것을\\n묻고 있는 것이리라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:5",
+  "jh": "dc521198b7d3",
+  "eh": "50877a18a880",
+  "ko": "디레아:\\n{speed(96)}길은 스스로 열어야 하는 것.\\n하지만 인간인 이상\\n때로는 길을 잃기도 하지.{bpage}\\n그대들의 여정에\\n위대한 여섯 용신의\\n가호가 있기를.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:6",
+  "jh": "71e627f25224",
+  "eh": "b055e5b94fcd",
+  "ko": "디레아:\\n{speed(96)}흠…… 이 부적에는\\n대단한 힘이\\n깃들어 있구나.{bpage}\\n조심하거라, 젊은이.\\n이런 힘은 때로\\n신비한 일을 일으키고\\n미지의 세계로 가는 문을 연다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:7",
+  "jh": "71aa855ac125",
+  "eh": "f56b1e8bd304",
+  "ko": "디레아:\\n{speed(96)}용의 눈물 조각은\\n네가 가지고 있거라.{bpage}\\n부서졌다 해도\\n그 광채가 사라지지 않는 한\\n모든 것이 끝난 건 아니니……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:8",
+  "jh": "110e6ad64870",
+  "eh": "3433f8e351d2",
+  "ko": "디레아:\\n{speed(96)}이럴 수가.{wait(15)}\\n이것은 틀림없는\\n용의 눈물 조각……{bpage}\\n{SERGE%}여, 너에게\\n용의 문장을 내리마.{wait(15)}\\n용의 무녀의\\n증표이니라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:9",
+  "jh": "732da8774497",
+  "eh": "18473195a224",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 받았다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:10",
+  "jh": "77f9d3ba0fbd",
+  "eh": "43b51ec4aa92",
+  "ko": "디레아:\\n{speed(96)}이 문장은 용의 눈물과 함께\\n대대로 용의 무녀에게\\n전해져 온 것.{bpage}\\n세계가 달라도\\n이 문장이 있으면\\n저쪽 무녀의 도움을\\n받을 수 있을 것이다.{bpage}\\n어서 저쪽 세계로\\n가거라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:11",
+  "jh": "77f9d3ba0fbd",
+  "eh": "43b51ec4aa92",
+  "ko": "디레아:\\n{speed(96)}이 문장은 용의 눈물과 함께\\n대대로 용의 무녀에게\\n전해져 온 것.{bpage}\\n세계가 달라도\\n이 문장이 있으면\\n저쪽 무녀의 도움을\\n받을 수 있을 것이다.{bpage}\\n어서 저쪽 세계로\\n가거라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:12",
+  "jh": "c12c18bc11bc",
+  "eh": "c970b8eec9f0",
+  "ko": "{STEENA%}:\\n{speed(96)}……모든 것은 운명이\\n이끄는 대로.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:13",
+  "jh": "361ce1d8f43c",
+  "eh": "e2f1ae2c95cf",
+  "ko": "{STEENA%}:\\n{speed(96)}자신과 마주하는 건\\n참 묘한 기분이군요.{wait(15)}\\n또 하나의 세계……{bpage}\\n여정의 끝에서 인류의\\n미래를 찾을 수 있을지는\\n모르지만,\\n여러분의 성공을 빌겠습니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:14",
+  "jh": "9dc68f44c4e3",
+  "eh": "9bf7cc1f3a50",
+  "ko": "{STEENA%}:\\n{speed(96)}이 싸움의 끝을\\n내다볼 수 있는 이는\\n여기 아무도 없습니다……{bpage}\\n용과 인간과\\n운명의 싸움……{bpage}\\n인간이 세계를 바꿀까요,\\n세계가 바뀔 운명일까요……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:15",
+  "jh": "2238142fdbaf",
+  "eh": "b7754ec3e9e4",
+  "ko": "{STEENA%}:\\n{speed(96)}별의 아이들인 우리에게\\n운명의 여신의 축복이 있기를……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:16",
+  "jh": "d80d25fdb521",
+  "eh": "1465b165ae14",
+  "ko": "{STEENA%}:\\n제가 아는 한도에서\\n질문에 답해 드리겠습니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:17",
+  "jh": "47ef58aba8b3",
+  "eh": "b5002a2f30e4",
+  "ko": "{STEENA%}:\\n무엇을 알고 싶으신가요?{wait(15)}\\n{speed(160)}　　　지금은 됐어요\\n　　　시작의 땅\\n　　　용의 눈물\\n　　　용족의 유적\\n　　　여섯 용신\\n　　　얼어붙은 불꽃{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:18",
+  "jh": "413103d92278",
+  "eh": "b8a534a71206",
+  "ko": "{STEENA%}:\\n무엇을 알고 싶으신가요?{wait(15)}\\n{speed(160)}　　　지금은 됐어요\\n　　　시작의 땅\\n　　　용의 눈물\\n　　　용족의 유적\\n　　　여섯 용신\\n　　　얼어붙은 불꽃\\n　　　용신의 폭포{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:19",
+  "jh": "579d29eafd7d",
+  "eh": "c2d65c8f02db",
+  "ko": "{STEENA%}:\\n{speed(96)}시작의 땅……\\n그곳이 어디인지는\\n저도 모릅니다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:20",
+  "jh": "ba1f29a428a6",
+  "eh": "ad87f90772c9",
+  "ko": "{STEENA%}:\\n{speed(96)}하지만…… 모든 일에는\\n이유가 있는 법……{bpage}\\n당신이 이 세계에서 이미\\n죽었다는 사실 외에도\\n뭔가 다른 의지가 작용하고\\n있는 것 같습니다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "224:21",
+  "jh": "d8ffe46ba16c",
+  "eh": "abd324982af9",
+  "ko": "{STEENA%}:\\n{speed(96)}디레아 님께서 말씀하신\\n두 세계를 잇는\\n“차원의 흔들림”……{bpage}\\n그것이 시작의 땅에 있다면\\n어째서 당신은 원래 세계로\\n돌아가지 못했을까요?{wait(20)}\\n그게 정말 이상합니다……{mend}",
+  "status": "draft",
+  "note": ""
+ }
+]

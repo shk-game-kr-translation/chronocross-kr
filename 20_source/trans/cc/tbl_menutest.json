@@ -1,0 +1,1289 @@
+[
+ {
+  "k": "5",
+  "id": "0x801F2798",
+  "jh": "1851678369e4",
+  "eh": "dd3cb3944382",
+  "ko": " (으)로 결정.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "6",
+  "id": "0x801F27A0",
+  "jh": "12bc3fc4cefb",
+  "eh": "bcbc87bcaa50",
+  "ko": " (으)로 엘레멘트 모두 해제.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "7",
+  "id": "0x801F27B0",
+  "jh": "53aaa3deaa4b",
+  "eh": "4033e934726e",
+  "ko": " (으)로 액세서리 모두 해제.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "9",
+  "id": "0x801F27D0",
+  "jh": "74b4488e1ff0",
+  "eh": "235f04255e85",
+  "ko": "진행하시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "10",
+  "id": "0x801F27E4",
+  "jh": "c92b4cda8bdf",
+  "eh": "5397e0583f14",
+  "ko": "예",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "11",
+  "id": "0x801F27EC",
+  "jh": "f901585367d6",
+  "eh": "816c52fd2bdd",
+  "ko": "아니요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "12",
+  "id": "0x801F29B0",
+  "jh": "3d6367a3b068",
+  "eh": "1aa6e8ca6610",
+  "ko": "Lv",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "16",
+  "id": "0x801F29C9",
+  "jh": "2fe2fa580f5f",
+  "eh": "482544e6b685",
+  "ko": "적·단일",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "17",
+  "id": "0x801F29CA",
+  "jh": "d6ff1f6a499b",
+  "eh": "f3489cf0732a",
+  "ko": "아군·단일",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "18",
+  "id": "0x801F29CB",
+  "jh": "d241a484752f",
+  "eh": "afadbeee4853",
+  "ko": "적/아군·단일",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "20",
+  "id": "0x801F29D1",
+  "jh": "9fdd55952cc8",
+  "eh": "d83abb6c087e",
+  "ko": "적·전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "21",
+  "id": "0x801F29D2",
+  "jh": "fed06a272eb3",
+  "eh": "fc1da938ab27",
+  "ko": "아군·전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "22",
+  "id": "0x801F29D3",
+  "jh": "d02d232253b4",
+  "eh": "a0d0333471e7",
+  "ko": "적/아군·전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "24",
+  "id": "0x801F2A04",
+  "jh": "4d199150a83d",
+  "eh": "e102517374a8",
+  "ko": "자신만",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "25",
+  "id": "0x801F2A10",
+  "jh": "7472ab193f68",
+  "eh": "e8249c664732",
+  "ko": "모두 해제",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "26",
+  "id": "0x801F2A20",
+  "jh": "00a8b4c76980",
+  "eh": "e963907dac5c",
+  "ko": "해제",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "27",
+  "id": "0x801F2A2C",
+  "jh": "1bbbd2c4ce2d",
+  "eh": "bdd0014d0a2a",
+  "ko": "자동 배치",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "28",
+  "id": "0x801F2A3C",
+  "jh": "d36f60377d6c",
+  "eh": "b850fd44abd2",
+  "ko": "빈칸 채우기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "29",
+  "id": "0x801F2A88",
+  "jh": "d8a7b34e55c0",
+  "eh": "08f90bf55a68",
+  "ko": "(선천 속성 색 %s만)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "30",
+  "id": "0x801F2BD0",
+  "jh": "c92b4cda8bdf",
+  "eh": "5397e0583f14",
+  "ko": "예",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "31",
+  "id": "0x801F2BD8",
+  "jh": "f901585367d6",
+  "eh": "816c52fd2bdd",
+  "ko": "아니요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "32",
+  "id": "0x801F2BE0",
+  "jh": "26c68dc41fbf",
+  "eh": "be8e081b39f7",
+  "ko": "파일을 세이브합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "34",
+  "id": "0x801F2C18",
+  "jh": "c70712c8944b",
+  "eh": "6978535977bc",
+  "ko": "파일을 로드합니다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "39",
+  "id": "0x801F2CA4",
+  "jh": "e1ebbad1bba7",
+  "eh": "3e9ab23d3e4a",
+  "ko": "슬롯을 선택해 주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "41",
+  "id": "0x801F2CDC",
+  "jh": "0f47d09c43e1",
+  "eh": "56d27a601c60",
+  "ko": "슬롯 1",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "42",
+  "id": "0x801F2CF8",
+  "jh": "ed3a63438828",
+  "eh": "9f47b65fc67d",
+  "ko": "슬롯 2",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "43",
+  "id": "0x801F2D14",
+  "jh": "7f8d5b728458",
+  "eh": "c25177201e88",
+  "ko": "슬롯 1 확인 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "44",
+  "id": "0x801F2D30",
+  "jh": "f5c4f88ac015",
+  "eh": "50952aeeb172",
+  "ko": "슬롯 2 확인 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "52",
+  "id": "0x801F2E08",
+  "jh": "f1ef84579147",
+  "eh": "c2ff2762ca98",
+  "ko": "파일을 선택해 주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "56",
+  "id": "0x801F2E78",
+  "jh": "f334512587b1",
+  "eh": "5bc604777adb",
+  "ko": "EMPTY",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "60",
+  "id": "0x801F2ECD",
+  "jh": "c575b63a1cbd",
+  "eh": "c38c29d5bf7c",
+  "ko": "슬롯 1에 세이브 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "61",
+  "id": "0x801F2ECE",
+  "jh": "86b9c0714780",
+  "eh": "e49e624d173e",
+  "ko": "슬롯 2에 세이브 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "62",
+  "id": "0x801F2EE0",
+  "jh": "7a3ff913f554",
+  "eh": "cd88fb1f29ad",
+  "ko": "이전 파일 내용은 덮어쓰게 됩니다.\n괜찮으시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "64",
+  "id": "0x801F2F1C",
+  "jh": "60ba4c90127a",
+  "eh": "4276e6ab2a31",
+  "ko": "데이터 없음",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "65",
+  "id": "0x801F2F38",
+  "jh": "298061de7e1d",
+  "eh": "27da9cb746bb",
+  "ko": "이 데이터는 이미 강해진 상태로\n이어서 할 수 있습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "67",
+  "id": "0x801F2F74",
+  "jh": "b53a4717a82f",
+  "eh": "62550a219084",
+  "ko": "이 데이터는 클리어되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "69",
+  "id": "0x801F2FA4",
+  "jh": "3960a992be4f",
+  "eh": "bfb1f423cbb8",
+  "ko": "슬롯 1에서 로드 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "70",
+  "id": "0x801F2FC0",
+  "jh": "7044413bd950",
+  "eh": "7a9ed807bb23",
+  "ko": "슬롯 2에서 로드 중...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "72",
+  "id": "0x801F2FF0",
+  "jh": "26388e324b90",
+  "eh": "c6a4c869bdbb",
+  "ko": "슬롯 1의 세이브 데이터가 손상되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "73",
+  "id": "0x801F300C",
+  "jh": "83821c943262",
+  "eh": "d222b0b99671",
+  "ko": "슬롯 2의 세이브 데이터가 손상되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "77",
+  "id": "0x801F307C",
+  "jh": "26388e324b90",
+  "eh": "c6a4c869bdbb",
+  "ko": "슬롯 1의 세이브 데이터가 손상되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "78",
+  "id": "0x801F3098",
+  "jh": "83821c943262",
+  "eh": "d222b0b99671",
+  "ko": "슬롯 2의 세이브 데이터가 손상되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "84",
+  "id": "0x801F3115",
+  "jh": "7cc448ceab3c",
+  "eh": "a6f66a0b0e57",
+  "ko": "슬롯 1에 세이브하지 못했습니다. 다시 시도해 주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "85",
+  "id": "0x801F3116",
+  "jh": "acbc1dc39b18",
+  "eh": "4529e7b897fc",
+  "ko": "슬롯 2에 세이브하지 못했습니다. 다시 시도해 주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "88",
+  "id": "0x801F3149",
+  "jh": "3c4350882c65",
+  "eh": "35274a9c9e4c",
+  "ko": "슬롯 1에서 로드하지 못했습니다. 다시 시도해 주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "89",
+  "id": "0x801F314A",
+  "jh": "45be6f216c0c",
+  "eh": "4f316ab16510",
+  "ko": "슬롯 2에서 로드하지 못했습니다. 다시 시도해 주세요.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "91",
+  "id": "0x801F3161",
+  "jh": "26388e324b90",
+  "eh": "c6a4c869bdbb",
+  "ko": "슬롯 1의 세이브 데이터가 손상되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "92",
+  "id": "0x801F3162",
+  "jh": "83821c943262",
+  "eh": "d222b0b99671",
+  "ko": "슬롯 2의 세이브 데이터가 손상되었습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "94",
+  "id": "0x801F3181",
+  "jh": "35f4362ee978",
+  "eh": "fb3ee625167c",
+  "ko": "슬롯 1에 세이브 데이터가 없습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "95",
+  "id": "0x801F3182",
+  "jh": "9865343cd26e",
+  "eh": "82e4a715b3c7",
+  "ko": "슬롯 2에 세이브 데이터가 없습니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "98",
+  "id": "0x801F46F0",
+  "jh": "e92881673234",
+  "eh": "3e8c31a9f930",
+  "ko": "현재 배치된 엘레멘트를\n그리드에서",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "99",
+  "id": "0x801F470A",
+  "jh": "e2f7a4b3ed81",
+  "eh": "519b6e27c3d7",
+  "ko": "\n모두 해제합니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "100",
+  "id": "0x801F4758",
+  "jh": "0dc7330252cd",
+  "eh": "6a649af9214f",
+  "ko": "선택한 엘레멘트를",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "101",
+  "id": "0x801F4772",
+  "jh": "c15401299878",
+  "eh": "b8caffc55ee1",
+  "ko": "그리드에서 해제합니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "102",
+  "id": "0x801F47C0",
+  "jh": "6b48faab4cdd",
+  "eh": "680e3a318cc6",
+  "ko": "모든 그리드를 가장",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "103",
+  "id": "0x801F47DA",
+  "jh": "a95f53e8a1ac",
+  "eh": "7c382a77c15a",
+  "ko": "효과적이라 생각되는",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "104",
+  "id": "0x801F47F4",
+  "jh": "c4c191bcedc9",
+  "eh": "65a37c49d9d7",
+  "ko": "엘레멘트로 바꿉니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "105",
+  "id": "0x801F4828",
+  "jh": "afcb944d7a9d",
+  "eh": "195c822462df",
+  "ko": "비어 있는 그리드를",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "106",
+  "id": "0x801F4842",
+  "jh": "fb2b0e242b5c",
+  "eh": "1abfb4a1bb65",
+  "ko": "가진 엘레멘트 중",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "107",
+  "id": "0x801F485C",
+  "jh": "71ce35eaa45c",
+  "eh": "68f35f82d0e2",
+  "ko": "유효한 것으로 채웁니다.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "108",
+  "id": "0x801F4890",
+  "jh": "74b4488e1ff0",
+  "eh": "235f04255e85",
+  "ko": "진행하시겠습니까?",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "109",
+  "id": "0x801F48C4",
+  "jh": "8ded0911247c",
+  "eh": "a058f659acf2",
+  "ko": "      예               아니요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "110",
+  "id": "0x801F48F8",
+  "jh": "b82392da617f",
+  "eh": "8737f095a001",
+  "ko": "만",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "111",
+  "id": "0x801F492C",
+  "jh": "a991f054fd18",
+  "eh": "a838151052ca",
+  "ko": "    파티 전원",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "112",
+  "id": "0x801F4960",
+  "jh": "b82392da617f",
+  "eh": "8737f095a001",
+  "ko": "만",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "113",
+  "id": "0x801F4994",
+  "jh": "a991f054fd18",
+  "eh": "a838151052ca",
+  "ko": "    파티 전원",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "114",
+  "id": "0x801F49C8",
+  "jh": "17f492e066db",
+  "eh": "4aca9e50e4fc",
+  "ko": "엘레멘트 정렬...",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "115",
+  "id": "0x801F49E2",
+  "jh": "0b30f60fab90",
+  "eh": "4d46c2fcd0e7",
+  "ko": "        선천 속성 색 우선",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "116",
+  "id": "0x801F49FC",
+  "jh": "2afedd2bf5a2",
+  "eh": "3b635878cf54",
+  "ko": "        공격계 우선",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "117",
+  "id": "0x801F4A16",
+  "jh": "51498746f2cf",
+  "eh": "5196bb4b1f5e",
+  "ko": "        회복·보조계 우선",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "118",
+  "id": "0x801F4A30",
+  "jh": "f22758bf8fa6",
+  "eh": "bc74f4f071a5",
+  "ko": "초록",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "119",
+  "id": "0x801F4A33",
+  "jh": "4a1ae3cda4be",
+  "eh": "528cef87d0bf",
+  "ko": "하양",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "120",
+  "id": "0x801F4A36",
+  "jh": "2c80764518ce",
+  "eh": "466bc8cef3e7",
+  "ko": "검정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "121",
+  "id": "0x801F4A39",
+  "jh": "72776ab68f81",
+  "eh": "78988010b890",
+  "ko": "빨강",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "122",
+  "id": "0x801F4A3C",
+  "jh": "7720f8ea0aba",
+  "eh": "96de5543d183",
+  "ko": "노랑",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "123",
+  "id": "0x801F4A3F",
+  "jh": "845d1da87f89",
+  "eh": "4c9a82ce72ca",
+  "ko": "파랑",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "124",
+  "id": "0x801F4A7C",
+  "jh": "389775ae84bd",
+  "eh": "b4e3efeba10e",
+  "ko": "사운드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "125",
+  "id": "0x801F4A8E",
+  "jh": "c77f009dc577",
+  "eh": "f4f390b6d363",
+  "ko": "스테레오",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "126",
+  "id": "0x801F4AA0",
+  "jh": "aa8b7fd47376",
+  "eh": "4155e5de1e40",
+  "ko": "모노",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "127",
+  "id": "0x801F4AB2",
+  "jh": "f1954f212061",
+  "eh": "1b7f197c1da4",
+  "ko": "윈도우 프레임",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "128",
+  "id": "0x801F4AC4",
+  "jh": "97da98f2bbf1",
+  "eh": "808d7dca8a74",
+  "ko": "기본",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "129",
+  "id": "0x801F4AD6",
+  "jh": "041455b7085f",
+  "eh": "081ae3fdc403",
+  "ko": "커스텀",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "130",
+  "id": "0x801F4AE8",
+  "jh": "c696f573e886",
+  "eh": "5a8442288db1",
+  "ko": "커서 위치",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "131",
+  "id": "0x801F4AFA",
+  "jh": "9a946c5bb5c5",
+  "eh": "808d7dca8a74",
+  "ko": "초기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "132",
+  "id": "0x801F4B0C",
+  "jh": "2831a4d17de1",
+  "eh": "ab3c162d42f3",
+  "ko": "기억",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "133",
+  "id": "0x801F4B1E",
+  "jh": "fa0ef23d6fe7",
+  "eh": "a615bdc140b9",
+  "ko": "공격 선택",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "134",
+  "id": "0x801F4B30",
+  "jh": "c21bd718afed",
+  "eh": "4e836fdc2572",
+  "ko": "수동",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "135",
+  "id": "0x801F4B42",
+  "jh": "cf9b0be8ddc9",
+  "eh": "c614ba7c453c",
+  "ko": "자동",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "136",
+  "id": "0x801F4B54",
+  "jh": "1d24bf061000",
+  "eh": "a36a5ffa6e0d",
+  "ko": "컨트롤러",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "137",
+  "id": "0x801F4B66",
+  "jh": "4227307ca9de",
+  "eh": "808d7dca8a74",
+  "ko": "기본",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "138",
+  "id": "0x801F4B78",
+  "jh": "79779ccf9acd",
+  "eh": "081ae3fdc403",
+  "ko": "커스텀",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "139",
+  "id": "0x801F4B8A",
+  "jh": "6fda01f76d5b",
+  "eh": "249a94113127",
+  "ko": "진동 기능",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "141",
+  "id": "0x801F4BAE",
+  "jh": "ad50489054dd",
+  "eh": "e3de5ab0ca4c",
+  "ko": "끔",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "142",
+  "id": "0x801F4BC0",
+  "jh": "387d7a59dbaa",
+  "eh": "e0049a66519c",
+  "ko": "켬",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "143",
+  "id": "0x801F4BD2",
+  "jh": "ef7eccad883d",
+  "eh": "6a3437aa2f33",
+  "ko": "누름",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "144",
+  "id": "0x801F4BE4",
+  "jh": "d8b32a6fe7fa",
+  "eh": "b1b392607dea",
+  "ko": "달리기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "145",
+  "id": "0x801F4BF6",
+  "jh": "661cf28cf5e9",
+  "eh": "e0c705d18e3f",
+  "ko": "걷기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "146",
+  "id": "0x801F4C08",
+  "jh": "dad11ab00914",
+  "eh": "4fe5694b1e75",
+  "ko": "왼쪽 스틱 감도",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "148",
+  "id": "0x801F4C2C",
+  "jh": "39a1bf18f388",
+  "eh": "bbe5befacfed",
+  "ko": "디지털",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "149",
+  "id": "0x801F4C3E",
+  "jh": "dd6c93b311c2",
+  "eh": "830bf70f56c5",
+  "ko": "아날로그",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "153",
+  "id": "0x801F4C86",
+  "jh": "d19d6c537dac",
+  "eh": "9905baaa466e",
+  "ko": "오른쪽 스틱 감도",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "154",
+  "id": "0x801F4C98",
+  "jh": "56021ff9964e",
+  "eh": "92b7e3ae862f",
+  "ko": "필드 화면 조작 버튼 설정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "155",
+  "id": "0x801F4CAA",
+  "jh": "6eb294f9cbaf",
+  "eh": "1a2285d8881f",
+  "ko": "변경 종료",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "156",
+  "id": "0x801F4CBC",
+  "jh": "973b47304629",
+  "eh": "808d7dca8a74",
+  "ko": "초기 상태",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "157",
+  "id": "0x801F4CCE",
+  "jh": "02306961b1f7",
+  "eh": "b646fdbae32e",
+  "ko": "왼쪽 스틱",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "158",
+  "id": "0x801F4CE0",
+  "jh": "36ada6c02299",
+  "eh": "3c4090a35bb1",
+  "ko": "오른쪽 스틱 ",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "159",
+  "id": "0x801F4CF2",
+  "jh": "1eb17449c05a",
+  "eh": "482364017f2f",
+  "ko": "결정/대화",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "160",
+  "id": "0x801F4D04",
+  "jh": "5d42a001a5cd",
+  "eh": "72a98537c098",
+  "ko": "중요 아이템 창 열기/닫기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "161",
+  "id": "0x801F4D16",
+  "jh": "8f99b5f7c588",
+  "eh": "487df3555a69",
+  "ko": "메뉴 화면 열기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "162",
+  "id": "0x801F4D28",
+  "jh": "13cec83596e0",
+  "eh": "4136979d06ff",
+  "ko": "미사용",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "163",
+  "id": "0x801F4D3A",
+  "jh": "1de839884827",
+  "eh": "65ea320b8386",
+  "ko": "제자리에서 방향 전환",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "164",
+  "id": "0x801F4D4C",
+  "jh": "5f91e58477d3",
+  "eh": "9756919c0c53",
+  "ko": "달리기/취소",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "165",
+  "id": "0x801F4D5E",
+  "jh": "951a119d57fd",
+  "eh": "38ab7f35ca7c",
+  "ko": "걷기/취소",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "166",
+  "id": "0x801F4D70",
+  "jh": "ce00a1d8b051",
+  "eh": "4303d99b294e",
+  "ko": "걷기/선택",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "167",
+  "id": "0x801F4D82",
+  "jh": "7ede1fa78e00",
+  "eh": "aa4afa58f9b0",
+  "ko": "달리기/선택",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "168",
+  "id": "0x801F4D94",
+  "jh": "ee5039f86ea9",
+  "eh": "f898476442c6",
+  "ko": "전투 조작 버튼 설정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "169",
+  "id": "0x801F4DA6",
+  "jh": "0f8e5b4de960",
+  "eh": "04a212215ef9",
+  "ko": "결정",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "170",
+  "id": "0x801F4DB8",
+  "jh": "269b0f92e460",
+  "eh": "77dfd2135f4d",
+  "ko": "취소",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "171",
+  "id": "0x801F4DCA",
+  "jh": "aff4309e3333",
+  "eh": "cd1b8b57b359",
+  "ko": "조작 캐릭터 변경 ",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "172",
+  "id": "0x801F4DDC",
+  "jh": "64fe3ca511f1",
+  "eh": "a76643561341",
+  "ko": "(={ButtonRight})",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "173",
+  "id": "0x801F4DEE",
+  "jh": "23a62a18a8d6",
+  "eh": "09d326477aed",
+  "ko": "(={ButtonLeft})",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "174",
+  "id": "0x801F4E00",
+  "jh": "e21bd6f188ed",
+  "eh": "22af27a45993",
+  "ko": "시점 변경(대상 선택 시)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "176",
+  "id": "0x801F4E24",
+  "jh": "b9fa67abcaf9",
+  "eh": "8598222918d3",
+  "ko": "선택",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "177",
+  "id": "0x801F4E36",
+  "jh": "5fba7e2b0805",
+  "eh": "2291012298b4",
+  "ko": "슬로 재생",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "178",
+  "id": "0x801F4E48",
+  "jh": "8f4e5ca7353c",
+  "eh": "bbff746d4e5e",
+  "ko": "빨리 감기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "180",
+  "id": "0x801F4E6C",
+  "jh": "f30e200dda7a",
+  "eh": "a1aa40009f36",
+  "ko": "({Button1}과 같은 기능)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "181",
+  "id": "0x801F4E7E",
+  "jh": "98c04056734c",
+  "eh": "ab3f29a544d9",
+  "ko": "({Button2}와 같은 기능)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "183",
+  "id": "0x801F4EA4",
+  "jh": "a335cee06cb8",
+  "eh": "a95f92740b3c",
+  "ko": "아르니안 우드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "184",
+  "id": "0x801F4EB8",
+  "jh": "bacd13b5e36e",
+  "eh": "4896350aa922",
+  "ko": "심플 라인",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "185",
+  "id": "0x801F4ECC",
+  "jh": "a0d19d4b6633",
+  "eh": "55e801fff310",
+  "ko": "셸피시",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "186",
+  "id": "0x801F4EE0",
+  "jh": "9f00726fa1a2",
+  "eh": "bba621191c5d",
+  "ko": "메멘토의 숲",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "187",
+  "id": "0x801F4EF4",
+  "jh": "419a04462a0e",
+  "eh": "b58e05c81551",
+  "ko": "남국 날씨",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "188",
+  "id": "0x801F4F08",
+  "jh": "07391ec2ee84",
+  "eh": "07a0fd86bb25",
+  "ko": "스네이크 오브",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "189",
+  "id": "0x801F4F1C",
+  "jh": "038c9fcb8cd7",
+  "eh": "cf9b1bf79909",
+  "ko": "  파레폴리 스팀",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "190",
+  "id": "0x801F4F30",
+  "jh": "a5cd8af27811",
+  "eh": "be851e164d58",
+  "ko": "발렌시아 클로스",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "191",
+  "id": "0x801F4F44",
+  "jh": "86800b867f5e",
+  "eh": "7ea565531871",
+  "ko": "트래블 찬스",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "192",
+  "id": "0x801F4F58",
+  "jh": "1b4803182b01",
+  "eh": "1025295c0dad",
+  "ko": "아이언 플레이트",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "193",
+  "id": "0x801F4F6C",
+  "jh": "98604ac34a2d",
+  "eh": "b997215cf6af",
+  "ko": "몬스터 마우스",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "194",
+  "id": "0x801F4F80",
+  "jh": "667fa81b49b3",
+  "eh": "8669f271c953",
+  "ko": "레드 비전",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "195",
+  "id": "0x801F4F94",
+  "jh": "1aaa648ea5e3",
+  "eh": "00ac8fd3727a",
+  "ko": "티 포 스리",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "196",
+  "id": "0x801F4FA8",
+  "jh": "dfaacfd9d35d",
+  "eh": "a66f5ac1c207",
+  "ko": "별의 선물",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "197",
+  "id": "0x801F4FBC",
+  "jh": "85a7f8e0b2db",
+  "eh": "7fce512d90b6",
+  "ko": "갈도비아 스티치",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "201",
+  "id": "0x801e8e18",
+  "jh": "9799e974064e",
+  "eh": "904d89cbbcde",
+  "ko": " 커스텀 윈도우",
+  "status": "draft",
+  "note": ""
+ }
+]

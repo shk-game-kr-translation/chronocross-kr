@@ -1,0 +1,2002 @@
+[
+ {
+  "k": "249:3",
+  "jh": "3b9830be9b77",
+  "eh": "a5b1cf2726e7",
+  "ko": "인간들이 물을 깨끗하게\\n지키던 생태계를 망쳤다.{wait(15)}\\n그래서 히드라가 죽었다.{bpage}\\n숲의 주인이 죽었으니\\n드워프들도 다 떠났다!\\n이 숲은 이제 우리 거다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:4",
+  "jh": "ca3f54a46d02",
+  "eh": "d942c40a2b92",
+  "ko": "{PARTY1%}:\\n{speed(80)}……{wait(20)}\\n{color(GRAY)}(저 둘이 무슨\\n 얘기를 하는 거지……?){color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:5",
+  "jh": "0b2f1dae1d68",
+  "eh": "2ec85d8546a9",
+  "ko": "{PARTY2%}:\\n{speed(80)}……{wait(20)}\\n{color(GRAY)}(저 둘이 무슨\\n 얘기를 하는 거지……?){color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:6",
+  "jh": "49ef5ec4fa99",
+  "eh": "f9f854af5cac",
+  "ko": "{PARTY0%}:\\n{speed(80)}……{wait(20)}\\n{color(GRAY)}(저 둘이 무슨\\n 얘기를 하는 거지……?){color(0)}{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:7",
+  "jh": "3143590b2a80",
+  "eh": "eb857149c66a",
+  "ko": "뭘 보냐?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:8",
+  "jh": "ef0933859aa2",
+  "eh": "f8be3cee5342",
+  "ko": "독 늪을 뚫고 여기까지\\n오다니 제법이다……\\n하지만 여긴 아무것도 없다.{wait(20)}\\n꺼져라! 눈에 거슬린다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:9",
+  "jh": "022bd60750fa",
+  "eh": "76f93a0be55b",
+  "ko": "아니, 잠깐……\\n독 때문에 꽤\\n약해졌을 거다……{wait(15)}\\n갖고 놀아 주자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:10",
+  "jh": "0c8e09fd311f",
+  "eh": "48ed85badaae",
+  "ko": "{speed(88)}크하하하!!!{wait(20)}\\n나쁘지 않은 생각이다.\\n박살 내 주자!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:11",
+  "jh": "fe3caf474503",
+  "eh": "1c005ab7010c",
+  "ko": "더…… 더……!{wait(15)}\\n너희가 죽을 때까지\\n계속 놀자!\\n{speed(88)}크하하하!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:12",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:13",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:14",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:15",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:16",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:17",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "249:18",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:0",
+  "jh": "f0d012a8859b",
+  "eh": "02e480d8e451",
+  "ko": "{speed(255)}세계의 배꼽{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:1",
+  "jh": "1875dbdc297f",
+  "eh": "3d4a41b25168",
+  "ko": "{speed(255)}히드라 늪\\n상공{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:2",
+  "jh": "ff10e1a6f175",
+  "eh": "baf4901d58d3",
+  "ko": "{speed(255)} 마블\\n- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:3",
+  "jh": "75c8741cdfab",
+  "eh": "fc52206e7562",
+  "ko": "{speed(255)}은자의 오두막\\n　   - 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:4",
+  "jh": "a5d6f5e1d4a7",
+  "eh": "0cd0dda1dece",
+  "ko": "{speed(255)}망자의 섬\\n　　- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:5",
+  "jh": "d032fa56a1d7",
+  "eh": "a81a9e591204",
+  "ko": "{speed(255)}토룡의 섬\\n　　- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:6",
+  "jh": "da236416bef8",
+  "eh": "9d3680c86c9a",
+  "ko": "{speed(255)}수룡의 섬\\n　　- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:7",
+  "jh": "02bc01f27ebb",
+  "eh": "767c408b8b93",
+  "ko": "{speed(255)}천룡의 섬\\n    - 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:8",
+  "jh": "5cd056d506e4",
+  "eh": "63ac2e3f1994",
+  "ko": "{speed(255)}아르니 마을{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:9",
+  "jh": "380822342183",
+  "eh": "9c9ec193fcb9",
+  "ko": "{speed(255)}테르미나{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:10",
+  "jh": "41d93df00cee",
+  "eh": "7876073f37a0",
+  "ko": "{speed(255)}갈도브{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:11",
+  "jh": "b39ea49405a1",
+  "eh": "83b19efe0efb",
+  "ko": "{speed(255)}   해상 환락가\\n- 젤베스 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:12",
+  "jh": "f1d532065be2",
+  "eh": "f73678bbee74",
+  "ko": "{speed(255)}사골관\\n     절벽{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:13",
+  "jh": "81725b53ea0b",
+  "eh": "6b8a56531bea",
+  "ko": "{speed(255)}고룡의 해안{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:14",
+  "jh": "6cfa90f1b255",
+  "eh": "6d442763a73a",
+  "ko": "{speed(255)}엘니도 트라이앵글{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:15",
+  "jh": "183eb0413b49",
+  "eh": "3f3864f0e70e",
+  "ko": "{speed(255)}사해 유적{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:16",
+  "jh": "472b12a30ace",
+  "eh": "2896ff6a7f5a",
+  "ko": "{speed(255)}죽음의 문{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:17",
+  "jh": "70aecd99ae10",
+  "eh": "e8ae7e249c64",
+  "ko": "{speed(255)}마블{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:18",
+  "jh": "e46cdc0487b8",
+  "eh": "e0a3113f9320",
+  "ko": "{speed(255)}은자의 오두막{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:19",
+  "jh": "61488f7a03a2",
+  "eh": "ee9048ba6402",
+  "ko": "{speed(255)}망자의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:20",
+  "jh": "e45ba8e8105b",
+  "eh": "c38c6b7ad310",
+  "ko": "{speed(255)}토룡의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:21",
+  "jh": "f2112741c7ad",
+  "eh": "40b1294ac32b",
+  "ko": "{speed(255)}수룡의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:22",
+  "jh": "8087a92a6d32",
+  "eh": "f8e210e85007",
+  "ko": "{speed(255)}천룡의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:23",
+  "jh": "ec752aaeb633",
+  "eh": "e8c239cceb04",
+  "ko": "{speed(255)}{color(2)}차원의 틈새{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:24",
+  "jh": "5971486371d0",
+  "eh": "48a07f2382f3",
+  "ko": "{speed(255)}{color(2)}외딴 작은 섬{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:25",
+  "jh": "aaeadea017d6",
+  "eh": "b51a6c4b0c47",
+  "ko": "{speed(255)}{color(3)}세계의 배꼽{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "250:26",
+  "jh": "c6f2d34b1f88",
+  "eh": "2edbfccf1832",
+  "ko": "{speed(255)}{color(3)}사해{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:0",
+  "jh": "f0d012a8859b",
+  "eh": "02e480d8e451",
+  "ko": "{speed(255)}세계의 배꼽{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:1",
+  "jh": "1875dbdc297f",
+  "eh": "3d4a41b25168",
+  "ko": "{speed(255)}히드라 늪\\n상공{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:2",
+  "jh": "ff10e1a6f175",
+  "eh": "baf4901d58d3",
+  "ko": "{speed(255)} 마블\\n- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:3",
+  "jh": "75c8741cdfab",
+  "eh": "fc52206e7562",
+  "ko": "{speed(255)}은자의 오두막\\n　   - 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:4",
+  "jh": "a5d6f5e1d4a7",
+  "eh": "0cd0dda1dece",
+  "ko": "{speed(255)}망자의 섬\\n　　- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:5",
+  "jh": "d032fa56a1d7",
+  "eh": "a81a9e591204",
+  "ko": "{speed(255)}토룡의 섬\\n　　- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:6",
+  "jh": "da236416bef8",
+  "eh": "9d3680c86c9a",
+  "ko": "{speed(255)}수룡의 섬\\n　　- 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:7",
+  "jh": "02bc01f27ebb",
+  "eh": "e7da20d178f6",
+  "ko": "{speed(255)}천룡의 섬\\n　 - 해안 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:8",
+  "jh": "c8e79c767410",
+  "eh": "db0a17a88eec",
+  "ko": "짙은 안개 때문에\\n앞이 거의 안 보인다……{wait(15)}\\n　　　일단 돌아간다\\n　　　안개 속으로 들어간다{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:9",
+  "jh": "5cd056d506e4",
+  "eh": "63ac2e3f1994",
+  "ko": "{speed(255)}아르니 마을{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:10",
+  "jh": "380822342183",
+  "eh": "9c9ec193fcb9",
+  "ko": "{speed(255)}테르미나{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:11",
+  "jh": "41d93df00cee",
+  "eh": "7876073f37a0",
+  "ko": "{speed(255)}갈도브{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:12",
+  "jh": "f1d532065be2",
+  "eh": "3e75c1c9b11a",
+  "ko": "{speed(255)}사골관\\n　 절벽{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:13",
+  "jh": "81725b53ea0b",
+  "eh": "6b8a56531bea",
+  "ko": "{speed(255)}고룡의 해안{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:14",
+  "jh": "6cfa90f1b255",
+  "eh": "6d442763a73a",
+  "ko": "{speed(255)}엘니도 트라이앵글{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:15",
+  "jh": "117f816a3095",
+  "eh": "3f3864f0e70e",
+  "ko": "{speed(255)}사해 유적{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:16",
+  "jh": "34ba05ca55fe",
+  "eh": "3230fde7ec53",
+  "ko": "{speed(255)}　 해적선\\n- 천하무적호 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:17",
+  "jh": "f0ca1c386bc3",
+  "eh": "b71fe9d70c3c",
+  "ko": "{speed(255)}{color(3)} 별의 탑\\n- 재생 -{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:18",
+  "jh": "7c773fc7596d",
+  "eh": "c5b2f2d0f755",
+  "ko": "{speed(255)}별의 탑{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:19",
+  "jh": "47d0018ec8c1",
+  "eh": "6825931af1d2",
+  "ko": "{speed(255)}{color(3)}별의 탑{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:20",
+  "jh": "70aecd99ae10",
+  "eh": "e8ae7e249c64",
+  "ko": "{speed(255)}마블{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:21",
+  "jh": "fd16b6c0c8a3",
+  "eh": "00cd329928fa",
+  "ko": "{speed(255)}    불타 버린\\n은자의 오두막{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:22",
+  "jh": "61488f7a03a2",
+  "eh": "ee9048ba6402",
+  "ko": "{speed(255)}망자의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:23",
+  "jh": "e45ba8e8105b",
+  "eh": "c38c6b7ad310",
+  "ko": "{speed(255)}토룡의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:24",
+  "jh": "f2112741c7ad",
+  "eh": "40b1294ac32b",
+  "ko": "{speed(255)}수룡의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:25",
+  "jh": "8087a92a6d32",
+  "eh": "f8e210e85007",
+  "ko": "{speed(255)}천룡의 섬{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:26",
+  "jh": "ec752aaeb633",
+  "eh": "e8c239cceb04",
+  "ko": "{speed(255)}{color(2)}차원의 틈새{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:27",
+  "jh": "5971486371d0",
+  "eh": "48a07f2382f3",
+  "ko": "{speed(255)}{color(2)}외딴 작은 섬{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:28",
+  "jh": "aaeadea017d6",
+  "eh": "b51a6c4b0c47",
+  "ko": "{speed(255)}{color(3)}세계의 배꼽{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "251:29",
+  "jh": "19c3b2cb4a47",
+  "eh": "8df1bf1d0fbf",
+  "ko": "{speed(255)}{color(3)}신의 정원{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:0",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:1",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:2",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:3",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:4",
+  "jh": "5cd056d506e4",
+  "eh": "63ac2e3f1994",
+  "ko": "{speed(255)}아르니 마을{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:5",
+  "jh": "54e121f5b40b",
+  "eh": "8c5ae94c7e60",
+  "ko": "{speed(255)}울부짖는 곶{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:6",
+  "jh": "e1009cda81d3",
+  "eh": "822e879e2900",
+  "ko": "{speed(255)}그림자숲{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:7",
+  "jh": "7433cf3fd490",
+  "eh": "72554fc641c4",
+  "ko": "{speed(255)}사골관{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:8",
+  "jh": "380822342183",
+  "eh": "9c9ec193fcb9",
+  "ko": "{speed(255)}테르미나{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:9",
+  "jh": "7e89fbd951d3",
+  "eh": "1950c9a8d46c",
+  "ko": "{speed(255)}오파사 해변{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:10",
+  "jh": "7119e2188ce5",
+  "eh": "a77aa3af04ad",
+  "ko": "{speed(255)}도마뱀 바위\\n - 북쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:11",
+  "jh": "db6c5f823410",
+  "eh": "5c02d56d1c13",
+  "ko": "{speed(255)}도마뱀 바위\\n - 남쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:12",
+  "jh": "e43aaba34246",
+  "eh": "2c6cd2123e9c",
+  "ko": "{speed(255)}화석 계곡\\n  - 북쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:13",
+  "jh": "f69b0951cd15",
+  "eh": "bc0cc2c755fe",
+  "ko": "{speed(255)}화석 계곡\\n  - 남쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:14",
+  "jh": "942b61752762",
+  "eh": "7fb1bf88f3c3",
+  "ko": "{speed(255)}사염산\\n  - 동쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:15",
+  "jh": "dcd379f1f408",
+  "eh": "3c7cdc5d8d04",
+  "ko": "{speed(255)}사염산\\n  - 서쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:16",
+  "jh": "c47a7116dced",
+  "eh": "07bfe8eb553e",
+  "ko": "{speed(255)}히드라 늪{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:17",
+  "jh": "e25c45cc7797",
+  "eh": "0f0c936ad4cb",
+  "ko": "{speed(255)}고룡의 요새{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "252:18",
+  "jh": "7fec68cb4397",
+  "eh": "7572ae4e1cd4",
+  "ko": "{speed(255)}{color(2)}용신의 폭포{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:0",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:1",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:2",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:3",
+  "jh": "04ed088fef03",
+  "eh": "d73782ba0682",
+  "ko": "{speed(160)}보트에 탈까?{wait(15)}\\n　　　응\\n　　　아니{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:4",
+  "jh": "5cd056d506e4",
+  "eh": "63ac2e3f1994",
+  "ko": "{speed(255)}아르니 마을{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:5",
+  "jh": "54e121f5b40b",
+  "eh": "8c5ae94c7e60",
+  "ko": "{speed(255)}울부짖는 곶{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:6",
+  "jh": "e1009cda81d3",
+  "eh": "822e879e2900",
+  "ko": "{speed(255)}그림자숲{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:7",
+  "jh": "7433cf3fd490",
+  "eh": "72554fc641c4",
+  "ko": "{speed(255)}사골관{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:8",
+  "jh": "380822342183",
+  "eh": "9c9ec193fcb9",
+  "ko": "{speed(255)}테르미나{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:9",
+  "jh": "7e89fbd951d3",
+  "eh": "1950c9a8d46c",
+  "ko": "{speed(255)}오파사 해변{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:10",
+  "jh": "7119e2188ce5",
+  "eh": "a77aa3af04ad",
+  "ko": "{speed(255)}도마뱀 바위\\n - 북쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:11",
+  "jh": "db6c5f823410",
+  "eh": "5c02d56d1c13",
+  "ko": "{speed(255)}도마뱀 바위\\n - 남쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:12",
+  "jh": "e43aaba34246",
+  "eh": "2c6cd2123e9c",
+  "ko": "{speed(255)}화석 계곡\\n  - 북쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:13",
+  "jh": "f69b0951cd15",
+  "eh": "bc0cc2c755fe",
+  "ko": "{speed(255)}화석 계곡\\n  - 남쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:14",
+  "jh": "942b61752762",
+  "eh": "7fb1bf88f3c3",
+  "ko": "{speed(255)}사염산\\n  - 동쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:15",
+  "jh": "dcd379f1f408",
+  "eh": "3c7cdc5d8d04",
+  "ko": "{speed(255)}사염산\\n  - 서쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:16",
+  "jh": "c47a7116dced",
+  "eh": "07bfe8eb553e",
+  "ko": "{speed(255)}히드라 늪{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:17",
+  "jh": "e25c45cc7797",
+  "eh": "0f0c936ad4cb",
+  "ko": "{speed(255)}고룡의 요새{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "253:18",
+  "jh": "7fec68cb4397",
+  "eh": "7572ae4e1cd4",
+  "ko": "{speed(255)}{color(2)}용신의 폭포{color(0)}{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:0",
+  "jh": "472b12a30ace",
+  "eh": "2896ff6a7f5a",
+  "ko": "{speed(255)}죽음의 문{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:1",
+  "jh": "5e44a791caf4",
+  "eh": "b0bce4115a3f",
+  "ko": "{speed(255)}하이웨이 폐허\\n   - 남쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:2",
+  "jh": "65a790bfa1ab",
+  "eh": "32b3260a7793",
+  "ko": "{speed(255)}하이웨이 폐허\\n   - 북쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:3",
+  "jh": "be93ad9f4be6",
+  "eh": "f482ed859cc6",
+  "ko": "{speed(255)}도시 폐허\\n- 북쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:4",
+  "jh": "dbba4286093a",
+  "eh": "81e8be9906e9",
+  "ko": "{speed(255)}도시 폐허\\n- 남쪽 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:5",
+  "jh": "a6c82f9e2096",
+  "eh": "8b07362ed28c",
+  "ko": "{speed(255)}멸망의 탑{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:6",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:7",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:8",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:9",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:10",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:11",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:12",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:13",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:14",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:15",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:16",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:17",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:18",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:19",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:20",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:21",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:22",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:23",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:24",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:25",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:26",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:27",
+  "jh": "e831ea095d0f",
+  "eh": "1b6482cc5ecb",
+  "ko": "속은 텅 비었다……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:28",
+  "jh": "dd03eecb15df",
+  "eh": "e91f759e6713",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:29",
+  "jh": "8532b7745af7",
+  "eh": "773fbcdfeccc",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:30",
+  "jh": "86a5560204c5",
+  "eh": "f4e3321aaa6a",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 더 이상 가질 수 없어\\n포기했다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:31",
+  "jh": "13ffc0bc23f8",
+  "eh": "176a8a30a6ab",
+  "ko": "{PARTY0%}은(는)\\n{color(2)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:32",
+  "jh": "9bb85ef5273e",
+  "eh": "5722a84a6676",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "254:33",
+  "jh": "3b2b5d38eb48",
+  "eh": "95b84c015b1f",
+  "ko": "{PARTY0%}은(는)\\n{color(4)}{itemwork(3)}{color(0)}을(를) 발견했다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:0",
+  "jh": "a011f531c8e8",
+  "eh": "fdf54998ff44",
+  "ko": "{speed(255)}-현재-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:1",
+  "jh": "5144cad8ed44",
+  "eh": "14420df0015f",
+  "ko": "{speed(255)}-미래-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:2",
+  "jh": "c98eb3e6c306",
+  "eh": "7fbbb016e0cd",
+  "ko": "{speed(255)}-과거-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:3",
+  "jh": "f1373aaf427a",
+  "eh": "8ff1886c263f",
+  "ko": "{speed(255)}현재의 운명\\n  - 클로토 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:4",
+  "jh": "f89645a74f19",
+  "eh": "9738b0b603ba",
+  "ko": "{speed(255)}미래의 운명\\n- 라케시스 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:5",
+  "jh": "a5e73905b3f8",
+  "eh": "f6200f87fa00",
+  "ko": "{speed(255)}  과거의 운명\\n- 아트로포스 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:6",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:7",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "255:8",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:0",
+  "jh": "a0fc15b3c4e4",
+  "eh": "9c623a974f39",
+  "ko": "{RADIUS%}:\\n설마 이게 정말……?\\n전설의 검……\\n그랜드리온!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:1",
+  "jh": "a2a403629be4",
+  "eh": "dd551fbb6353",
+  "ko": "{RADIUS%}:\\n이게……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:2",
+  "jh": "973f66233639",
+  "eh": "2ece881c0346",
+  "ko": "{RADIUS%}:\\n뭐가 이상하다는 거야?\\n전설의 검이라고!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:3",
+  "jh": "58f84abd86ab",
+  "eh": "372878ff7bcb",
+  "ko": "{RADIUS%}:\\n봐, 가라이……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:4",
+  "jh": "0c7d16f816ce",
+  "eh": "76a660cd9835",
+  "ko": "{RADIUS%}:\\n하나도 무서울 거\\n없잖아!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:5",
+  "jh": "62e8ba8f63db",
+  "eh": "4806ba31fa6a",
+  "ko": "{RADIUS%}:\\n아아……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:6",
+  "jh": "37d532118db5",
+  "eh": "530cb2d50364",
+  "ko": "가라이:\\n그만둬!\\n뭔가……{wait(5)}\\n이상해.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:7",
+  "jh": "64c8e7755673",
+  "eh": "b630f599352d",
+  "ko": "가라이:\\n안 돼!\\n건드리지 마!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "256:8",
+  "jh": "31488ebe2cb7",
+  "eh": "d2940965dd9a",
+  "ko": "가라이:\\n……\\n흠, 기분 탓인가.{bpage}\\n가자, {RADIUS%}!\\n이런 으스스한 곳에서\\n꾸물댈 필요 없어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:0",
+  "jh": "2e7ed30af519",
+  "eh": "98e87a3ef2fc",
+  "ko": "이 동굴 안쪽 제단은\\n용의 눈물을 모시려고\\n만든 것 같군.{bpage}\\n그런데 이상한 건\\n이 땅에 용의 눈물은\\n하나뿐이어야 한다는 거야……{bpage}\\n그런데 받침대는\\n두 개라니!\\n대체 무슨 뜻일까.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:1",
+  "jh": "8b22d267a4be",
+  "eh": "565bc4aefb1a",
+  "ko": "여긴 소름 끼치는\\n곳이야!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:2",
+  "jh": "9944bcb249ec",
+  "eh": "2dfa972057fb",
+  "ko": "옛 전승에 따르면\\n용인들은 “파워 스폿”이라는\\n특별한 지형을 알고 있었대.{bpage}\\n그곳에서 별의\\n자연 에너지를 써서\\n엘레멘트를 만들었다고\\n하더라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:3",
+  "jh": "72328933613a",
+  "eh": "6934dd3027b6",
+  "ko": "대장님!\\n이제 집에 가요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:4",
+  "jh": "7cd152773980",
+  "eh": "bb7b1d25c16b",
+  "ko": "용의 눈물 조각이\\n받침대에 놓여 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:5",
+  "jh": "be0dedceda0b",
+  "eh": "6fc0c0309b70",
+  "ko": "무언가를 놓도록\\n만들어진 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:6",
+  "jh": "3da70e80b15d",
+  "eh": "ee884bc7cc82",
+  "ko": "{STEENA%}:\\n위대한 용신이시여!{wait(10)}\\n아직 제단을\\n쓸 수 없다니……{bpage}\\n어째서? 여섯 용신의\\n가호가 있을 텐데……\\n설마……{bpage}\\n그 전설이 사실이었나……?{wait(30)}\\n일곱 번째 용신과\\n일곱 번째 엘레멘트가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:7",
+  "jh": "3e7dc5e56623",
+  "eh": "b201a15d9fd4",
+  "ko": "{STEENA%}:\\n무엇을 하든 먼저\\n용의 눈물의 다른 조각이\\n필요합니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:8",
+  "jh": "aa27fa91e9ce",
+  "eh": "b201a15d9fd4",
+  "ko": "{STEENA%}:\\n무엇을 하든 먼저\\n용의 눈물의 다른 조각이\\n필요합니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:9",
+  "jh": "589cbe8e1638",
+  "eh": "0aed9309e26c",
+  "ko": "{STEENA%}:\\n때가 되면\\n이곳에서 엘레멘트를\\n만들 수 있을 겁니다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:10",
+  "jh": "f743b12a5cec",
+  "eh": "e460cadfe01e",
+  "ko": "아직은\\n할 수 없는 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:11",
+  "jh": "7cd152773980",
+  "eh": "bb7b1d25c16b",
+  "ko": "용의 눈물 조각이\\n받침대에 놓여 있다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:12",
+  "jh": "be0dedceda0b",
+  "eh": "6fc0c0309b70",
+  "ko": "무언가를 놓도록\\n만들어진 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:13",
+  "jh": "3da70e80b15d",
+  "eh": "ee884bc7cc82",
+  "ko": "{STEENA%}:\\n위대한 용신이시여!{wait(10)}\\n아직 제단을\\n쓸 수 없다니……{bpage}\\n어째서? 여섯 용신의\\n가호가 있을 텐데……\\n설마……{bpage}\\n그 전설이 사실이었나……?{wait(30)}\\n일곱 번째 용신과\\n일곱 번째 엘레멘트가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:14",
+  "jh": "3e7dc5e56623",
+  "eh": "b201a15d9fd4",
+  "ko": "{STEENA%}:\\n무엇을 하든 먼저\\n용의 눈물의 다른 조각이\\n필요합니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:15",
+  "jh": "aa27fa91e9ce",
+  "eh": "b201a15d9fd4",
+  "ko": "{STEENA%}:\\n무엇을 하든 먼저\\n용의 눈물의 다른 조각이\\n필요합니다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:16",
+  "jh": "589cbe8e1638",
+  "eh": "0aed9309e26c",
+  "ko": "{STEENA%}:\\n때가 되면\\n이곳에서 엘레멘트를\\n만들 수 있을 겁니다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:17",
+  "jh": "f743b12a5cec",
+  "eh": "e460cadfe01e",
+  "ko": "아직은\\n할 수 없는 것 같다.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:18",
+  "jh": "16c40f9aff3b",
+  "eh": "afc83125442d",
+  "ko": "{PARTY0%}은(는)\\n{color(3)}크로노 크로스{color(0)}를 손에 넣었다!{wend(240)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:19",
+  "jh": "dbe8b3c1245b",
+  "eh": "902a272c2ad8",
+  "ko": "{STEENA%}:\\n위대한\\n용신이시여!!!{bpage}\\n용신의 폭포의\\n성소가 아직\\n살아 있어요……\\n작동하는 것 같아요!{bpage}\\n옛 전설에\\n전해진\\n그대로예요!\\n이 무슨 축복인지!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:20",
+  "jh": "dbc268d1988c",
+  "eh": "50067abab33f",
+  "ko": "{STEENA%}:\\n이 힘을 쓰면 여기서\\n“크로노 크로스”를 만들 수\\n있을지도 모릅니다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:21",
+  "jh": "b5dfc70a464e",
+  "eh": "0509b6f26660",
+  "ko": "{STEENA%}:\\n용의 눈물의\\n두 조각……{bpage}\\n증오의 눈물과\\n사랑의 눈물을……\\n이 받침대에 올려 보세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:22",
+  "jh": "b3c856c1b618",
+  "eh": "3e25aee2967b",
+  "ko": "{STEENA%}:\\n용의 눈물 조각을\\n이 받침대에\\n올려 보세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:23",
+  "jh": "b3c856c1b618",
+  "eh": "3e25aee2967b",
+  "ko": "{STEENA%}:\\n용의 눈물 조각을\\n이 받침대에\\n올려 보세요.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "257:24",
+  "jh": "af1924c3f7e8",
+  "eh": "d5502c1ae025",
+  "ko": "{playwork(0)}:\\n여기가 용신을 섬기던\\n사람들의 제단이라면……{bpage}\\n{STEENA%}이(가)\\n뭔가 알지도\\n몰라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "258:0",
+  "jh": "062d9be91167",
+  "eh": "d173c8d79965",
+  "ko": "{speed(255)}월드 맵{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "258:1",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "258:2",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "258:3",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:0",
+  "jh": "a011f531c8e8",
+  "eh": "fdf54998ff44",
+  "ko": "{speed(255)}-현재-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:1",
+  "jh": "5144cad8ed44",
+  "eh": "14420df0015f",
+  "ko": "{speed(255)}-미래-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:2",
+  "jh": "c98eb3e6c306",
+  "eh": "7fbbb016e0cd",
+  "ko": "{speed(255)}-과거-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:3",
+  "jh": "cdb1c8b6a256",
+  "eh": "6773d25d227c",
+  "ko": "{speed(255)}-미래 유적-{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:4",
+  "jh": "f1373aaf427a",
+  "eh": "8ff1886c263f",
+  "ko": "{speed(255)}현재의 운명\\n  - 클로토 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:5",
+  "jh": "f89645a74f19",
+  "eh": "9738b0b603ba",
+  "ko": "{speed(255)}미래의 운명\\n- 라케시스 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:6",
+  "jh": "a5e73905b3f8",
+  "eh": "f6200f87fa00",
+  "ko": "{speed(255)}  과거의 운명\\n- 아트로포스 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:7",
+  "jh": "cb6faf6a88a4",
+  "eh": "ef9503779f6f",
+  "ko": "{speed(255)}시간 요새\\n- 크로노폴리스 -{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:8",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:9",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "259:10",
+  "jh": "92805a1b1c69",
+  "eh": "906027b12753",
+  "ko": "{speed(255)}운명의 흔들림{wend(255)}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:0",
+  "jh": "58f84abd86ab",
+  "eh": "213bb2815622",
+  "ko": "{RADIUS%}:\\n어이, 가라이……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:1",
+  "jh": "75b0bff91260",
+  "eh": "8c520f11a1f8",
+  "ko": "{RADIUS%}:\\n하하하하하!{bpage}\\n이제 내가 아카시아\\n용기사단 최고의\\n검사다!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:2",
+  "jh": "3bb9d427359a",
+  "eh": "6eba963218ce",
+  "ko": "{RADIUS%}:\\n해냈다, 해냈어!\\n내가 최고다!\\n하하하하하{wait(30)}……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:3",
+  "jh": "1771948bf07a",
+  "eh": "e1e01c67ea9a",
+  "ko": "{RADIUS%}:\\n어?\\n어떻게 된 거지?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:4",
+  "jh": "9be89c9e9c11",
+  "eh": "e52f77108f3c",
+  "ko": "{RADIUS%}:\\n아, 안 돼……\\n내가 무슨 짓을?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:5",
+  "jh": "5ade1e7cf902",
+  "eh": "fd1c123c051f",
+  "ko": "{RADIUS%}:\\n으아아아아아악!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:6",
+  "jh": "62e8ba8f63db",
+  "eh": "f9965511246a",
+  "ko": "{RADIUS%}:\\n알고 있네……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:7",
+  "jh": "d921c0d8e685",
+  "eh": "1d555732993a",
+  "ko": "가라이:\\n이런 곳에서 그랜드리온을\\n찾게 될 줄이야……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:8",
+  "jh": "0d678e243a51",
+  "eh": "c7f5e6882388",
+  "ko": "가라이:\\n음?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "260:9",
+  "jh": "41cb048c859a",
+  "eh": "18be378dd0fb",
+  "ko": "가라이:\\n크아아악……!?{bpage}\\n무, 무슨……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:0",
+  "jh": "c64538720abe",
+  "eh": "e22c6ad80eb0",
+  "ko": "옛날에 이 폭포는\\n용신 신앙을 믿는 이들에게\\n성스러운 곳이었어.{bpage}\\n그러다 인간들이 대거\\n이 섬들로 몰려오면서\\n우리는 변방으로\\n밀려났지.{bpage}\\n그렇게 문화가 바뀌면서\\n이런 곳의 영적인\\n의미도 금세\\n잊혀졌어.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:1",
+  "jh": "20a2531b1cfc",
+  "eh": "fd1399c40b4f",
+  "ko": "옛날엔 많은 친구들과\\n신자들이 여기로\\n참배하러 왔었지.{bpage}\\n축제 철엔 특히\\n북적거렸어.{wait(5)}\\n그때가 그리워……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:2",
+  "jh": "c744a403ac09",
+  "eh": "9468de40c728",
+  "ko": "안에는 딱히\\n눈에 띄는 게\\n없는 것 같군.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:3",
+  "jh": "b6f4ec05c34f",
+  "eh": "171a169f6be1",
+  "ko": "대자아앙님!\\n집에 가요!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:4",
+  "jh": "0772addcf6ec",
+  "eh": "b595fa491606",
+  "ko": "먼저 찾은 사람이 임자!\\n우리가 먼저 왔다고!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:5",
+  "jh": "d62315cf1f76",
+  "eh": "dd30e586715e",
+  "ko": "대자아앙님!\\n뭐 찾았어요?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "261:6",
+  "jh": "647d3d0a7e43",
+  "eh": "b547321b2472",
+  "ko": "조사가 끝날 때까지\\n들여보낼 수 없어!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:0",
+  "jh": "36ae5ba4c722",
+  "eh": "41812b74ab7b",
+  "ko": "{SERGE%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:1",
+  "jh": "36ae5ba4c722",
+  "eh": "41812b74ab7b",
+  "ko": "{SERGE%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:2",
+  "jh": "36ae5ba4c722",
+  "eh": "41812b74ab7b",
+  "ko": "{SERGE%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:3",
+  "jh": "e0264a509137",
+  "eh": "8c44895623ad",
+  "ko": "{KID%}:\\n어이! 이게 진짜\\n유령선이야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:4",
+  "jh": "3e9d627fee12",
+  "eh": "4e4ce81eed3d",
+  "ko": "{POSHUL%}:\\n유령선처럼\\n안 보이슈……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:5",
+  "jh": "89d0698a6a05",
+  "eh": "8a5164ba0d8b",
+  "ko": "{MOJO%}:\\n……\\n여기가 정말\\n유령선이다와라……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:6",
+  "jh": "31bc75ee0338",
+  "eh": "addc25e4d88a",
+  "ko": "{LEENA%}:\\n유령선 같지는\\n않은데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:7",
+  "jh": "a7889bd37d09",
+  "eh": "f016ab28acc7",
+  "ko": "{SKELLY%}:\\n유령은 처음\\n만나 봐요……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:8",
+  "jh": "dff33a774f48",
+  "eh": "838aa251a571",
+  "ko": "{PIERRE%}:\\n아, 위?\\n이게 정말\\n유령선이오?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:9",
+  "jh": "362f87b09bc1",
+  "eh": "011223cb0b7c",
+  "ko": "{NIKKI%}:\\n이게 정말\\n유령선이야……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:10",
+  "jh": "6ae46fd6c649",
+  "eh": "0245ccfc4421",
+  "ko": "{KORCHA%}:\\n이건 보통\\n유령선이 아닌데……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:11",
+  "jh": "554ca6feaff5",
+  "eh": "d0fbb43e45c2",
+  "ko": "{RAZZLY%}:\\n유령선은\\n처음 타 봐……\\n요정 무서워……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:12",
+  "jh": "13b5908edd2b",
+  "eh": "8be3d6b06e11",
+  "ko": "{MEL%}:\\n우와! 여기가\\n유령선이구나……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:13",
+  "jh": "afbf05859952",
+  "eh": "38c71e1c500f",
+  "ko": "{GRECO%}:\\n이게……\\n유령선인가,\\n아미고……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:14",
+  "jh": "c499e60e1ec1",
+  "eh": "250624c32399",
+  "ko": "{GUILE%}:\\n이건……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:15",
+  "jh": "d3625318801a",
+  "eh": "5c13c0202280",
+  "ko": "{GLENN%}:\\n이게 그 악명 높은\\n유령선인가……?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:16",
+  "jh": "b50cad438584",
+  "eh": "676a7d248a02",
+  "ko": "{MACHA%}:\\n이게 유령선이라는\\n거니?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:17",
+  "jh": "1d3d7f6b1a0c",
+  "eh": "6873917e8f05",
+  "ko": "{DOC%}:\\n이 배에서 사람이\\n사는 기척이 느껴지는군……{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:18",
+  "jh": "7ba76559ca29",
+  "eh": "818083018aee",
+  "ko": "{LUCCIA%}:\\n이게 유령선이라고?\\n……정말 비논리적이야.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:19",
+  "jh": "9e315d2602f8",
+  "eh": "4b46fca10278",
+  "ko": "{NEOFIO%}:\\n이게 정말\\n유령선이야?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:20",
+  "jh": "75dc5a6ec24a",
+  "eh": "4ffbe245b194",
+  "ko": "{LEENA%}:\\n너희는 누구야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:21",
+  "jh": "99b4cc5f9b40",
+  "eh": "5905caddf27d",
+  "ko": "{PARTY1%}:\\n너희는 누구야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:22",
+  "jh": "75dc5a6ec24a",
+  "eh": "4ffbe245b194",
+  "ko": "{LEENA%}:\\n너희는 누구야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:23",
+  "jh": "692521aeb8ed",
+  "eh": "1ddeed6835d8",
+  "ko": "{PARTY0%}:\\n너희는 누구야!?{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:24",
+  "jh": "7e77487c517d",
+  "eh": "3828973ce1bf",
+  "ko": "{PARTY1%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:25",
+  "jh": "ea63dacb6eb8",
+  "eh": "e4df224fce46",
+  "ko": "{PARTY2%}:\\n???{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:26",
+  "jh": "59f267f78766",
+  "eh": "36bd05773e81",
+  "ko": "{KID%}:\\n헛소리 마!\\n우린 그놈들 편이 아니야!\\n그놈들을 쫓고 있다고!{bpage}\\n방해하면 달까지\\n날아가게\\n걷어차 줄 테다!!!{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:27",
+  "jh": "42b9a0749437",
+  "eh": "07c1be3359dd",
+  "ko": "{POSHUL%}:\\n시치미 떼는 거\\n아니슈.{bpage}\\n무슨 소린지\\n하나도 모르겠슈.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:28",
+  "jh": "0d5b402fbe62",
+  "eh": "670454d0bd0b",
+  "ko": "{MOJO%}:\\n무슨 소리다와라?\\n우리는 그놈들을\\n쫓고 있다와라.{mend}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "262:29",
+  "jh": "23eeefbc18ff",
+  "eh": "fdbbce19574c",
+  "ko": "{LEENA%}:\\n아니, 아니, 오해야.\\n우리는 그놈들을 쫓고 있어.{bpage}\\n그놈들은 우리 적이야!\\n적{wait(20)}이라고!{mend}",
+  "status": "draft",
+  "note": ""
+ }
+]

@@ -1,0 +1,803 @@
+[
+ {
+  "k": "1",
+  "id": "Accessories",
+  "jh": "f3b50cd53cc4",
+  "eh": "f3b50cd53cc4",
+  "ko": "액세서리",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "2",
+  "id": "Armor",
+  "jh": "b1fc5d10fc8c",
+  "eh": "b1fc5d10fc8c",
+  "ko": "방어구",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "3",
+  "id": "Elements",
+  "jh": "a563972e807d",
+  "eh": "a563972e807d",
+  "ko": "엘레멘트",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "4",
+  "id": "Element Level",
+  "jh": "a90f3f3e8661",
+  "eh": "a90f3f3e8661",
+  "ko": "엘레멘트 레벨",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "5",
+  "id": "Key Items",
+  "jh": "ba5a9943f276",
+  "eh": "ba5a9943f276",
+  "ko": "중요 아이템",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "6",
+  "id": "PLAY",
+  "jh": "42c5cda0ffa5",
+  "eh": "6c82e6dd8680",
+  "ko": "시간",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "7",
+  "id": "Weapon",
+  "jh": "ead533685e26",
+  "eh": "f32d0645a833",
+  "ko": "무기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "9",
+  "id": "Profile",
+  "jh": "da39a3ee5e6b",
+  "eh": "ff4fc0276e96",
+  "ko": "프로필",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "10",
+  "id": "Customize",
+  "jh": "da39a3ee5e6b",
+  "eh": "239dce622324",
+  "ko": "커스터마이즈",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "11",
+  "id": "Controller",
+  "jh": "da39a3ee5e6b",
+  "eh": "a36a5ffa6e0d",
+  "ko": "컨트롤러",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "14",
+  "id": "process",
+  "jh": "da39a3ee5e6b",
+  "eh": "1b90271d66cf",
+  "ko": "진행도",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "15",
+  "id": "slot",
+  "jh": "da39a3ee5e6b",
+  "eh": "ece2ac10d726",
+  "ko": "슬롯",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "16",
+  "id": "File#",
+  "jh": "da39a3ee5e6b",
+  "eh": "1d72c5f7c011",
+  "ko": "파일#",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "18",
+  "id": "ＨＰ",
+  "jh": "c317455a1041",
+  "eh": "5200bdfc01a1",
+  "ko": "HP",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "19",
+  "id": "先天属性",
+  "jh": "4bb5cba2a768",
+  "eh": "e9484fdfe6d0",
+  "ko": "선천 속성",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "20",
+  "id": "腕力",
+  "jh": "61eecf369c91",
+  "eh": "33e2d3c3c155",
+  "ko": "완력",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "21",
+  "id": "正確さ",
+  "jh": "9acf1a065f01",
+  "eh": "b6981143dd82",
+  "ko": "정확",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "22",
+  "id": "魔力",
+  "jh": "97fe825844b9",
+  "eh": "7d0a7d4f8d5d",
+  "ko": "마력",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "23",
+  "id": "耐久力",
+  "jh": "77893f2e9f5c",
+  "eh": "6fbafe3f8f53",
+  "ko": "내구",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "24",
+  "id": "身軽さ",
+  "jh": "cd88e4e3fc7f",
+  "eh": "d4c058c0ba7f",
+  "ko": "민첩",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "25",
+  "id": "抗魔",
+  "jh": "cc2cf8a25da3",
+  "eh": "97a29fa8d57a",
+  "ko": "항마",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "26",
+  "id": "スタミナ回復力",
+  "jh": "1e5752e37601",
+  "eh": "d7ad10bb787a",
+  "ko": "스태미나 회복력",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "28",
+  "id": "攻撃力",
+  "jh": "60d9b0638dfe",
+  "eh": "960f7bdd477b",
+  "ko": "공격력",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "29",
+  "id": "命中率",
+  "jh": "9e59638e99aa",
+  "eh": "cea2423f324a",
+  "ko": "명중률",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "30",
+  "id": "防御力",
+  "jh": "2557c1078773",
+  "eh": "81b22c5afe57",
+  "ko": "방어력",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "31",
+  "id": "回避率",
+  "jh": "1dc56a54f360",
+  "eh": "46bb20e5cf0b",
+  "ko": "회피율",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "32",
+  "id": "魔法攻撃",
+  "jh": "67053223d0f9",
+  "eh": "43dc34fac501",
+  "ko": "마법 공격",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "33",
+  "id": "魔法防御",
+  "jh": "ea8524afde50",
+  "eh": "61556a097750",
+  "ko": "마법 방어",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "35",
+  "id": "毒",
+  "jh": "da39a3ee5e6b",
+  "eh": "6de0b0c65644",
+  "ko": "독",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "36",
+  "id": "やけど",
+  "jh": "da39a3ee5e6b",
+  "eh": "b1389325b4f4",
+  "ko": "화상",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "37",
+  "id": "ねんざ",
+  "jh": "da39a3ee5e6b",
+  "eh": "bccdca9c3b39",
+  "ko": "염좌",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "38",
+  "id": "風邪",
+  "jh": "da39a3ee5e6b",
+  "eh": "33372da1a79e",
+  "ko": "감기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "39",
+  "id": "臆病",
+  "jh": "da39a3ee5e6b",
+  "eh": "9409e30a8811",
+  "ko": "겁먹음",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "40",
+  "id": "混乱",
+  "jh": "da39a3ee5e6b",
+  "eh": "dcf37f4468c6",
+  "ko": "혼란",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "42",
+  "id": "過労",
+  "jh": "da39a3ee5e6b",
+  "eh": "8a2ec413b680",
+  "ko": "과로",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "43",
+  "id": "睡眠",
+  "jh": "da39a3ee5e6b",
+  "eh": "b9692bbecea9",
+  "ko": "수면",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "45",
+  "id": "暗闇",
+  "jh": "da39a3ee5e6b",
+  "eh": "33a95938e362",
+  "ko": "암흑",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "46",
+  "id": "呪い",
+  "jh": "da39a3ee5e6b",
+  "eh": "ec3cb0fdc488",
+  "ko": "저주",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "49",
+  "id": "めまい",
+  "jh": "da39a3ee5e6b",
+  "eh": "6b3844aac951",
+  "ko": "현기증",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "50",
+  "id": "凍結",
+  "jh": "da39a3ee5e6b",
+  "eh": "939f868537a1",
+  "ko": "동결",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "52",
+  "id": "セーブ",
+  "jh": "05c068672686",
+  "eh": "efc007a393f6",
+  "ko": "세이브",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "53",
+  "id": "ロード",
+  "jh": "c83820992b47",
+  "eh": "ddcb77ff769e",
+  "ko": "로드",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "55",
+  "id": "ならびかえ",
+  "jh": "da39a3ee5e6b",
+  "eh": "33d9978c4477",
+  "ko": "정렬",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "56",
+  "id": "ボタン",
+  "jh": "da39a3ee5e6b",
+  "eh": "794145f030ff",
+  "ko": "버튼",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "58",
+  "id": "：Ｔｉｌｔ",
+  "jh": "da39a3ee5e6b",
+  "eh": "5a143a9309ad",
+  "ko": ": 기울기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "59",
+  "id": "：Ｓｈｉｆｔ",
+  "jh": "da39a3ee5e6b",
+  "eh": "328931709907",
+  "ko": ": 시프트",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "60",
+  "id": "上下：Ｚｏｏｍ",
+  "jh": "56b67555ba2b",
+  "eh": "7c68c886088a",
+  "ko": "{ButtonUp}{ButtonDown}: 줌 인/아웃",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "62",
+  "id": "左右：回転",
+  "jh": "f857530a5b32",
+  "eh": "f1ebd3d8bcce",
+  "ko": "{ButtonLeft}{ButtonRight}: 회전",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "63",
+  "id": "＋　○ボタン",
+  "jh": "542b8ba39bf8",
+  "eh": "97bebe98ecb7",
+  "ko": "       +{Button1}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "64",
+  "id": "＋　×ボタン",
+  "jh": "38de2b00d7f8",
+  "eh": "8fec6e8b8141",
+  "ko": "       +{Button2}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "65",
+  "id": "＋　□ボタン",
+  "jh": "84d7862a5004",
+  "eh": "9ff08efce60a",
+  "ko": "       +{Button3}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "66",
+  "id": "＋　△ボタン",
+  "jh": "b8ea615c0bcb",
+  "eh": "881c4c761ced",
+  "ko": "       +{Button4}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "67",
+  "id": "＋Ｌ１ボタン",
+  "jh": "59ad9df878ac",
+  "eh": "4212cb09f5c5",
+  "ko": "       +{ButtonL1}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "68",
+  "id": "＋Ｒ１ボタン",
+  "jh": "1a4f5fedb85c",
+  "eh": "ac706953bb99",
+  "ko": "       +{ButtonR1}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "69",
+  "id": "＋Ｌ２ボタン",
+  "jh": "8cbe17e416b1",
+  "eh": "8192ae7fbe9e",
+  "ko": "       {ButtonUp}{ButtonDown}{ButtonLeft}{ButtonRight}+{ButtonL2}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "70",
+  "id": "＋Ｒ２ボタン",
+  "jh": "b83f6ee2ae72",
+  "eh": "30beea081d7d",
+  "ko": "       {ButtonUp}{ButtonDown}+{ButtonR2}",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "72",
+  "id": "攻撃",
+  "jh": "63d8f43c5bda",
+  "eh": "1b81f28b5afb",
+  "ko": "공격",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "73",
+  "id": "エレメント",
+  "jh": "cb48ea5fba97",
+  "eh": "49fa9fd83109",
+  "ko": "엘레멘트",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "74",
+  "id": "防御",
+  "jh": "2029e612c90d",
+  "eh": "da6bb78c4cbc",
+  "ko": "방어",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "75",
+  "id": "逃走",
+  "jh": "21bfadb8fc86",
+  "eh": "f48da6329f7f",
+  "ko": "도망",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "77",
+  "id": "弱－(　　％)",
+  "jh": "da39a3ee5e6b",
+  "eh": "9efe75c4aa3c",
+  "ko": "1 - (       %)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "78",
+  "id": "中－(　　％)",
+  "jh": "da39a3ee5e6b",
+  "eh": "857402c1c6d5",
+  "ko": "2 - (       %)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "79",
+  "id": "強－(　　％)",
+  "jh": "da39a3ee5e6b",
+  "eh": "dcfa6682c6f1",
+  "ko": "3 - (       %)",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "81",
+  "id": "味方全体",
+  "jh": "da39a3ee5e6b",
+  "eh": "fc1da938ab27",
+  "ko": "아군 전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "82",
+  "id": "敵全体",
+  "jh": "da39a3ee5e6b",
+  "eh": "d83abb6c087e",
+  "ko": "적 전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "83",
+  "id": "敵・味方全体",
+  "jh": "da39a3ee5e6b",
+  "eh": "a0d0333471e7",
+  "ko": "적/아군 전체",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "85",
+  "id": "Lv",
+  "jh": "da39a3ee5e6b",
+  "eh": "1aa6e8ca6610",
+  "ko": "Lv",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "86",
+  "id": "Sta.",
+  "jh": "da39a3ee5e6b",
+  "eh": "67e78ed06020",
+  "ko": "Sta.",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "87",
+  "id": "Out.－",
+  "jh": "da39a3ee5e6b",
+  "eh": "bebc606a99db",
+  "ko": "Out.-",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "90",
+  "id": "属性:",
+  "jh": "da39a3ee5e6b",
+  "eh": "9d35e51a952d",
+  "ko": "속성:",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "91",
+  "id": "獲得",
+  "jh": "1118395e7ec2",
+  "eh": "27548c4fc95d",
+  "ko": "획득",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "93",
+  "id": "FiELD EFFECT",
+  "jh": "da39a3ee5e6b",
+  "eh": "4c9a1f2dd026",
+  "ko": "FIELD EFFECT",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "94",
+  "id": "NORMAL",
+  "jh": "da39a3ee5e6b",
+  "eh": "21b3708ac898",
+  "ko": "NORMAL",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "95",
+  "id": "DYNAMIC",
+  "jh": "da39a3ee5e6b",
+  "eh": "24632adfe3f6",
+  "ko": "DYNAMIC",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "97",
+  "id": "買う",
+  "jh": "3dcc92b12e28",
+  "eh": "7ceca51fcafe",
+  "ko": "산다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "98",
+  "id": "売る",
+  "jh": "e2952d33ea3a",
+  "eh": "fa3cf2ad51e0",
+  "ko": "판다",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "99",
+  "id": "鍛造",
+  "jh": "18bf9e1fff20",
+  "eh": "3ab11b75ca36",
+  "ko": "단조",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "100",
+  "id": "分解",
+  "jh": "2792e981f6de",
+  "eh": "f96ef8437bb0",
+  "ko": "분해",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "101",
+  "id": "下取り",
+  "jh": "62fdf92bde34",
+  "eh": "fa3cf2ad51e0",
+  "ko": "매각",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "102",
+  "id": "武器",
+  "jh": "6f0f16e0c098",
+  "eh": "f32d0645a833",
+  "ko": "무기",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "103",
+  "id": "防具",
+  "jh": "e4f78202de44",
+  "eh": "b1fc5d10fc8c",
+  "ko": "방어구",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "104",
+  "id": "アクセサリー",
+  "jh": "56301c76c130",
+  "eh": "f3b50cd53cc4",
+  "ko": "액세서리",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "106",
+  "id": "ELEMENT TRAP",
+  "jh": "e0ee7da51926",
+  "eh": "e0ee7da51926",
+  "ko": "ELEMENT TRAP",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "107",
+  "id": "PLAYER-",
+  "jh": "cc2a2cf8b82a",
+  "eh": "cc2a2cf8b82a",
+  "ko": "PLAYER-",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "108",
+  "id": "ENEMY-",
+  "jh": "6a6b1d7be727",
+  "eh": "6a6b1d7be727",
+  "ko": "ENEMY-",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "109",
+  "id": "NO",
+  "jh": "a0509b778062",
+  "eh": "a0509b778062",
+  "ko": "NO",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "111",
+  "id": "ハッピーダン",
+  "jh": "8cf194a5ae2e",
+  "eh": "5502d75fd09f",
+  "ko": "해피단",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "113",
+  "id": "Push START button",
+  "jh": "e3f03aa0197c",
+  "eh": "e3f03aa0197c",
+  "ko": "아무 버튼이나 누르세요",
+  "status": "draft",
+  "note": ""
+ },
+ {
+  "k": "114",
+  "id": "バイブレーション機能",
+  "jh": "6fda01f76d5b",
+  "eh": "249a94113127",
+  "ko": "진동 기능",
+  "status": "draft",
+  "note": ""
+ }
+]
