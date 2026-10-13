@@ -1,0 +1,8 @@
+{
+  "_comment": "Hangul donor per Radical Dreamers font slot. scale: extra factor on top of unitsPerEm ratio; dy/dx in em; italic_deg shears donor outlines; advance scales the donor advance width.",
+  "fonts": {
+    "ENFONT":  {"donor": "nanummyeongjo/NanumMyeongjo-ExtraBold.ttf", "scale": 0.92, "dy": 0.0, "advance": 1.0},
+    "ENFONTI": {"donor": "nanummyeongjo/NanumMyeongjo-ExtraBold.ttf", "scale": 0.92, "dy": 0.0, "advance": 1.0, "italic_deg": 10},
+    "ENFONTN": {"donor": "nanummyeongjo/NanumMyeongjo-ExtraBold.ttf", "scale": 0.80, "dy": 0.0, "advance": 1.0}
+  }
+}

@@ -1,0 +1,30 @@
+# never commit game data or build products
+00_original/
+10_extracted/
+30_build/
+40_release/
+50_patch/
+90_test/
+CHRONO CROSS  THE RADICAL DREAMERS EDITION/
+DirectX & Must Install/
+*.dat
+*.DAT
+*.rom
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+*.xdelta
+*.png
+*.jpg
+__pycache__/
+*.pyc
+.claude/
+# working batches (already merged into 20_source/trans) and local agent hooks
+20_source/batches/
+tools/allow_hook.py
+tools/install_hook.py
+tools/install_automode.py
+20_source/fonts/nanummyeongjo/NanumMyeongjo-Bold.ttf
+20_source/fonts/nanummyeongjo/NanumMyeongjo-Regular.ttf
