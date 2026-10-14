@@ -1,8 +1,9 @@
-"""Product build for Chrono Cross: 00_original lang.dat + font.dat -> 30_build/data/lang.dat + font.dat
+"""Product build for Chrono Cross: 00_original lang.dat + font.dat + ui.dat -> 30_build/data/ (same names)
 
 - en.csv rows and the EN column of the tables are replaced by the sheets' Korean text (rows without ko keep English;
   --release refuses untranslated rows).
-- Every character used by the Korean text that a Latin font (gn, gn_italic, bn, ci, ch) lacks is rendered into it
+- Every character used by the Korean text that a Latin font (gn, gn_italic, bn, ci, ch; ui.dat's gnb for the ESC
+  menu) lacks is rendered into it
   (pixel small_*: NeoDunggeunmo, smooth: NanumSquareRound EB), see glyph_maker() and tools/ccfont.py; every font gets
   '?' as default character so a missing glyph can no longer crash the game.
 Checks (fail): source hashes (jh/eh), {} balance, tags must be known (seen in the row's EN/JP or in ALLOWED),
@@ -57,11 +58,21 @@ def check_msg(tag, ko, en, jp, errors):
         errors.append(f"{tag}: {n_ko} option lines vs EN {n_en}")
 
 
-def glyph_maker(name, neodgm, nanum):
+def glyph_maker(name, neodgm, nanum, nanum_r):
     """Korean glyph generator matching one game font (metrics scaled from the font's own 'A'), None = leave as is.
     small_* gn/bn/ci are pixel fonts (NeoDunggeunmo), everything else is smooth (NanumSquareRound EB)."""
     fam = name.split("_font_")[1].rsplit(".", 1)[0]
     italic = 10 if "italic" in fam or fam == "ci_70" else 0
+    # ui.dat (ESC menu, key bindings ...): ui_font_gnb = large gn at ~95%, ui_font_gnb_small = small gn
+    if fam == "gnb_small":
+        return SmallGlyphs(neodgm, top=19.5, advance=HANGUL_ADV_SMALL)
+    if fam == "gnb":
+        return LargeGlyphs(nanum, size=71, top=11, advance=70)
+    # the exe draws the ESC menu / key bindings (ui_configmenu.txt) with large kb_70 (Japanese, thin rounded gothic)
+    # whatever the language: Hangul centred on its kanji (漢: 97x99 at yoff 21) and a little larger, because the
+    # menu's Latin is large next to it; advance 90 (kanji 93 looks letter-spaced in Korean)
+    if name == "large_font_kb_70.spritefont":
+        return LargeGlyphs(nanum_r, size=92, top=22, advance=90, left=4)
     if name.startswith("small_") and fam in ("gn_70", "gn_italic_70", "bn_70", "ci_70"):
         top = {"gn_70": 19.5, "gn_italic_70": 19.5, "bn_70": 32.5, "ci_70": 23.5}[fam]
         return SmallGlyphs(neodgm, top=top, advance=HANGUL_ADV_SMALL, italic=italic)
@@ -173,30 +184,39 @@ def main():
 
     # fonts: add every used char each Latin font lacks. The game's fonts have no default character, so a missing
     # glyph throws inside SpriteFont and the game quits (e.g. the title menu uses ci_70) -> every font also gets '?'
-    # as default character. kb/kt (Japanese, textures already 16384 tall) only get the default character.
+    # as default character. large kb_70 gets Hangul too (ESC menu); the other
+    # Japanese fonts (kt, small kb) only get the default character.
     # U+3000 is laid out by the game itself (EN choice indents use it although gn has no glyph)
     need = sorted(c for c in used if ord(c) not in small.glyphs and not c.isspace())
     neodgm = str(FONTS_SRC / "neodgm" / "neodgm.ttf")
     nanum = str(FONTS_SRC / "nanumsquareround" / "NanumSquareRoundEB.ttf")
-    repl_font, missing = {}, set()
-    for name in sorted(n for n in zf.namelist() if n.endswith(".spritefont")):
-        sf = SpriteFont(zf.read(name))
-        g = glyph_maker(name, neodgm, nanum)
-        if g is not None:
-            items = []
-            for c in sorted(used):
-                if ord(c) in sf.glyphs or c.isspace():
-                    continue
-                r = g.make(c)
-                if r is None:
-                    missing.add(c)
-                    continue
-                items.append((ord(c),) + tuple(r))
-            if items:
-                sf.add(items)
-        if ord("?") in sf.glyphs:
-            sf.default = ord("?")
-        repl_font[name] = sf.dump()
+    nanum_r = str(FONTS_SRC / "nanumsquareround" / "NanumSquareRoundR.ttf")
+    missing = set()
+
+    def fonts_of(z):
+        repl = {}
+        for name in sorted(n for n in z.namelist() if n.endswith(".spritefont")):
+            sf = SpriteFont(z.read(name))
+            g = glyph_maker(name, neodgm, nanum, nanum_r)
+            if g is not None:
+                items = []
+                for c in sorted(used):
+                    if ord(c) in sf.glyphs or c.isspace():
+                        continue
+                    r = g.make(c)
+                    if r is None:
+                        missing.add(c)
+                        continue
+                    items.append((ord(c),) + tuple(r))
+                if items:
+                    sf.add(items)
+            if ord("?") in sf.glyphs:
+                sf.default = ord("?")
+            repl[name] = sf.dump()
+        return repl
+
+    repl_font = fonts_of(zf)
+    repl_ui = fonts_of(zipfile.ZipFile(ORIGINAL / "data" / "ui.dat"))  # ESC menu / key binding screens
     if missing:
         sys.exit("characters no font can render: " + " ".join(f"U+{ord(c):04X}" for c in sorted(missing)))
 
@@ -206,6 +226,8 @@ def main():
     (out / "lang.dat").write_bytes(data)
     data, _ = ziputil.rebuild((ORIGINAL / "data" / "font.dat").read_bytes(), repl_font, deflate=True)
     (out / "font.dat").write_bytes(data)
+    data, _ = ziputil.rebuild((ORIGINAL / "data" / "ui.dat").read_bytes(), repl_ui, deflate=True)
+    (out / "ui.dat").write_bytes(data)
     if warns:
         (BUILD / "cc_width_warnings.txt").write_text("\n".join(warns), encoding="utf-8")
     print(f"translated {done}/{done + todo} rows, {len(need)} new glyphs, {len(warns)} width warnings -> {out}")

@@ -8,7 +8,7 @@ Never steals focus: keys/clicks are posted to the game window (PostMessage), scr
   gamectl.ps1 fkey <key> [count]        REAL key press: game window to front, keybd_event, previous window restored (steals focus briefly)
   gamectl.ps1 click <x,y>               post a left click at 1280x720-reference client coordinates
   gamectl.ps1 status                    list game processes and window titles
-  gamectl.ps1 seq "op:arg;wait:s;..."   run several steps in one invocation
+  gamectl.ps1 seq "op:arg;wait:s;..."   run several steps in one invocation (keep:1 = set GAMECTL_KEEP for the steps after it)
 Keys: up down left right enter esc space z x c a s q w d e f r v backspace tab f1..f12
 #>
 param([string]$cmd = "status", [string]$arg1 = "", [int]$count = 1, [int]$holdMs = 60, [int]$gapMs = 250)
@@ -67,6 +67,7 @@ if ($cmd -eq "seq") {
     $s = $step.Trim(); if (-not $s) { continue }
     $op, $val = $s.Split(":", 2)
     if ($op -eq "wait") { Start-Sleep -Milliseconds ([int]([double]$val * 1000)); continue }
+    if ($op -eq "keep") { $env:GAMECTL_KEEP = $val; continue }   # keep:1 = leave the game in front after fkey
     $n = 1
     if ($val -and $val.Contains("*")) { $val, $nn = $val.Split("*"); $n = [int]$nn }
     & $PSCommandPath $op $val $n

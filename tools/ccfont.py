@@ -145,9 +145,9 @@ class SmallGlyphs:
 class LargeGlyphs:
     """Smooth glyphs (NanumSquareRound) with outline + shadow like the game's large_* fonts."""
 
-    def __init__(self, path, size=74, top=10.0, outline=5.0, shadow=5, advance=None, italic=0.0, ss=4):
+    def __init__(self, path, size=74, top=10.0, outline=5.0, shadow=5, advance=None, italic=0.0, ss=4, left=0.0):
         self.font = ImageFont.truetype(path, size * ss)
-        self.size, self.top, self.outline, self.shadow = size, top, outline, shadow
+        self.size, self.top, self.outline, self.shadow, self.left = size, top, outline, shadow, left
         self.advance, self.italic, self.ss = advance, italic, ss
         asc, desc = self.font.getmetrics()
         self.asc = asc / ss
@@ -171,8 +171,7 @@ class LargeGlyphs:
             F, O, S = (_shear(m, self.italic) for m in (F, O, S))
         img = pack_layers(F, O, S)
         origin = size // 4
-        xoff = (x0 - origin) - (-self.outline) + 0.0
-        xoff = float(x0 - origin) + 4.0
+        xoff = float(x0 - origin) + 4.0 + self.left
         yoff = self.top + float(y0 - origin)
         adv = self.advance if self.advance is not None else size + 2
         xadv = adv - xoff - img.shape[1]

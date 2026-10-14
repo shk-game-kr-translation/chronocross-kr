@@ -9,7 +9,7 @@ import zipfile
 
 from paths import BUILD, FONTS_SRC, PATCH_KIT, RD_DAT, RELEASE
 
-DATA = ["lang.dat", "font.dat", RD_DAT]
+DATA = ["lang.dat", "font.dat", "ui.dat", RD_DAT]
 
 
 def main():
@@ -22,6 +22,9 @@ def main():
         z.writestr(f"{top}/설치방법.txt", "﻿" + readme.replace("\n", "\r\n"))
         z.write(FONTS_SRC / "neodgm" / "LICENSE.txt", f"{top}/LICENSE_neodgm.txt")
         z.write(FONTS_SRC / "nanummyeongjo" / "OFL.txt", f"{top}/OFL_Nanum.txt")
+        missing = [n for n in DATA if not (BUILD / "data" / n).exists()]
+        if missing:
+            sys.exit(f"not built: {missing}")
         for name in DATA:
             z.write(BUILD / "data" / name, f"{top}/data/{name}", compress_type=zipfile.ZIP_STORED)  # already zips
     print(f"{out} {out.stat().st_size} bytes sha256={hashlib.sha256(out.read_bytes()).hexdigest()}")
