@@ -6,20 +6,22 @@ Steam PC판 「CHRONO CROSS: THE RADICAL DREAMERS EDITION」 비공식 한글 �
 |---|---|
 | v0.1.0 | 수록작 「래디컬 드리머즈 -훔칠 수 없는 보석-」 본문 전체 |
 | v0.1.1 | 크로노 크로스 본편 대사·메뉴·아이템·기술·몬스터·전투 이벤트 전체 (15,181행, 게임 내 검수 중) |
+| v0.1.2 | 본편 타이틀 메뉴 튕김 수정, 주인공 이름 일본어판 기준(세르주·키드·알프), 래디컬 드리머즈 검수 반영 |
 
 > 이 저장소에는 **게임 데이터가 들어 있지 않습니다.** 실행 파일·데이터 파일·원문 대본·이미지·원본 글꼴은 포함하지 않으며,
 > 패치는 사용자의 정품 게임 파일에서 원문을 읽어 한국어 문장과 조합합니다.
 
 ## 설치 방법 (일반 사용자)
 
-### v0.1.1 (본편 + 래디컬 드리머즈) — 파일 덮어쓰기
+### v0.1.2 (본편 + 래디컬 드리머즈) — 파일 덮어쓰기
+0. [Releases](../../releases) 에서 최신 `CCRDE_KR_v<버전>_overwrite.zip` 을 받습니다.
 1. 게임을 완전히 종료하고 게임 폴더(`CHRONOCROSS.exe` 가 있는 곳)를 엽니다.
 2. (권장) `data` 폴더의 `lang.dat`, `font.dat`, `radicaldreamers.dat` 를 다른 곳에 백업합니다.
 3. 패치 압축을 풀고 안의 `data` 폴더를 게임 폴더에 덮어씁니다.
 4. 게임 언어를 **English** 로 둔 채 실행합니다.
 
 되돌리기: 백업한 파일을 다시 덮어쓰거나 Steam 의 "게임 파일 무결성 확인".
-덮어쓰기판은 게임 데이터 파일 전체를 담고 있으므로 이 저장소의 Releases 에는 올리지 않습니다.
+세이브 데이터는 바꾸지 않습니다. 다만 패치를 지울 계획이면 세이브를 따로 백업해 두는 것을 권합니다.
 
 ### v0.1.0 (래디컬 드리머즈) — 패처
 
@@ -70,12 +72,13 @@ py -X utf8 tools/build_rd.py --release  # 검증 + 30_build/data/radicaldreamers
 py -X utf8 tools/make_patch.py        # 배포 레시피 50_patch/patch/rd.ops + rd.bin
 py -X utf8 tools/release.py 0.1.0     # 40_release/CCRDE_KR_v0.1.0.zip
 ```
-본편(v0.1.1):
+본편(v0.1.1~):
 ```
 py -X utf8 tools/export_cc.py              # 최초 1회: lang.dat → 20_source/trans/cc 시트 (해시만)
 py -X utf8 tools/build_cc.py --release     # 검증 + 30_build/data/lang.dat, font.dat (한글 글리프 추가)
-py -X utf8 tools/pack_overwrite.py 0.1.1   # 40_release/CCRDE_KR_v0.1.1_overwrite.zip (덮어쓰기판, 비공개 배포용)
-py -X utf8 tools/make_review.py 0.1.1      # 40_release/CCRDE_KR_v0.1.1_review.html (원문 대조 검수 페이지)
+py -X utf8 tools/pack_overwrite.py 0.1.2   # 40_release/CCRDE_KR_v0.1.2_overwrite.zip (덮어쓰기판, Releases 첨부용)
+py -X utf8 tools/make_review.py 0.1.2      # 40_release/CCRDE_KR_v0.1.2_review.html (원문 대조·편집 검수 페이지)
+py -X utf8 tools/apply_review.py <내보낸.json>  # 검수 페이지에서 내보낸 수정을 시트에 반영
 ```
 게임 폴더 위치는 `tools/paths.py` 의 `GAME` 에서 바꿉니다. `tools/install.py` 는 빌드 결과를 게임 폴더에 바로 넣습니다
 (`install.py restore` 로 원본 복구).

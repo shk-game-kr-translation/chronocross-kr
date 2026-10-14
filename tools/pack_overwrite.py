@@ -1,8 +1,7 @@
 """Overwrite package: the built data files in a zip that users just copy over the game folder (no patcher).
 
   pack_overwrite.py <version>     -> 40_release/CCRDE_KR_v<version>_overwrite.zip
-Run after build_rd.py --release and build_cc.py --release. The zip contains whole game data files, so it is for
-private distribution only (never commit it or attach it to the public GitHub release).
+Run after build_rd.py --release and build_cc.py --release. Attach the zip to the GitHub release (never commit it).
 """
 import hashlib
 import sys

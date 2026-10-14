@@ -481,8 +481,8 @@
   "addr": "0x00A541",
   "jh": "40a2c4376246",
   "eh": "6c9c3cfa2ead",
-  "ko": "  • 앞으로 가서 대연회장으로.\n",
-  "status": "draft",
+  "ko": "  • 앞으로 가서 연회장으로.\n",
+  "status": "reviewed",
   "note": ""
  },
  {
@@ -580,8 +580,8 @@
   "addr": "0x00A70B",
   "jh": "be4d4e85617d",
   "eh": "14ee448e15e8",
-  "ko": "  여기는 대연회장이다.\n",
-  "status": "draft",
+  "ko": "  여기는 연회장이다.\n",
+  "status": "reviewed",
   "note": ""
  },
  {
@@ -2191,8 +2191,8 @@
   "addr": "0x00C0A5",
   "jh": "8ddcfad1ab13",
   "eh": "40c2c77a76df",
-  "ko": "  • 왼쪽 통로로 가서 대연회장으로.\n",
-  "status": "draft",
+  "ko": "  • 왼쪽 통로로 가서 연회장으로.\n",
+  "status": "reviewed",
   "note": ""
  },
  {

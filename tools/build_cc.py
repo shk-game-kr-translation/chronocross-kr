@@ -2,8 +2,9 @@
 
 - en.csv rows and the EN column of the tables are replaced by the sheets' Korean text (rows without ko keep English;
   --release refuses untranslated rows).
-- Every character used by the Korean text that the gn fonts lack is rendered into small/large gn and gn_italic
-  (small: NeoDunggeunmo pixel glyphs, large: NanumSquareRound EB), see tools/ccfont.py.
+- Every character used by the Korean text that a Latin font (gn, gn_italic, bn, ci, ch) lacks is rendered into it
+  (pixel small_*: NeoDunggeunmo, smooth: NanumSquareRound EB), see glyph_maker() and tools/ccfont.py; every font gets
+  '?' as default character so a missing glyph can no longer crash the game.
 Checks (fail): source hashes (jh/eh), {} balance, tags must be known (seen in the row's EN/JP or in ALLOWED),
 the message must end with the same terminator tags as EN, choice rows keep EN's option count.
 Report (warn): lines wider than the widest EN line of the same row (pixel width with the small gn font).
@@ -23,7 +24,6 @@ TAG = re.compile(r"\{[^{}]*\}")
 ALLOWED = re.compile(r"\{(wait|speed|color|wend|fwait|fset)\(\d+\)\}|\{(bpage|bwait|mend)\}|\{[A-Z0-9]+%\d?\}")
 END = re.compile(r"(\{[^{}]*\})+$")
 OPTION = "　　　"
-FONTS = ["gn_70", "gn_italic_70"]
 HANGUL_ADV_SMALL, HANGUL_ADV_LARGE = 74, 72
 
 
@@ -55,6 +55,23 @@ def check_msg(tag, ko, en, jp, errors):
     n_ko = sum(1 for l in lines_ko if TAG.sub("", l).startswith(OPTION))
     if n_en >= 2 and n_en != n_ko:  # a single indented line (e.g. a tombstone) is layout, not a choice
         errors.append(f"{tag}: {n_ko} option lines vs EN {n_en}")
+
+
+def glyph_maker(name, neodgm, nanum):
+    """Korean glyph generator matching one game font (metrics scaled from the font's own 'A'), None = leave as is.
+    small_* gn/bn/ci are pixel fonts (NeoDunggeunmo), everything else is smooth (NanumSquareRound EB)."""
+    fam = name.split("_font_")[1].rsplit(".", 1)[0]
+    italic = 10 if "italic" in fam or fam == "ci_70" else 0
+    if name.startswith("small_") and fam in ("gn_70", "gn_italic_70", "bn_70", "ci_70"):
+        top = {"gn_70": 19.5, "gn_italic_70": 19.5, "bn_70": 32.5, "ci_70": 23.5}[fam]
+        return SmallGlyphs(neodgm, top=top, advance=HANGUL_ADV_SMALL, italic=italic)
+    # size (px), top, advance per family: gn is the reference (A: 87 px tall, yoff 13)
+    smooth = {"gn_70": (74, 10, HANGUL_ADV_LARGE), "gn_italic_70": (74, 10, HANGUL_ADV_LARGE),
+              "bn_70": (66, 17, 64), "ci_70": (69, 15, 66), "ch_100": (78, 21, 76)}
+    if fam not in smooth:
+        return None
+    size, top, adv = smooth[fam]
+    return LargeGlyphs(nanum, size=size, top=top, advance=adv, italic=italic)
 
 
 def width(sf, line, hangul_adv):
@@ -154,29 +171,32 @@ def main():
         print("\n".join(errors[:80]))
         sys.exit(f"BUILD FAILED: {len(errors)} errors")
 
-    # fonts: add every used char the gn font lacks
+    # fonts: add every used char each Latin font lacks. The game's fonts have no default character, so a missing
+    # glyph throws inside SpriteFont and the game quits (e.g. the title menu uses ci_70) -> every font also gets '?'
+    # as default character. kb/kt (Japanese, textures already 16384 tall) only get the default character.
     # U+3000 is laid out by the game itself (EN choice indents use it although gn has no glyph)
     need = sorted(c for c in used if ord(c) not in small.glyphs and not c.isspace())
-    gens = {
-        "small": lambda it: SmallGlyphs(str(FONTS_SRC / "neodgm" / "neodgm.ttf"), advance=HANGUL_ADV_SMALL, italic=it),
-        "large": lambda it: LargeGlyphs(str(FONTS_SRC / "nanumsquareround" / "NanumSquareRoundEB.ttf"),
-                                        advance=HANGUL_ADV_LARGE, italic=it),
-    }
+    neodgm = str(FONTS_SRC / "neodgm" / "neodgm.ttf")
+    nanum = str(FONTS_SRC / "nanumsquareround" / "NanumSquareRoundEB.ttf")
     repl_font, missing = {}, set()
-    for size in ("small", "large"):
-        for fam in FONTS:
-            name = f"{size}_font_{fam}.spritefont"
-            sf = SpriteFont(zf.read(name))
-            g = gens[size](10 if "italic" in fam else 0)
+    for name in sorted(n for n in zf.namelist() if n.endswith(".spritefont")):
+        sf = SpriteFont(zf.read(name))
+        g = glyph_maker(name, neodgm, nanum)
+        if g is not None:
             items = []
-            for c in need:
+            for c in sorted(used):
+                if ord(c) in sf.glyphs or c.isspace():
+                    continue
                 r = g.make(c)
                 if r is None:
                     missing.add(c)
                     continue
                 items.append((ord(c),) + tuple(r))
-            sf.add(items)
-            repl_font[name] = sf.dump()
+            if items:
+                sf.add(items)
+        if ord("?") in sf.glyphs:
+            sf.default = ord("?")
+        repl_font[name] = sf.dump()
     if missing:
         sys.exit("characters no font can render: " + " ".join(f"U+{ord(c):04X}" for c in sorted(missing)))
 

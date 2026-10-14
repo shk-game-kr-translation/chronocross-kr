@@ -42,21 +42,27 @@ class SpriteFont:
         return b"".join(out)
 
     def add(self, items, pad=1):
-        """items: [(ch, layers uint16 array, xoff, yoff, xadv)] -> appended in shelf rows below the texture."""
-        h, w = self.tex.shape
-        rows, x, y, rowh = [], 0, h + pad, 0
-        place = []
-        for ch, img, xo, yo, xa in items:
-            gh, gw = img.shape
-            if x + gw + pad > w:
-                x, y, rowh = 0, y + rowh + pad, 0
-            place.append((ch, img, x, y, xo, yo, xa))
-            x += gw + pad
-            rowh = max(rowh, gh)
-        newh = y + rowh + pad
-        assert newh <= 16384, f"texture too tall ({newh}); widen it"
+        """items: [(ch, layers uint16 array, xoff, yoff, xadv)] -> appended in shelf rows below the texture.
+        The texture is widened (old content stays top-left) when the shelves would exceed 16384 rows."""
+        h, w0 = self.tex.shape
+        w = w0
+        while True:
+            x, y, rowh = 0, h + pad, 0
+            place = []
+            for ch, img, xo, yo, xa in items:
+                gh, gw = img.shape
+                if x + gw + pad > w:
+                    x, y, rowh = 0, y + rowh + pad, 0
+                place.append((ch, img, x, y, xo, yo, xa))
+                x += gw + pad
+                rowh = max(rowh, gh)
+            newh = y + rowh + pad
+            if newh <= 16384:
+                break
+            assert w < 16384, f"texture too tall ({newh}) even at width {w}"
+            w *= 2
         tex = np.zeros((newh, w), dtype=np.uint16)
-        tex[:h] = self.tex
+        tex[:h, :w0] = self.tex
         for ch, img, x, y, xo, yo, xa in place:
             gh, gw = img.shape
             tex[y:y + gh, x:x + gw] = img

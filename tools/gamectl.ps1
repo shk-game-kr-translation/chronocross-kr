@@ -38,6 +38,9 @@ public static class W {
   [DllImport("user32.dll")] public static extern bool SetForegroundWindow(IntPtr h);
   [DllImport("user32.dll")] public static extern bool ShowWindow(IntPtr h, int cmd);
   [DllImport("user32.dll")] public static extern void keybd_event(byte vk, byte scan, uint flags, UIntPtr extra);
+  [DllImport("user32.dll")] public static extern void mouse_event(uint flags, int dx, int dy, uint data, UIntPtr extra);
+  [DllImport("user32.dll")] public static extern bool SetCursorPos(int x, int y);
+  [DllImport("user32.dll")] public static extern bool GetCursorPos(out POINT p);
 }
 "@
 
@@ -132,6 +135,27 @@ switch ($cmd) {
     Start-Sleep -Milliseconds 60
     [W]::PostMessage($h0, 0x0202, [IntPtr]::Zero, $lp) | Out-Null   # WM_LBUTTONUP
     Write-Output "posted click $x,$y to $($p.Name)"
+  }
+  "fclick" {
+    # REAL click: window to front, cursor moved there and back (steals focus; only when the user asked for a run)
+    $p = Get-GameWindow
+    if (-not $p) { throw "no game window" }
+    $h0 = $p.MainWindowHandle
+    $xy = $arg1.Split(",")
+    $r = New-Object W+RECT; [W]::GetClientRect($h0, [ref]$r) | Out-Null
+    $pt = New-Object W+POINT
+    $pt.X = [int]([double]$xy[0] * ($r.R - $r.L) / 1280); $pt.Y = [int]([double]$xy[1] * ($r.B - $r.T) / 720)
+    [W]::ClientToScreen($h0, [ref]$pt) | Out-Null
+    $old = New-Object W+POINT; [W]::GetCursorPos([ref]$old) | Out-Null
+    [W]::keybd_event(0x12, 0, 0, [UIntPtr]::Zero); [W]::keybd_event(0x12, 0, 2, [UIntPtr]::Zero)
+    [W]::SetForegroundWindow($h0) | Out-Null
+    Start-Sleep -Milliseconds 200
+    [W]::SetCursorPos($pt.X, $pt.Y) | Out-Null
+    Start-Sleep -Milliseconds 150
+    [W]::mouse_event(2, 0, 0, 0, [UIntPtr]::Zero); Start-Sleep -Milliseconds 80; [W]::mouse_event(4, 0, 0, 0, [UIntPtr]::Zero)
+    Start-Sleep -Milliseconds 150
+    [W]::SetCursorPos($old.X, $old.Y) | Out-Null
+    Write-Output "clicked $($pt.X),$($pt.Y) on $($p.Name)"
   }
   "fkey" {
     $p = Get-GameWindow
