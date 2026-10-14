@@ -5,6 +5,7 @@
 - ENFONT/ENFONTI/ENFONTN.DAT are replaced with 30_build/rd/fonts/*.DAT (tools/build_rdfont.py).
 Checks (fail the build): source dat hash, translate.txt round trip, row/addr alignment with sheets,
 [NAME] token count, {} balance, trailing newline shape, every character present in ENFONT cmap.
+Sheets keep [NAME]; the build writes it as the fixed Korean hero name HERO.
 """
 import hashlib
 import json
@@ -18,6 +19,7 @@ from paths import BUILD, ORIGINAL, RD_DAT, TRANS_RD
 import rdtext
 
 FONTS = ["ENFONT", "ENFONTI", "ENFONTN"]
+HERO = "세르쥬"
 
 
 def load_sheets():
@@ -36,7 +38,7 @@ def check_row(r, en, jp, ko, cmap, errors):
         errors.append(f"{tag}: unbalanced braces")
     if en.endswith("\n") != ko.endswith("\n"):
         errors.append(f"{tag}: trailing newline differs from EN")
-    for ch in set(re.sub(r"\[NAME\]", "", ko)):
+    for ch in set(re.sub(r"\[NAME\]", HERO, ko)):
         # chars the original EN row already uses (e.g. the ★ chapter marker) are handled by the game itself
         if ch not in "\n" and ord(ch) not in cmap and ch not in en:
             errors.append(f"{tag}: U+{ord(ch):04X} {ch!r} missing from ENFONT")
@@ -71,7 +73,9 @@ def main():
             todo += 1
             continue
         check_row(s, en, jp, ko, cmap, errors)
-        row["text"]["EN"] = ko
+        # the exe fills [NAME] with its built-in English default "Serge" (not in any data file), so the
+        # hero name is fixed in Korean; a custom name typed at the name entry is not shown (user decision)
+        row["text"]["EN"] = ko.replace("[NAME]", HERO)
         row["quoted"][1] = True
         done += 1
     if release and todo:
