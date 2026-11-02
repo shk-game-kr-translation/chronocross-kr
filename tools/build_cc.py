@@ -26,6 +26,23 @@ ALLOWED = re.compile(r"\{(wait|speed|color|wend|fwait|fset)\(\d+\)\}|\{(bpage|bw
 END = re.compile(r"(\{[^{}]*\})+$")
 OPTION = "　　　"
 HANGUL_ADV_SMALL, HANGUL_ADV_LARGE = 74, 72
+# Latin punctuation is seated for Latin neighbours (ink far right, narrow advance), so next to Hangul it hits the
+# following syllable; visible gaps (left, right) in px towards the neighbouring Hangul
+PUNCT_GAPS = {"“": (8, 6), "‘": (8, 6), "”": (6, 8), "’": (6, 8), "·": (10, 10), "/": (6, 6)}
+HANGUL_REF = "전"
+
+
+def plain_hero_names(raw):
+    """mesgen_en.csv rewrites {SERGE%} per speaker for English accents (Poshul "...poo", Turnip "Sir ...", Skelly
+    "Mister S_"). Korean text writes its own forms of address, so every speaker gets the bare name."""
+    out = []
+    for line in raw.decode("utf-8").split("\n"):
+        f = line.split(",")
+        if f[0] in ("{SERGE}", "{SERGE%}"):
+            f[1:] = ["SERGE%" if ("SERGE" in x or "S_%" in x) else x for x in f[1:]]
+            line = ",".join(f)
+        out.append(line)
+    return "\n".join(out).encode("utf-8")
 
 
 def load_sheets():
@@ -141,7 +158,7 @@ def main():
         if k in ko_msg:
             row["f"] = row["f"][:2] + [ko_msg[k]]
             row["q"] = row["q"][:3]
-    repl_lang = {"en.csv": cctext.dump(en_doc)}
+    repl_lang = {"en.csv": cctext.dump(en_doc), "mesgen_en.csv": plain_hero_names(zl.read("mesgen_en.csv"))}
     if ko_btel:
         bt_doc = cctext.parse(zl.read("btel_en.csv"), header=False, quoting=False)
         for row in bt_doc["rows"]:
@@ -210,6 +227,10 @@ def main():
                     items.append((ord(c),) + tuple(r))
                 if items:
                     sf.add(items)
+                if ord(HANGUL_REF) in sf.glyphs and "_kb_" not in name:
+                    for c, (left, right) in PUNCT_GAPS.items():
+                        if ord(c) in sf.glyphs:
+                            sf.respace(c, left, right, HANGUL_REF)
             if ord("?") in sf.glyphs:
                 sf.default = ord("?")
             repl[name] = sf.dump()

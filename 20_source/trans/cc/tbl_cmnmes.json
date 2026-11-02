@@ -22,7 +22,7 @@
   "id": "Elements",
   "jh": "a563972e807d",
   "eh": "a563972e807d",
-  "ko": "엘레멘트",
+  "ko": "엘리멘탈",
   "status": "draft",
   "note": ""
  },
@@ -31,7 +31,7 @@
   "id": "Element Level",
   "jh": "a90f3f3e8661",
   "eh": "a90f3f3e8661",
-  "ko": "엘레멘트 레벨",
+  "ko": "엘리멘탈 레벨",
   "status": "draft",
   "note": ""
  },
@@ -517,7 +517,7 @@
   "id": "エレメント",
   "jh": "cb48ea5fba97",
   "eh": "49fa9fd83109",
-  "ko": "엘레멘트",
+  "ko": "엘리멘탈",
   "status": "draft",
   "note": ""
  },
@@ -544,8 +544,8 @@
   "id": "弱－(　　％)",
   "jh": "da39a3ee5e6b",
   "eh": "9efe75c4aa3c",
-  "ko": "1 - (       %)",
-  "status": "draft",
+  "ko": "약- (       %)",
+  "status": "reviewed",
   "note": ""
  },
  {
@@ -553,8 +553,8 @@
   "id": "中－(　　％)",
   "jh": "da39a3ee5e6b",
   "eh": "857402c1c6d5",
-  "ko": "2 - (       %)",
-  "status": "draft",
+  "ko": "중- (       %)",
+  "status": "reviewed",
   "note": ""
  },
  {
@@ -562,8 +562,8 @@
   "id": "強－(　　％)",
   "jh": "da39a3ee5e6b",
   "eh": "dcfa6682c6f1",
-  "ko": "3 - (       %)",
-  "status": "draft",
+  "ko": "강- (       %)",
+  "status": "reviewed",
   "note": ""
  },
  {

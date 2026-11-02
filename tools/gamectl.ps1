@@ -59,7 +59,7 @@ function Fake-Activate($h) {
 }
 
 $vk = @{ up = 0x26; down = 0x28; left = 0x25; right = 0x27; enter = 0x0D; esc = 0x1B; space = 0x20; backspace = 0x08; tab = 0x09
-  z = 0x5A; x = 0x58; c = 0x43; a = 0x41; s = 0x53; q = 0x51; w = 0x57; d = 0x44; e = 0x45; f = 0x46; v = 0x56; r = 0x52
+  z = 0x5A; x = 0x58; c = 0x43; a = 0x41; s = 0x53; q = 0x51; w = 0x57; d = 0x44; e = 0x45; f = 0x46; v = 0x56; r = 0x52; i = 0x49; k = 0x4B
   shift = 0x10; f1 = 0x70; f2 = 0x71; f3 = 0x72; f4 = 0x73; f5 = 0x74; f6 = 0x75; f7 = 0x76; f8 = 0x77; f9 = 0x78; f10 = 0x79; f11 = 0x7A; f12 = 0x7B }
 
 if ($cmd -eq "seq") {
@@ -151,6 +151,8 @@ switch ($cmd) {
     [W]::keybd_event(0x12, 0, 0, [UIntPtr]::Zero); [W]::keybd_event(0x12, 0, 2, [UIntPtr]::Zero)
     [W]::SetForegroundWindow($h0) | Out-Null
     Start-Sleep -Milliseconds 200
+    # never click into whatever window the user has in front
+    if ([W]::GetForegroundWindow() -ne $h0) { throw "game window did not come to the front; click not sent" }
     [W]::SetCursorPos($pt.X, $pt.Y) | Out-Null
     Start-Sleep -Milliseconds 150
     [W]::mouse_event(2, 0, 0, 0, [UIntPtr]::Zero); Start-Sleep -Milliseconds 80; [W]::mouse_event(4, 0, 0, 0, [UIntPtr]::Zero)
@@ -170,6 +172,8 @@ switch ($cmd) {
     if ([W]::IsIconic($h0)) { [W]::ShowWindow($h0, 9) | Out-Null; Start-Sleep -Milliseconds 500 }
     [W]::SetForegroundWindow($h0) | Out-Null
     Start-Sleep -Milliseconds 150
+    # never type into whatever window the user has in front
+    if ([W]::GetForegroundWindow() -ne $h0) { throw "game window did not come to the front; keys not sent" }
     for ($i = 0; $i -lt $count; $i++) {
       [W]::keybd_event($code, $scan, $ext, [UIntPtr]::Zero)
       Start-Sleep -Milliseconds $holdMs

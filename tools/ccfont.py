@@ -69,6 +69,25 @@ class SpriteFont:
             self.glyphs[ch] = [x, y, x + gw, y + gh, xo, yo, xa]
         self.tex = tex
 
+    def fill_span(self, ch):
+        """left/right edge of the glyph's fill (no outline/shadow) inside its box."""
+        l, t, r, b = self.glyphs[ord(ch)][:4]
+        xs = np.nonzero(((self.tex[t:b, l:r] >> 8) & 15).any(axis=0))[0]
+        return int(xs[0]), int(xs[-1]) + 1
+
+    def respace(self, ch, gap_left, gap_right, ref):
+        """Re-seat a punctuation glyph between Hangul: gap_* = visible px to the neighbouring ref-like glyph."""
+        rl, rr = self.fill_span(ref)
+        g = self.glyphs[ord(ref)]
+        adv_ref = g[4] + (g[2] - g[0]) + g[6]
+        ref_left, ref_right = g[4] + rl, adv_ref - (g[4] + rr)
+        fl, fr = self.fill_span(ch)
+        w = self.glyphs[ord(ch)][2] - self.glyphs[ord(ch)][0]
+        xoff = gap_left - ref_right - fl
+        adv = xoff + fr + gap_right - ref_left
+        self.glyphs[ord(ch)][4] = float(xoff)
+        self.glyphs[ord(ch)][6] = float(adv - xoff - w)
+
 
 def pack_layers(fill, outline, shadow):
     """float masks 0..1 (same shape) -> B4G4R4A4 uint16."""
