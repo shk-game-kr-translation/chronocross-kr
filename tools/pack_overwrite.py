@@ -22,6 +22,11 @@ def main():
         z.writestr(f"{top}/설치방법.txt", "﻿" + readme.replace("\n", "\r\n"))
         z.write(FONTS_SRC / "neodgm" / "LICENSE.txt", f"{top}/LICENSE_neodgm.txt")
         z.write(FONTS_SRC / "nanummyeongjo" / "OFL.txt", f"{top}/OFL_Nanum.txt")
+        for p in sorted((PATCH_KIT / "opencross").iterdir()):  # optional OpenCross patcher (tools/gen_ocpatch.py)
+            data = p.read_bytes()
+            if p.suffix == ".txt":
+                data = ("\ufeff" + data.decode("utf-8").replace("{ver}", ver).replace("\n", "\r\n")).encode("utf-8")
+            z.writestr(f"{top}/OpenCross용/{p.name}", data)
         missing = [n for n in DATA if not (BUILD / "data" / n).exists()]
         if missing:
             sys.exit(f"not built: {missing}")

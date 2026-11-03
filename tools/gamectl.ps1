@@ -1,4 +1,4 @@
-<#
+﻿<#
 Runtime control for CHRONO CROSS: THE RADICAL DREAMERS EDITION (test install).
 Never steals focus: keys/clicks are posted to the game window (PostMessage), screenshots use PrintWindow.
   gamectl.ps1 start [launcher|rd|cc]   start the launcher or an exe directly (starts minimized-to-background is not possible; it opens once)
@@ -17,7 +17,7 @@ $ErrorActionPreference = "Stop"
 $root = Split-Path -Parent $PSScriptRoot
 $game = Join-Path $root "CHRONO CROSS  THE RADICAL DREAMERS EDITION"
 $shots = Join-Path $root "90_test\shots"
-$procs = "CHRONOCROSS_LAUNCHER", "CHRONOCROSS", "RADICALDREAMERS"
+$procs = "CHRONOCROSS_LAUNCHER", "CHRONOCROSS", "RADICALDREAMERS", "opencross"
 
 Add-Type -AssemblyName System.Drawing
 Add-Type @"
@@ -45,7 +45,7 @@ public static class W {
 "@
 
 function Get-GameWindow {
-  foreach ($n in "RADICALDREAMERS", "CHRONOCROSS", "CHRONOCROSS_LAUNCHER") {
+  foreach ($n in "opencross", "RADICALDREAMERS", "CHRONOCROSS", "CHRONOCROSS_LAUNCHER") {
     $p = Get-Process -Name $n -ErrorAction SilentlyContinue | Where-Object { $_.MainWindowHandle -ne 0 } | Select-Object -First 1
     if ($p) { return $p }
   }
@@ -70,6 +70,7 @@ if ($cmd -eq "seq") {
     if ($op -eq "keep") { $env:GAMECTL_KEEP = $val; continue }   # keep:1 = leave the game in front after fkey
     $n = 1
     if ($val -and $val.Contains("*")) { $val, $nn = $val.Split("*"); $n = [int]$nn }
+    if ($op -eq "hold") { & $PSCommandPath fkey $val 1 $n; continue }   # hold:down*1500 = key down for 1500 ms
     & $PSCommandPath $op $val $n
   }
   return
